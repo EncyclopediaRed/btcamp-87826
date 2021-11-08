@@ -41,9 +41,10 @@ sections:
           name: Iama lost
           location: 'Colorado, USA'
         text: >-
-          I didn't know the Snipcart guys were into herbs as well! How beautiful
-          is that Planty theme. I'm going to launch a killer JAMstack e-commerce
-          store using this for sure.
+          The Büt Camp system saved my bacon when I followed a bear off the main
+          trail and got lost. It took days to find me, and I only packed for day
+          hike. I "bearly" made it out. But Büt Camp kept me sheltered until the
+          rescue squad found me.
       - author:
           name: Major Payne
           location: 'VA, USA'
