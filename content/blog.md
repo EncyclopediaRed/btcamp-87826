@@ -28,7 +28,7 @@ sections:
           any bugs, open an issue, and we’ll fire our junior dev. Just kidding
           Michael, you’re good.
         image: images/nan_talk.jpg
-      - title: We think plants are the future
+      - title: 'Blog Post #2'
         description: >-
           Word. But good **code** _can_ solve a lots of problems, too. New _and_
           old. That’s why we help beginners get started with web development
