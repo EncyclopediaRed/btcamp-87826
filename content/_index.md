@@ -48,9 +48,7 @@ sections:
       - author:
           name: Major Payne
           location: 'VA, USA'
-        text: >-
-          Oh lord there's a fire. And it was windy and stormy. The fire
-          department fought the flames
+        text: When the apoloclypse comes
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
