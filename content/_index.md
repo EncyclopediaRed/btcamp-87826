@@ -49,8 +49,8 @@ sections:
           name: Major Payne
           location: 'VA, USA'
         text: >-
-          Well I'll be d*mned. These plants really ARE greener than any of my
-          recruits.
+          Oh lord there's a fire. And it was windy and stormy. The fire
+          department fought the flames
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
