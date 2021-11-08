@@ -46,7 +46,7 @@ sections:
           hike. I "bearly" made it out. But Büt Camp kept me sheltered until the
           rescue squad found me.
       - author:
-          name: Major Payne
+          name: J. Takethewheel
           location: 'VA, USA'
         text: >-
           I'm not ready to be raptured yet. So when the apocalypse comes, I've
