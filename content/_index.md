@@ -48,11 +48,7 @@ sections:
       - author:
           name: J. Takethewheel
           location: 'VA, USA'
-        text: >-
-          I'm not ready to be raptured yet. So when the apocalypse comes, I've
-          got several Büt Camp emergency shelters. I love that they're
-          environmentally friendly. Can't start a new world without helping out
-          mother nature.apocalypse
+        text: "I'm not ready to be raptured yet. So when the apocalypse comes, I've got several Büt Camp emergency shelters. I love that they're environmentally friendly. Can't start a new world without helping out mother nature.\_ Armageddon too old not to have a shelter."
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
