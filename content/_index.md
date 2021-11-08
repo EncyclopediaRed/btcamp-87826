@@ -46,7 +46,7 @@ sections:
           hike. I "bearly" made it out. But Büt Camp kept me sheltered until the
           rescue squad found me.
       - author:
-          name: J. Takethewheel
+          name: Ella Vader
           location: 'VA, USA'
         text: "I'm not ready to be raptured yet. So when the apocalypse comes, I've got several Büt Camp emergency shelters. I love that they're environmentally friendly. Can't start a new world without helping out mother nature.\_ Armageddon too old not to have a shelter."
   - type: promotion_section
