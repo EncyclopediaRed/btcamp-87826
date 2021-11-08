@@ -46,7 +46,7 @@ sections:
         text: "I'm not ready to be raptured yet. So when the apocalypse comes, I've got several Büt Camp emergency shelters. I love that they're environmentally friendly. Can't start a new world without helping out mother nature.\_ Armageddon too old not to have a shelter."
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: There when you need it.
     subtitle: from $149.99
     image: images/promo.jpg
     background_image: images/leaf.svg
