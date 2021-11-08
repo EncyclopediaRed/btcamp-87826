@@ -49,10 +49,10 @@ sections:
           name: Major Payne
           location: 'VA, USA'
         text: >-
-          I'm not ready to be raptured yet. So when the apocolypse comes, I've
+          I'm not ready to be raptured yet. So when the apocalypse comes, I've
           got several Büt Camp emergency shelters. I love that they're
           environmentally friendly. Can't start a new world without helping out
-          mother nature.
+          mother nature.apocalypse
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
