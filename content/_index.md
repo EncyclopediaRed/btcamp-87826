@@ -38,7 +38,7 @@ sections:
     title: Testimonials
     testimonials:
       - author:
-          name: Bear GrillsBob Loblaw
+          name: Bob Loblaw
           location: 'Colorado, USA'
         text: >-
           The Büt Camp system saved my bacon when I followed a bear off the main
