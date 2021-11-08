@@ -53,7 +53,7 @@ sections:
     image: images/promo.jpg
     section_id: contact_section
     address: 'Blacksburg, VA 24061'
-    phone: +1-202-555-0112
+    phone: +1-540-
     email: geeks@snipcart.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
 seo:
