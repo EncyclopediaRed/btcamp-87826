@@ -38,7 +38,7 @@ sections:
     title: Testimonials
     testimonials:
       - author:
-          name: Iama lost
+          name: Bear Grills
           location: 'Colorado, USA'
         text: >-
           The Büt Camp system saved my bacon when I followed a bear off the main
