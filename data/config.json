@@ -29,7 +29,7 @@
         },
         {
             "title": "Blog",
-            "url": "#",
+            "url": "/blog",
             "style": "primary",
             "arrow": false
         }
