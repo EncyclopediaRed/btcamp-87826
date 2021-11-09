@@ -42,7 +42,7 @@ sections:
           rescue squad found me.
       - author:
           name: Ella Vader
-          location: 'VA, USA'
+          location: 'MO, USA'
         text: "I'm not ready to be raptured yet. So when the apocalypse comes, I've got several Büt Camp emergency shelters. I love that they're environmentally friendly. Can't start a new world without helping out mother nature.\_ Armageddon too old not to have a shelter."
   - type: promotion_section
     section_id: promotion_section
