@@ -31,7 +31,7 @@ sections:
         description: >
           What additional technology are you currently or planning on
           incorporating into the business/service/product?
-      - title: lorem-ipsum
+      - title: 'Blog Post #4'
         description: >-
           ## Lorem ipsum
 
