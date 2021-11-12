@@ -23,15 +23,15 @@
             "style": "link"
         },
         {
-            "title": "Support",
-            "url": "/faq",
-            "style": "link"
-        },
-        {
             "title": "Blog",
             "url": "/blog",
             "style": "primary",
             "arrow": false
+        },
+        {
+            "title": "Support",
+            "url": "/faq",
+            "style": "link"
         },
         {
             "title": "Careers",
