@@ -1,5 +1,5 @@
 ---
-title: About
+title: Blog
 page_css_class: gray-background
 white_header: false
 sections:
@@ -21,12 +21,21 @@ sections:
         description: >
           What processes/concepts from The Lean Startup benefit your ecommerce
           solution/business, and details of why it’s being used?
-        image: images/nan_talk.jpg
+        image: images/AdobeStock_114985546.jpeg
       - title: 'Blog Post #2'
         description: >
           Detailed Technology use for ecommerce solution – How does your
           product/service or business use the Technology and why?
         image: images/team.jpg
+      - title: 'Blog Post #3'
+        description: >
+          What additional technology are you currently or planning on
+          incorporating into the business/service/product?
+      - title: 'Blog Post #4'
+        description: >
+          What plugin(s) would help your website/business and why? This can be a
+          WordPress or Ecwid or some other plugin.  No need to purchase or
+          install the plugin – research only.
   - type: promotion_section
     section_id: promotion_section
     title: Büt Camp Emegency Shelter
