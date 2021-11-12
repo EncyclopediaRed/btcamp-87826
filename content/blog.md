@@ -31,6 +31,18 @@ sections:
         description: >
           What additional technology are you currently or planning on
           incorporating into the business/service/product?
+      - title: lorem-ipsum
+        description: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
   - type: promotion_section
     section_id: promotion_section
     title: Büt Camp Emegency Shelter
