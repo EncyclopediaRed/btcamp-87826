@@ -32,17 +32,10 @@ sections:
           What additional technology are you currently or planning on
           incorporating into the business/service/product?
       - title: 'Blog Post #4'
-        description: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        description: >
+          What plugin(s) would help your website/business and why? This can be a
+          WordPress or Ecwid or some other plugin.  No need to purchase or
+          install the plugin – research only.
   - type: promotion_section
     section_id: promotion_section
     title: Büt Camp Emegency Shelter
