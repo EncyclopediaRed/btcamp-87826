@@ -27,6 +27,18 @@ sections:
           Detailed Technology use for ecommerce solution – How does your
           product/service or business use the Technology and why?
         image: images/team.jpg
+      - title: lorem-ipsum
+        description: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
   - type: promotion_section
     section_id: promotion_section
     title: Büt Camp Emegency Shelter
