@@ -1,5 +1,5 @@
 ---
-title: About
+title: Blog
 page_css_class: gray-background
 white_header: false
 sections:
