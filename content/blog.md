@@ -21,7 +21,7 @@ sections:
         description: >
           What processes/concepts from The Lean Startup benefit your ecommerce
           solution/business, and details of why it’s being used?
-        image: images/nan_talk.jpg
+        image: images/AdobeStock_114985546.jpeg
       - title: 'Blog Post #2'
         description: >
           Detailed Technology use for ecommerce solution – How does your
