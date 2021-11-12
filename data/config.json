@@ -23,13 +23,31 @@
             "style": "link"
         },
         {
+            "title": "Blog",
+            "url": "/blog",
+            "style": "primary",
+            "arrow": false
+        },
+        {
             "title": "Support",
             "url": "/faq",
             "style": "link"
         },
         {
-            "title": "Blog",
-            "url": "/blog",
+            "title": "Careers",
+            "url": "careers",
+            "style": "primary",
+            "arrow": false
+        },
+        {
+            "title": "Business Plan",
+            "url": "plan",
+            "style": "primary",
+            "arrow": false
+        },
+        {
+            "title": "E-Commerce",
+            "url": "ecommerce",
             "style": "primary",
             "arrow": false
         }
