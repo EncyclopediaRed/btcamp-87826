@@ -28,17 +28,9 @@ sections:
           product/service or business use the Technology and why?
         image: images/team.jpg
       - title: 'Blog Post #3'
-        description: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        description: >
+          What additional technology are you currently or planning on
+          incorporating into the business/service/product?
   - type: promotion_section
     section_id: promotion_section
     title: Büt Camp Emegency Shelter
