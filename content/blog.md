@@ -27,7 +27,7 @@ sections:
           Detailed Technology use for ecommerce solution – How does your
           product/service or business use the Technology and why?
         image: images/team.jpg
-      - title: lorem-ipsum
+      - title: 'Blog Post #3'
         description: >-
           ## Lorem ipsum
 
