@@ -37,7 +37,7 @@
             "title": "Careers",
             "url": "/careers",
             "style": "link",
-            "arrow": false
+            "arrow": true
         },
         {
             "title": "Business Plan",
