@@ -35,7 +35,7 @@
         },
         {
             "title": "Careers",
-            "url": "careers",
+            "url": "/careers",
             "style": "primary",
             "arrow": false
         },
