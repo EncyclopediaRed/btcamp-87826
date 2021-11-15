@@ -8,7 +8,7 @@ sections:
     background_image: images/AdobeStock_114985546.jpeg
     background_image_opacity: 65
     content: >
-      # Temporary Emergency Shelters
+      # Temporary Emergency Shelters - Test
 
 
       Don't forget to add your Snipcart API key to the site's configuration to
