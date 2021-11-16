@@ -71,7 +71,7 @@ sections:
 
 
           Büt Camp, Inc. has passed its B Certification exam with an overall
-          score of 92. A B Corp
+          score of 92.
   - type: promotion_section
     section_id: promotion_section
     title: A new alternative for temporary shelter
