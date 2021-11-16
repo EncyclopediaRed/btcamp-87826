@@ -9,6 +9,8 @@ sections:
     headline: We are Büt Camp
     subtitle: >-
       **Mission:** Büt Camp, Inc. strives to help provide shelter and privacy to those in any emergency using simple, easily dispensed, highly mobile, inflatable cornstarch-based tents stored in a waist bag (fanny pack) or a similar small vessel. <br />
+
+      
   - type: bulletpoints_section
     section_id: bulletpoints_section
     headLine: Meet the Team
