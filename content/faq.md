@@ -73,7 +73,7 @@ sections:
           *   Short-term packaging (e.g. tea, cups, fruits and vegetables)
 
           *   Industrial and civilian cloth (e.g. tents!)
-          <br />
+          <br /><br />
 
 
           ![](images/PLA-fabric-d8e3af62.png)
