@@ -19,7 +19,7 @@ sections:
     bulletpoints:
       - title: Meet the Team
         description: >-
-          Meet Rob! Rob
+          Meet Rob! Rob is awesome pants.
         image: images/Screen Shot 2021-11-16 at 12.43.32 AM.png
       - title: We think plants are the future
         description: >-
