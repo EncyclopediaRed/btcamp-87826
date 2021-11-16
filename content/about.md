@@ -23,7 +23,7 @@ sections:
     background_image: /images/leaf-light-greay.svg
     headline: Our Goal
     subtitle: >-
-        
+        asdf
 
   - type: bulletpoints_section
     section_id: bulletpoints_section
