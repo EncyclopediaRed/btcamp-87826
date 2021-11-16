@@ -73,7 +73,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: A new alternative for temporary shelter
-    subtitle: from $8.99
+    subtitle: from $11.99
     image: images/promo.jpg
     background_image: images/background-g962c0e182_1280.png
     cta:
