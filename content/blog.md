@@ -48,6 +48,7 @@ sections:
           What plugin(s) would help your website/business and why? This can be a
           WordPress or Ecwid or some other plugin.  No need to purchase or
           install the plugin – research only.
+        image: images/81t7DOELtdL.png
       - title: lorem-ipsum
         description: >-
           ## Lorem ipsum
