@@ -71,6 +71,7 @@ sections:
 
 
           *   Short-term packaging (e.g. tea, cups, fruits and vegetables)
+
           *   Industrial and civilian cloth (e.g. tents!)
           <br />
 
