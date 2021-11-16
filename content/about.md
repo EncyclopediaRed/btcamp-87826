@@ -18,6 +18,7 @@ sections:
       search and rescue, Red Cross, and emergency preppers arsenal for helping
       to treat those in need of immediate protection from the elements.
   - section_id: lorem-ipsum
+  
   - type: bulletpoints_section
     section_id: bulletpoints_section
     headLine: Meet the Team
