@@ -15,14 +15,7 @@ sections:
     section_id: faq_section
     questions:
       - question: What is Polylactic Acid (PLA)?
-        answer: >-
-          Now that’s a frequent one all right, ain’t it? Your answer to this
-          should *manage customer expectations*. Just like [a good checkout
-          flow](http://bit.ly/2YCN3iG) should. Tell them the truth:
-
-            - US shipping will take between 3 to 5 business days.
-            - International shipping will take between 5 and 10 business days.
-            - Mars shipping will be automatically redirected to Elon Musk’s Twitter account.
+        answer: "PLA is different than most thermoplastic polymers in that it is derived from **renewable** resources like corn starch or sugar cane.\_\n\n![](images/PLA-chem.png)\n"
       - question: How is PLA different from other plastics?
         answer: >-
           It happens. Even the most beautiful of plants will disappoint
@@ -52,8 +45,8 @@ sections:
           useful products with people we love feels meaningful enough.
       - question: Where can I learn more about PLA?
         answer: >-
-            Great question! Here is a select list of our favorite resources for getting to know PLA and its surrounding research.
-
+          Great question! Here is a select list of our favorite resources for
+          getting to know PLA and its surrounding research.
   - type: contact_section
     image: images/promo.jpg
     section_id: contact_section
