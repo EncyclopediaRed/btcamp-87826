@@ -32,9 +32,7 @@ sections:
         image: image/Quan-Nguyen.png
       - title: Structure
         description: >-
-          A Certified B Corporation registered in Virginia
-
-Büt Camp, Inc. has passed its B Certification exam with an overall score of 92. A B Corp
+          A Certified B Corporation registered in Virginia Büt Camp, Inc. has passed its B Certification exam with an overall score of 92. A B Corp
 
       - title: lorem-ipsum
         description: >-
