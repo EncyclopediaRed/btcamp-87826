@@ -69,7 +69,6 @@ sections:
         description: >
           We are a Certified B Corporation registered in Virginia.
 
-          \</br>
 
           Büt Camp, Inc. has passed its B Certification exam with an overall
           score of 92. A B Corp
