@@ -19,6 +19,7 @@ sections:
       to treat those in need of immediate protection from the elements.
 
   - type: section_text
+  
     title: Our Goal
 
   - type: bulletpoints_section
