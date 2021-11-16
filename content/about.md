@@ -19,19 +19,14 @@ sections:
     headLine: Meet the Team
     bulletpoints:
       - title: Rob Barrowclift
-        description: >-
-          Meet Rob! Rob is awesome pants.
+        description: Meet Rob! Rob is awesome pants.
         image: images/Screen Shot 2021-11-16 at 12.43.32 AM.png
       - title: Alex Kinnaman
-        description: >-
-          This is Alex! 
-        image: images/Screen Shot 2021-11-16 at 12.43.49 AM.png
+        description: 'This is Alex! '
       - title: Pat Bonipally
-        description: >-
-          And this is Pat!
-      - title: Quan Nguyen 
-        description: >-
-          And here's Quan!
+        description: And this is Pat!
+      - title: Quan Nguyen
+        description: And here's Quan!
       - title: lorem-ipsum
         description: >-
           ## Lorem ipsum
