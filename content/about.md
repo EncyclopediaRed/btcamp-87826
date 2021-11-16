@@ -62,6 +62,9 @@ sections:
       url: /store
       style: primary
       arrow: true
+  - section_id: lorem-ipsum
+    questions: []
+    type: faq_section
 seo:
   title: About
   description: This is the about page
