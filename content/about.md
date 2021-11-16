@@ -21,7 +21,9 @@ sections:
   - type: header_section
     section_id: section_text
     background_image: /images/leaf-light-greay.svg
-    text: page
+    headline: Our Goal
+    subtitle: >-
+        
 
   - type: bulletpoints_section
     section_id: bulletpoints_section
