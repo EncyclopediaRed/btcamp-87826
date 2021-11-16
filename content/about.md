@@ -27,7 +27,7 @@ sections:
         
         We plan to grow the emergency shelter business through investment into a national offering. Then we plan to expand our product line into 3D printed camping and survival products such as utensils, multi-tools, and first aid kit supplies, with an eventual goal of offering 3D schematics via direct-to-consumer sales.
  - type: header_section
-    section_id: section_text
+    section_id: header_section
     background_image: /images/leaf-light-greay.svg
     headline: Meat the Team
 
