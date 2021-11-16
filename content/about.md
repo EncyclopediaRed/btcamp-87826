@@ -52,7 +52,7 @@ sections:
         description: And this is Pat! Pat is our resident Scrum Master and leader of all things planning. We would be a mess without him!
         image: images/Pat-Bonipally.png
       - title: Quan Nguyen
-        description: And here's Quan!
+        description: And here's Quan! 
         image: image/Quan-Nguyen.png
       - title: Structure
         description: >-
