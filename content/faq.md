@@ -11,6 +11,9 @@ sections:
       All right, friends. Let’s do this. This section will cover basic,
       frequently asked questions about PLA and why it's essential to the future
       of temporary products.
+
+
+      ![](images/PLA-chem-32827030.png)
   - type: faq_section
     section_id: faq_section
     questions:
