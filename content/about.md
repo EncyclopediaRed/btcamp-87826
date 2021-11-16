@@ -70,7 +70,7 @@ sections:
       style: primary
       arrow: true
   - section_id: lorem-ipsum
-    address: 357 Fannypack Drive<br />
+    address: 357 Fannypack Drive <br />
     phone: 1-800-BUTCAMP
     email: butcamp@gmail.com
     mapUrl: lorem-ipsum
