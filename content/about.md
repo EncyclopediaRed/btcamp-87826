@@ -20,6 +20,7 @@ sections:
     bulletpoints:
       - title: Rob Barrowclift
         description: Meet Rob! Rob is awesome pants.
+        image: images/Rob-Barrowclift.png
       - title: Alex Kinnaman
         description: 'This is Alex! '
       - title: Pat Bonipally
