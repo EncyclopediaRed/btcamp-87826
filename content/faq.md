@@ -27,10 +27,7 @@ sections:
           well as how the final product can be recycled too!
 
 
-          <br /><br /><br /><br />Zhang, Y. (2021). “[Eight advantages and Four
-          disadvantages of the polylactic acid
-          (PLA)](https://www.linkedin.com/pulse/eight-advantages-four-disadvantages-polylactic-acid-pla-yewtree-zhang).”
-          LinkedIn.
+          <br /><br /><br /><br />
       - question: How is PLA different from other plastics?
         answer: >
           Most plastics are derived from the distillation and polymerization of
