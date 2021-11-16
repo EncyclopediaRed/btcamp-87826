@@ -37,7 +37,7 @@ sections:
           am I right? Make sure you’re as transparent as possible with your data
           handling process. Or, if you’re using Snipcart, just refer to [our ToS
           and DPA](http://bit.ly/2YJwlyt).
-      - question: Rapid-fire questions
+      - question: What is PLA used for (other than awesome tents)?
         answer: >-
           Q: Why is this Planty theme so beautiful? <br /> A: We hired our first
           designer a couple of months ago. <br /><br /> Q: Why did you build a
