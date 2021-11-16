@@ -54,18 +54,7 @@ sections:
 
           Büt Camp, Inc. has passed its B Certification exam with an overall
           score of 92. A B Corp
-      - title: lorem-ipsum
-        description: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+      
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
