@@ -39,6 +39,9 @@ sections:
         description: >
           What additional technology are you currently or planning on
           incorporating into the business/service/product?
+
+
+          ## [Continue...](/blog\_03)
       - title: 'Blog Post #4'
         description: >
           What plugin(s) would help your website/business and why? This can be a
