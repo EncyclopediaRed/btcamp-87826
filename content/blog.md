@@ -48,6 +48,18 @@ sections:
           What plugin(s) would help your website/business and why? This can be a
           WordPress or Ecwid or some other plugin.  No need to purchase or
           install the plugin – research only.
+      - title: lorem-ipsum
+        description: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
   - type: promotion_section
     section_id: promotion_section
     title: Büt Camp Emegency Shelter
