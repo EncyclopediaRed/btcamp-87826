@@ -28,7 +28,7 @@ sections:
 
 
           <br /><br />
-          
+          image: 
           <br /><br />Zhang, Y. (2021). “[Eight advantages and Four
           disadvantages of the polylactic acid
           (PLA).](https://www.linkedin.com/pulse/eight-advantages-four-disadvantages-polylactic-acid-pla-yewtree-zhang)”
