@@ -47,6 +47,7 @@ sections:
 
 
           *   Non-toxic (and therefore safe for food)
+          <br /><br />
 
 
 
