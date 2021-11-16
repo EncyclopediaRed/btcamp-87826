@@ -74,6 +74,7 @@ sections:
 
 
           *   Industrial and civilian cloth (e.g. tents!)
+          <br />
 
 
           ![](images/PLA-fabric-d8e3af62.png)
