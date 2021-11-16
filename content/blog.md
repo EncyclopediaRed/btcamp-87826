@@ -49,18 +49,6 @@ sections:
           WordPress or Ecwid or some other plugin.  No need to purchase or
           install the plugin – research only.
         image: images/81t7DOELtdL.png
-      - title: lorem-ipsum
-        description: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
   - type: promotion_section
     section_id: promotion_section
     title: Büt Camp Emegency Shelter
