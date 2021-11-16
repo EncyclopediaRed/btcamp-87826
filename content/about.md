@@ -43,7 +43,7 @@ sections:
     headLine: Meet the Team
     bulletpoints:
       - title: Rob Barrowclift
-        description: Meet Rob! Rob is awesome pants.
+        description: Meet Rob! Rob is awesome pants. Our lead web developer and 
         image: images/Rob-Barrowclift.png
       - title: Alex Kinnaman
         description: 'This is Alex! '
