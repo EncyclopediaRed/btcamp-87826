@@ -52,7 +52,7 @@ sections:
           useful products with people we love feels meaningful enough.
       - question: Where can I learn more about PLA?
         answer: >-
-        
+        Great question! Here is a select list of our favorite resources for getting to know PLA and its surrounding research.
   - type: contact_section
     image: images/promo.jpg
     section_id: contact_section
