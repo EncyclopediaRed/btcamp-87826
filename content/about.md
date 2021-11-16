@@ -29,7 +29,7 @@ sections:
 - type: header_section
     section_id: section_text
     background_image: /images/leaf-light-greay.svg
-    headline: Our Goal
+    headline: Meat the Team
 
   - type: bulletpoints_section
     section_id: bulletpoints_section
