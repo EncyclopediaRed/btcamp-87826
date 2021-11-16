@@ -28,16 +28,7 @@ sections:
         image: images/Screen Shot 2021-11-16 at 12.43.49 AM.png
       - title: Pat Bonipally
         description: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          And this is Pat!
       - title: lorem-ipsum
         description: >-
           ## Lorem ipsum
