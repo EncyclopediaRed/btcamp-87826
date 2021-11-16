@@ -42,6 +42,7 @@ sections:
 
 
           ## [Continue...](/blog\_03)
+        image: images/AdobeStock_114985546.jpeg
       - title: 'Blog Post #4'
         description: >
           What plugin(s) would help your website/business and why? This can be a
