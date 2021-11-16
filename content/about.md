@@ -20,6 +20,7 @@ sections:
 
   - type: section_text
     section_id: section_text
+    background_image: /images/leaf-light-greay.svg
     text: page
 
   - type: bulletpoints_section
