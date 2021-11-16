@@ -7,18 +7,15 @@ sections:
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
     headline: We are Büt Camp
-    subtitle: >-
-      **Mission**<br />
-      Büt Camp, Inc. strives to help provide shelter and privacy to
-      those in any emergency using simple, easily dispensed, highly mobile,
-      inflatable cornstarch-based tents stored in a waist bag (fanny pack) or a
-      similar small vessel. <br /><br />
-
-      **Vision** <br />
-      We envision the Büt Camp biodegradable cornstarch-based
-      polylactic acid (PLA)¹ shelters being available in every first responder,
-      search and rescue, Red Cross, and emergency preppers arsenal for helping
-      to treat those in need of immediate protection from the elements.
+    subtitle: >
+      #### **Mission** Büt Camp, Inc. strives to help provide shelter and
+      privacy to those in any emergency using simple, easily dispensed, highly
+      mobile, inflatable cornstarch-based tents stored in a waist bag (fanny
+      pack) or a similar small vessel. &#xA;**Vision**  We envision the Büt Camp
+      biodegradable cornstarch-based polylactic acid (PLA)¹ shelters being
+      available in every first responder, search and rescue, Red Cross, and
+      emergency preppers arsenal for helping to treat those in need of immediate
+      protection from the elements.
   - type: header_section
     section_id: header_section
     background_image: /images/leaf-light-greay.svg
@@ -43,16 +40,23 @@ sections:
     headLine: Meet the Team
     bulletpoints:
       - title: Rob Barrowclift
-        description: Meet Rob! Rob is awesome pants. Our lead web developer and financial pro, Rob is essential to our success.
+        description: >-
+          Meet Rob! Rob is awesome pants. Our lead web developer and financial
+          pro, Rob is essential to our success.
         image: images/Rob-Barrowclift.png
       - title: Alex Kinnaman
-        description: This is Alex! Alex is the PLA expert and designs many of our products. She is also an expert in digital preservation and ensures our research and impact last far longer than our biodegradeable products!
+        description: >-
+          This is Alex! Alex is the PLA expert and designs many of our products.
+          She is also an expert in digital preservation and ensures our research
+          and impact last far longer than our biodegradeable products!
         image: images/Alex-Kinnaman.png
       - title: Pat Bonipally
-        description: And this is Pat! Pat is our resident Scrum Master and leader of all things planning. We would be a mess without him!
+        description: >-
+          And this is Pat! Pat is our resident Scrum Master and leader of all
+          things planning. We would be a mess without him!
         image: images/Pat-Bonipally.png
       - title: Quan Nguyen
-        description: And here's Quan! 
+        description: And here's Quan!
         image: image/Quan-Nguyen.png
       - title: Structure
         description: >-
