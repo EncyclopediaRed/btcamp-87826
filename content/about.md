@@ -8,7 +8,9 @@ sections:
     background_image: /images/leaf-light-grey.svg
     headline: We are Büt Camp
     subtitle: >
-      #### **Mission** Büt Camp, Inc. strives to help provide shelter and
+      #### **Mission** 
+      
+      Büt Camp, Inc. strives to help provide shelter and
       privacy to those in any emergency using simple, easily dispensed, highly
       mobile, inflatable cornstarch-based tents stored in a waist bag (fanny
       pack) or a similar small vessel. &#xA;**Vision**  We envision the Büt Camp
