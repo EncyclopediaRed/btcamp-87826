@@ -12,7 +12,7 @@ sections:
 
       **Vision:** We envision the Büt Camp biodegradable cornstarch-based polylactic acid (PLA)¹ shelters being available in every first responder, search and rescue, Red Cross, and emergency preppers arsenal for helping to treat those in need of immediate protection from the elements.
 
-      
+  - type: 
   - type: bulletpoints_section
     section_id: bulletpoints_section
     headLine: Meet the Team
