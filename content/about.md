@@ -17,8 +17,8 @@ sections:
       polylactic acid (PLA)¹ shelters being available in every first responder,
       search and rescue, Red Cross, and emergency preppers arsenal for helping
       to treat those in need of immediate protection from the elements.
-      
-    type: section_text
+
+  - type: section_text
     title: Our Goal
 
   - type: bulletpoints_section
