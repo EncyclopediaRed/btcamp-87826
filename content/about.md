@@ -25,6 +25,7 @@ sections:
         description: 'This is Alex! '
       - title: Pat Bonipally
         description: And this is Pat!
+        image: images/
       - title: Quan Nguyen
         description: And here's Quan!
       - title: lorem-ipsum
