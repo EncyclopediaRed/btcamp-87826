@@ -13,7 +13,9 @@ sections:
       Büt Camp, Inc. strives to help provide shelter and
       privacy to those in any emergency using simple, easily dispensed, highly
       mobile, inflatable cornstarch-based tents stored in a waist bag (fanny
-      pack) or a similar small vessel. &#xA;**Vision**  We envision the Büt Camp
+      pack) or a similar small vessel. &#xA;
+      
+      **Vision**  We envision the Büt Camp
       biodegradable cornstarch-based polylactic acid (PLA)¹ shelters being
       available in every first responder, search and rescue, Red Cross, and
       emergency preppers arsenal for helping to treat those in need of immediate
