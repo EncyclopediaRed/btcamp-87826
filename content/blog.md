@@ -30,6 +30,11 @@ sections:
         description: >
           Detailed Technology use for ecommerce solution – How does your
           product/service or business use the Technology and why?
+
+
+
+
+          ## Continue...
         image: images/team.jpg
       - title: 'Blog Post #3'
         description: >
