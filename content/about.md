@@ -14,7 +14,7 @@ sections:
       inflatable cornstarch-based tents stored in a waist bag (fanny pack) or a
       similar small vessel. <br /><br />
 
-      **Vision:** <br />
+      **Vision** <br />
       We envision the Büt Camp biodegradable cornstarch-based
       polylactic acid (PLA)¹ shelters being available in every first responder,
       search and rescue, Red Cross, and emergency preppers arsenal for helping
