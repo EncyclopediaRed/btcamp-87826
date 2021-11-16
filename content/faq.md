@@ -23,7 +23,7 @@ sections:
             - US shipping will take between 3 to 5 business days.
             - International shipping will take between 5 and 10 business days.
             - Mars shipping will be automatically redirected to Elon Musk’s Twitter account.
-      - question: How do refunds and returns work?
+      - question: How is PLA different from other plastics?
         answer: >-
           It happens. Even the most beautiful of plants will disappoint
           *someone*. Again, tell it like it is:
