@@ -59,7 +59,10 @@ sections:
           things planning. We would be a mess without him!
         image: images/Pat-Bonipally.png
       - title: Quan Nguyen
-        description: And here's Quan!
+        description: >
+          And here's Quan! Quan is an enigma. He questions all things equally.
+          Seemingly knowledgeable in the answers yet not sharing, Quan also
+          enjoys cats, but not as much as his daughter.
         image: images/Quan-Nguyen-6e06ef6b.png
       - title: Structure
         description: >-
