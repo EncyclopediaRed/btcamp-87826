@@ -7,13 +7,10 @@ sections:
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
     headline: Büt Blog
-    subtitle: >-
-      Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of geeks
-      from Québec City. Planty is a theme we built for
-      [Stackbit](https://www.stackbit.com/), a killer JAMstack site-builder. To
-      enable e-commerce on Planty, you’ll need to [sign up for
-      Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
-      required.
+    subtitle: >
+      Büt Camp, Inc. has more to share than just emergency shelters, an easy to
+      use online store, and amazing testimonials. We also want to explain how
+      and why we do what we do. Check out our explainations below.
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
