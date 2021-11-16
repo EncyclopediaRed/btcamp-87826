@@ -22,16 +22,16 @@ sections:
           nonrenewable petroleum reserves. Plastics that are derived from
           biomass (e.g., PLA) are known as “bioplastics.¹”
       - question: What are the primary features of PLA?
-        answer: >
+        answer: >+
           *  
           [](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f\&rid=giphy.gif)Non-petroleum-based
           plastic
 
 
-          *   Derived from vegetable products 
+          *   Derived from vegetable products
 
 
-          *   Naturally degrades when exposed to the environment 
+          *   Naturally degrades when exposed to the environment
 
 
           *   Can be produced from pre-existing manufacturing equipment
@@ -46,7 +46,8 @@ sections:
           *   Non-toxic (and therefore safe for food)
 
 
-          ![](images/PLA-biodegradation.png)
+          ![](images/PLA-biodegradation-63b2625d.png)
+
       - question: What is PLA used for (other than awesome tents)?
         answer: >
           *   3D printing
