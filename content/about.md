@@ -15,7 +15,7 @@ sections:
       mobile, inflatable cornstarch-based tents stored in a waist bag (fanny
       pack) or a similar small vessel. &#xA;
       <br /><br />
-      #### **Vision**  
+      **Vision**  
       
       We envision the Büt Camp
       biodegradable cornstarch-based polylactic acid (PLA)¹ shelters being
