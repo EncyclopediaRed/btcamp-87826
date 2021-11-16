@@ -14,7 +14,7 @@ sections:
       privacy to those in any emergency using simple, easily dispensed, highly
       mobile, inflatable cornstarch-based tents stored in a waist bag (fanny
       pack) or a similar small vessel. &#xA;
-      
+      <br /><br />
       #### **Vision**  
       
       We envision the Büt Camp
