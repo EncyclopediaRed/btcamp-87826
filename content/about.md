@@ -8,10 +8,15 @@ sections:
     background_image: /images/leaf-light-grey.svg
     headline: We are Büt Camp
     subtitle: >-
-      **Mission:** Büt Camp, Inc. strives to help provide shelter and privacy to those in any emergency using simple, easily dispensed, highly mobile, inflatable cornstarch-based tents stored in a waist bag (fanny pack) or a similar small vessel. <br /><br />
+      **Mission:** Büt Camp, Inc. strives to help provide shelter and privacy to
+      those in any emergency using simple, easily dispensed, highly mobile,
+      inflatable cornstarch-based tents stored in a waist bag (fanny pack) or a
+      similar small vessel. <br /><br />
 
-      **Vision:** We envision the Büt Camp biodegradable cornstarch-based polylactic acid (PLA)¹ shelters being available in every first responder, search and rescue, Red Cross, and emergency preppers arsenal for helping to treat those in need of immediate protection from the elements.
-
+      **Vision:** We envision the Büt Camp biodegradable cornstarch-based
+      polylactic acid (PLA)¹ shelters being available in every first responder,
+      search and rescue, Red Cross, and emergency preppers arsenal for helping
+      to treat those in need of immediate protection from the elements.
   - type: bulletpoints_section
     section_id: bulletpoints_section
     headLine: Meet the Team
@@ -31,9 +36,21 @@ sections:
       - title: Structure
         description: >-
           We are a Certified B Corporation registered in Virginia. 
-          
-          Büt Camp, Inc. has passed its B Certification exam with an overall score of 92. A B Corp
 
+          Büt Camp, Inc. has passed its B Certification exam with an overall
+          score of 92. A B Corp
+      - title: lorem-ipsum
+        description: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
       - title: lorem-ipsum
         description: >-
           ## Lorem ipsum
