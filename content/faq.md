@@ -50,7 +50,7 @@ sections:
           <br /> A: Have you been here? It’s beaaautiful! <br /><br /> Q: What’s
           the meaning of life? <br /> A: We’re not quite sure. But building
           useful products with people we love feels meaningful enough.
-      - question: What is PLA used for (other than awesome tents)?
+      - question: Where can I learn more about PLA?
         answer: >-
   - type: contact_section
     image: images/promo.jpg
