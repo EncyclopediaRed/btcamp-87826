@@ -19,9 +19,9 @@ sections:
       to treat those in need of immediate protection from the elements.
   - section_id: lorem-ipsum
     questions: []
-    type: section_hero
+    type: section_text
     title: Our Goal
-    
+
   - type: bulletpoints_section
     section_id: bulletpoints_section
     headLine: Meet the Team
