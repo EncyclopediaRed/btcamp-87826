@@ -27,7 +27,9 @@ sections:
           well as how the final product can be recycled too!
 
 
-          <br /><br /><br /><br />Zhang, Y. (2021). “[Eight advantages and Four
+          <br /><br />
+          
+          <br /><br />Zhang, Y. (2021). “[Eight advantages and Four
           disadvantages of the polylactic acid
           (PLA).](https://www.linkedin.com/pulse/eight-advantages-four-disadvantages-polylactic-acid-pla-yewtree-zhang)”
           LinkedIn. 
