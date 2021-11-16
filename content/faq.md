@@ -19,6 +19,7 @@ sections:
     questions:
       - question: What is Polylactic Acid (PLA)?
         answer: "PLA is different than most thermoplastic polymers in that it is derived from **renewable** resources like corn starch or sugar cane.\_\n\n
+        <br /><br />
         ![](images/PLA-lifecycle.png)\n"
       - question: How is PLA different from other plastics?
         answer: >
