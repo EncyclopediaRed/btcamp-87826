@@ -29,8 +29,7 @@ sections:
       - title: Pat Bonipally
         description: >-
           And this is Pat!
-      - title: 
-Quan Nguyen 
+      - title: Quan Nguyen 
         description: >-
           ## Lorem ipsum
 
