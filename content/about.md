@@ -49,7 +49,7 @@ sections:
         description: This is Alex! Alex is the PLA expert and designs many of our products. She is also an expert in digital preservation and ensures our research and impact last far longer than our biodegradeable products!
         image: images/Alex-Kinnaman.png
       - title: Pat Bonipally
-        description: And this is Pat!
+        description: And this is Pat! Pat is our resident Scrum Master and leader of all things planning
         image: images/Pat-Bonipally.png
       - title: Quan Nguyen
         description: And here's Quan!
