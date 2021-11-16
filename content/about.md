@@ -35,7 +35,7 @@ sections:
           through free content and tools, like this theme. We also believe [the
           JAMstack](https://jamstack.org/) might be one solid pillar on which we
           build that future.
-        image: images/team.jpg
+        image: images/Screen Shot 2021-11-16 at 12.43.49 AM.png
       - title: lorem-ipsum
         description: >-
           ## Lorem ipsum
