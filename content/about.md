@@ -26,7 +26,7 @@ sections:
         description: >-
           This is Alex! 
         image: images/Screen Shot 2021-11-16 at 12.43.49 AM.png
-      - title: lorem-ipsum
+      - title: Pat 
         description: >-
           ## Lorem ipsum
 
