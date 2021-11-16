@@ -22,6 +22,18 @@ sections:
           What processes/concepts from The Lean Startup benefit your ecommerce
           solution/business, and details of why it’s being used?
         image: images/AdobeStock_114985546.jpeg
+      - title: lorem-ipsum
+        description: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
       - title: 'Blog Post #2'
         description: >
           Detailed Technology use for ecommerce solution – How does your
