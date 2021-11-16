@@ -20,7 +20,7 @@ sections:
   - section_id: lorem-ipsum
     questions: []
     type: faq_section
-        
+    
   - type: bulletpoints_section
     section_id: bulletpoints_section
     headLine: Meet the Team
