@@ -20,7 +20,7 @@ sections:
 
   - type: section_text
     section_id: section_text
-    text: 
+    text: page
 
   - type: bulletpoints_section
     section_id: bulletpoints_section
