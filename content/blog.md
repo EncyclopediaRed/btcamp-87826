@@ -27,7 +27,7 @@ sections:
           [Continue...](/blog\_01)
         image: images/AdobeStock_114985546.jpeg
       - title: lorem-ipsum
-        description: >-
+        description: >
           ## Lorem ipsum
 
 
@@ -35,9 +35,12 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Lorem ipsum
 
-          - dolor sit amet
+          *   dolor sit amet
+
+
+          [Continue...](/blog\_02)
       - title: 'Blog Post #2'
         description: >
           Detailed Technology use for ecommerce solution – How does your
