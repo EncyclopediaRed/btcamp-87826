@@ -72,7 +72,7 @@ sections:
     title: A new alternative for temporary shelter
     subtitle: from $8.99
     image: images/promo.jpg
-    background_image: images/plant5-lg.jpg
+    background_image: images/background-g962c0e182_1280.png
     cta:
       title: Discover
       url: /store
