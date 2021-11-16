@@ -72,10 +72,10 @@ sections:
       style: primary
       arrow: true
   - section_id: lorem-ipsum
-    address: 357 Fannypack Drive Clever, VA 24000
-    phone: 1-800-BUTCAMP
-    email: butcamp@gmail.com
-    mapUrl: lorem-ipsum
+    address: '357 Fannypack Dr. Blacksburg, VA 24061'
+    phone: +1-555-288-2267
+    email: info@bütcamp.com
+    mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
     type: contact_section
 seo:
   title: About
