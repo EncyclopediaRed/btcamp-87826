@@ -18,7 +18,7 @@ sections:
       search and rescue, Red Cross, and emergency preppers arsenal for helping
       to treat those in need of immediate protection from the elements.
 
-  - type: section_text
+  - type: header_section
     section_id: section_text
     background_image: /images/leaf-light-greay.svg
     text: page
