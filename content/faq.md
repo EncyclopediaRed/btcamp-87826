@@ -7,9 +7,10 @@ sections:
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
     headline: What is PLA?
-    subtitle: >-
+    subtitle: >
       All right, friends. Let’s do this. This section will cover basic,
-      frequently asked questions for e-commerce merchants.
+      frequently asked questions about PLA and why it's essential to the future
+      of temporary products.
   - type: faq_section
     section_id: faq_section
     questions:
