@@ -28,7 +28,6 @@
             "style": "primary",
             "arrow": false
         },
-
         {
             "title": "PLA FAQ",
             "url": "/faq",
@@ -41,7 +40,7 @@
             "arrow": true
         },
         {
-            "title": "Business Planness",
+            "title": "Business Plan",
             "url": "plan",
             "style": "primary",
             "arrow": false
