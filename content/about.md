@@ -46,7 +46,7 @@ sections:
         description: Meet Rob! Rob is awesome pants. Our lead web developer and financial pro, Rob is essential to our success.
         image: images/Rob-Barrowclift.png
       - title: Alex Kinnaman
-        description: 'This is Alex! '
+        description: 'This is Alex!
         image: images/Alex-Kinnaman.png
       - title: Pat Bonipally
         description: And this is Pat!
