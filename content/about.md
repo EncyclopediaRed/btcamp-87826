@@ -19,7 +19,7 @@ sections:
       to treat those in need of immediate protection from the elements.
 
   - type: header_section
-    section_id: section_text
+    section_id: header_section
     background_image: /images/leaf-light-greay.svg
     headline: Our Goal
     subtitle: >-
