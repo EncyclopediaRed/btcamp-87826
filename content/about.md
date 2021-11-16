@@ -17,21 +17,25 @@ sections:
       polylactic acid (PLA)¹ shelters being available in every first responder,
       search and rescue, Red Cross, and emergency preppers arsenal for helping
       to treat those in need of immediate protection from the elements.
-
   - type: header_section
     section_id: header_section
     background_image: /images/leaf-light-greay.svg
     headline: Our Goal
     subtitle: >-
-        Out of the prototype stage, with several patents pending, our end goal is to make the Büt Camp tent synonymous with a small comfort during a stressful time. We are pushing to move from a local market into larger regional areas within the following year.<br /><br />
-        
-        We plan to grow the emergency shelter business through investment into a national offering. Then we plan to expand our product line into 3D printed camping and survival products such as utensils, multi-tools, and first aid kit supplies, with an eventual goal of offering 3D schematics via direct-to-consumer sales.
+      Out of the prototype stage, with several patents pending, our end goal is
+      to make the Büt Camp tent synonymous with a small comfort during a
+      stressful time. We are pushing to move from a local market into larger
+      regional areas within the following year.<br /><br />
 
+      We plan to grow the emergency shelter business through investment into a
+      national offering. Then we plan to expand our product line into 3D printed
+      camping and survival products such as utensils, multi-tools, and first aid
+      kit supplies, with an eventual goal of offering 3D schematics via
+      direct-to-consumer sales.
   - type: header_section
     section_id: header_section
     background_image: /images/leaf-light-greay.svg
     headline: Meat the Team
-
   - type: bulletpoints_section
     section_id: bulletpoints_section
     headLine: Meet the Team
@@ -54,7 +58,6 @@ sections:
 
           Büt Camp, Inc. has passed its B Certification exam with an overall
           score of 92. A B Corp
-          
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
@@ -69,7 +72,7 @@ sections:
   - section_id: lorem-ipsum
     address: lorem-ipsum
     phone: lorem-ipsum
-    email: lorem-ipsum
+    email: butcamp@gmail.com
     mapUrl: lorem-ipsum
     type: contact_section
 seo:
