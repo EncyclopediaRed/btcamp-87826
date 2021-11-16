@@ -36,6 +36,18 @@ sections:
           JAMstack](https://jamstack.org/) might be one solid pillar on which we
           build that future.
         image: images/team.jpg
+      - title: lorem-ipsum
+        description: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
