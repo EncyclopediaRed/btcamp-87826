@@ -22,7 +22,7 @@ sections:
         description: >-
           Meet Rob! Rob is awesome pants.
         image: images/Screen Shot 2021-11-16 at 12.43.32 AM.png
-      - title: We think plants are the future
+      - title: Alex Kinnaman
         description: >-
           Word. But good **code** _can_ solve a lots of problems, too. New _and_
           old. That’s why we help beginners get started with web development
