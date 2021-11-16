@@ -23,8 +23,7 @@ sections:
           solution/business, and details of why it’s being used?
 
 
-
-          [Continue...](/blog\_01)
+          ## [Continue...](/blog\_01)
         image: images/AdobeStock_114985546.jpeg
       - title: 'Blog Post #2'
         description: >
