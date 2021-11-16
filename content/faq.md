@@ -18,9 +18,7 @@ sections:
     section_id: faq_section
     questions:
       - question: What is Polylactic Acid (PLA)?
-        answer: "PLA is different than most thermoplastic polymers in that it is derived from **renewable** resources like corn starch or sugar cane.\_\n\n
-        <br /><br />
-        ![](images/PLA-lifecycle.png)\n"
+        answer: "PLA is different than most thermoplastic polymers in that it is derived from **renewable** resources like corn starch or sugar cane.\_\n\n <br /><br /> ![](images/PLA-lifecycle.png)\n"
       - question: How is PLA different from other plastics?
         answer: >
           Most plastics are derived from the distillation and polymerization of
@@ -48,8 +46,7 @@ sections:
           *   High permeability (not for long-term storage)
 
 
-          *   Non-toxic (and therefore safe for food)
-          <br /><br />
+          *   Non-toxic (and therefore safe for food) <br /><br />
 
 
 
@@ -74,8 +71,7 @@ sections:
 
           *   Short-term packaging (e.g. tea, cups, fruits and vegetables)
 
-          *   Industrial and civilian cloth (e.g. tents!)
-          <br /><br />
+          *   Industrial and civilian cloth (e.g. tents!) <br /><br />
 
 
           ![](images/PLA-fabric-d8e3af62.png)
@@ -83,7 +79,7 @@ sections:
       - question: Where can I learn more about PLA?
         answer: "*   Barrett, A. (2021). “[Polylactic Acid or Polylactide](https://bioplasticsnews.com/polylactic-acid-or-polylactide-pla/) (PLA).” Bioplastics News.\n\n*   Felfil. (2021). “[PLA filament for 3D printing: Learning about plastic materials](https://felfil.com/pla-filament-for-3d-printing-learning-about-plastic-materials/?v=5ea34fa833a1).\" Felfil.\n\n*   Muthui, Z. W., Kamweru, P. K., Nderitu, F. G., Hussein, S. A., Golicha, Ngumbu, R., and Njoroge, G. N. (2015). [Polylactic acid (PLA) viscoelastic properties and their degradation compared with those of polyethylene](https://academicjournals.org/journal/IJPS/article-full-text-pdf/80F856156289). *International Journal of Physical Sciences,* 10(21), p 568-575). DOI: 10.5897/IJPS2015.4412.\n\n*   Rogers, T. (2015). “[Everything you need to know about polylactic acid (PLA)](https://www.creativemechanisms.com/blog/learn-about-polylactic-acid-pla-prototypes).” Creative Mechanisms.\_\n\n*   Royte, E. (2006). “[Corn Plastic to the Rescue.](https://www.smithsonianmag.com/science-nature/corn-plastic-to-the-rescue-126404720/)” Smithsonian Magazine.\n\n*   Sombatsompop, N., Srimaleanon, P., Markpin, T., and Prapagdee, B. (2021). “Polylactic Acid (PLA): Improve It, Use It, and Dump It Faster.” BioResources, 16(2) pp 2196 - 2199. DOI: 10.15376/biores.16.2.2196-2199\n\n*   Zhang, Y. (2021). “[Eight advantages and Four disadvantages of the polylactic acid (PLA)](https://www.linkedin.com/pulse/eight-advantages-four-disadvantages-polylactic-acid-pla-yewtree-zhang).” LinkedIn.\_\n"
   - type: contact_section
-    image: images/promo.jpg
+    image: images/eco-g3e4081f9a_1280.png
     section_id: contact_section
     address: '357 Fannypack Dr. Blacksburg, VA 24061'
     phone: +1-555-288-2267
