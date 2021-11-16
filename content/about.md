@@ -16,7 +16,7 @@ sections:
       required.
   - type: bulletpoints_section
     section_id: bulletpoints_section
-    
+    headLine: Meet the Team
     bulletpoints:
       - title: Meet the Team
         description: >-
