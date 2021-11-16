@@ -50,7 +50,7 @@ sections:
 
           ![](images/PLA-biodegradation-63b2625d.png)
       - question: What is PLA used for (other than awesome tents)?
-        answer: >
+        answer: >+
           *   3D printing
 
 
@@ -73,7 +73,8 @@ sections:
           *   Industrial and civilian cloth (e.g. tents!)
 
 
-          ![](images/PLA-fabric.png)
+          ![](images/PLA-fabric-d8e3af62.png)
+
       - question: Where can I learn more about PLA?
         answer: "*   Barrett, A. (2021). “[Polylactic Acid or Polylactide](https://bioplasticsnews.com/polylactic-acid-or-polylactide-pla/) (PLA).” Bioplastics News.\n\n*   Felfil. (2021). “[PLA filament for 3D printing: Learning about plastic materials](https://felfil.com/pla-filament-for-3d-printing-learning-about-plastic-materials/?v=5ea34fa833a1).\" Felfil.\n\n*   Muthui, Z. W., Kamweru, P. K., Nderitu, F. G., Hussein, S. A., Golicha, Ngumbu, R., and Njoroge, G. N. (2015). [Polylactic acid (PLA) viscoelastic properties and their degradation compared with those of polyethylene](https://academicjournals.org/journal/IJPS/article-full-text-pdf/80F856156289). *International Journal of Physical Sciences,* 10(21), p 568-575). DOI: 10.5897/IJPS2015.4412.\n\n*   Rogers, T. (2015). “[Everything you need to know about polylactic acid (PLA)](https://www.creativemechanisms.com/blog/learn-about-polylactic-acid-pla-prototypes).” Creative Mechanisms.\_\n\n*   Royte, E. (2006). “[Corn Plastic to the Rescue.](https://www.smithsonianmag.com/science-nature/corn-plastic-to-the-rescue-126404720/)” Smithsonian Magazine.\n\n*   Sombatsompop, N., Srimaleanon, P., Markpin, T., and Prapagdee, B. (2021). “Polylactic Acid (PLA): Improve It, Use It, and Dump It Faster.” BioResources, 16(2) pp 2196 - 2199. DOI: 10.15376/biores.16.2.2196-2199\n\n*   Zhang, Y. (2021). “[Eight advantages and Four disadvantages of the polylactic acid (PLA)](https://www.linkedin.com/pulse/eight-advantages-four-disadvantages-polylactic-acid-pla-yewtree-zhang).” LinkedIn.\_\n"
   - type: contact_section
