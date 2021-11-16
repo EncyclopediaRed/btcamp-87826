@@ -52,6 +52,7 @@ sections:
           useful products with people we love feels meaningful enough.
       - question: Where can I learn more about PLA?
         answer: >-
+        
   - type: contact_section
     image: images/promo.jpg
     section_id: contact_section
