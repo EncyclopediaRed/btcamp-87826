@@ -48,6 +48,9 @@ sections:
           What plugin(s) would help your website/business and why? This can be a
           WordPress or Ecwid or some other plugin.  No need to purchase or
           install the plugin – research only.
+
+
+          ## [Continue...](/blog\_04)
         image: images/81t7DOELtdL.png
   - type: promotion_section
     section_id: promotion_section
