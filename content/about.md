@@ -29,7 +29,7 @@ sections:
       - title: Pat Bonipally
         description: >-
           And this is Pat!
-      - title: lorem-ipsum
+      - title: Quan 
         description: >-
           ## Lorem ipsum
 
