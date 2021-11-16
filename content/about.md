@@ -28,6 +28,7 @@ sections:
         image: images/Pat-Bonipally.png
       - title: Quan Nguyen
         description: And here's Quan!
+        image: image/Quan-Nguyen.png
       - title: lorem-ipsum
         description: >-
           ## Lorem ipsum
