@@ -57,7 +57,7 @@ sections:
     title: Büt Camp Emegency Shelter
     subtitle: from $11.99
     image: images/promo.jpg
-    background_image: /images/leaf.svg
+    background_image: images/icon_butcamp_tent.png
     cta:
       title: Discover
       url: /store
