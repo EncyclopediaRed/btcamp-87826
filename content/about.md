@@ -23,6 +23,7 @@ sections:
         image: images/Rob-Barrowclift.png
       - title: Alex Kinnaman
         description: 'This is Alex! '
+        image: images/Alex-Kinnaman.png
       - title: Pat Bonipally
         description: And this is Pat!
         image: images/Pat-Bonipally.png
