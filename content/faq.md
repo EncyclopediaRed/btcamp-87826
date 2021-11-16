@@ -48,18 +48,30 @@ sections:
 
           ![](images/PLA-biodegradation.png)
       - question: What is PLA used for (other than awesome tents)?
-        answer: >-
-          Q: Why is this Planty theme so beautiful? <br /> A: We hired our first
-          designer a couple of months ago. <br /><br /> Q: Why did you build a
-          theme for Stackbit? <br /> A: We believe in Stackbit’s promise of
-          opening up the JAMstack to more developers. Plus, we trust these
-          folks. [Read more about Stackbit](http://bit.ly/2YAvGix). <br /><br />
-          Q: How many people work at Snipcart? <br /> A: Not a lot! We’re a
-          small, bootstrapped team of eight human beings. Michael might be a
-          robot, though. <br /><br /> Q: Why is Snipcart based in Québec City?
-          <br /> A: Have you been here? It’s beaaautiful! <br /><br /> Q: What’s
-          the meaning of life? <br /> A: We’re not quite sure. But building
-          useful products with people we love feels meaningful enough.
+        answer: >
+          *   3D printing
+
+
+          *   Biodegradable medical devices (e.g. screws meant to degrade in
+          6-12 mos)
+
+
+          *   Plastic films (e.g. mulch films)
+
+
+          *   Water bottles
+
+
+          *   Utensils/cutlery/dishware
+
+
+          *   Short-term packaging (e.g. tea, cups, fruits and vegetables)
+
+
+          *   Industrial and civilian cloth (e.g. tents!)
+
+
+          ![](images/PLA-fabric.png)
       - question: Where can I learn more about PLA?
         answer: >-
           Great question! Here is a select list of our favorite resources for
