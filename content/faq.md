@@ -50,7 +50,6 @@ sections:
 
 
 
-
           ![](images/PLA-biodegradation-63b2625d.png)
       - question: What is PLA used for (other than awesome tents)?
         answer: >+
