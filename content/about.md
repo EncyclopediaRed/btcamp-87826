@@ -18,7 +18,7 @@ sections:
     section_id: bulletpoints_section
     headLine: Meet the Team
     bulletpoints:
-      - title: Meet the Team
+      - title: Rob Barrowclift
         description: >-
           Meet Rob! Rob is awesome pants.
         image: images/Screen Shot 2021-11-16 at 12.43.32 AM.png
