@@ -30,7 +30,7 @@ sections:
       - title: Quan Nguyen
         description: And here's Quan!
         image: image/Quan-Nguyen.png
-      - title: lorem-ipsum
+      - title: Structure
         description: >-
           ## Lorem ipsum
 
