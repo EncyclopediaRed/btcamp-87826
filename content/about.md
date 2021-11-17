@@ -81,7 +81,7 @@ sections:
           A near-future vision of 10-15 employees to assist with inventory,
           bookkeeping, sales, support and returns, and government liaison.
 
-      - title: Our Valued Partners
+      - title: 'Partner: Compost Bag China'
         description: >
           # Compost Bag China<br /><br />
 
