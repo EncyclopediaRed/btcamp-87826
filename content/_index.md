@@ -27,23 +27,6 @@ sections:
       - content/products/tent_02.md
       - content/products/tent_03.md
     title: Büt Camp Best Sellers
-  - section_id: test
-    questions:
-      - question: Eco-Friendly
-        answer: >+
-          ## Made With Polylactic Acid (PLA)
-
-
-          PLA is a plastic made from biodegradeable cornstarch. This temporary
-          shelter will never last in a landfill.
-
-      - question: Affordable
-        answer: >
-          Büt Camp, Inc. believes in helping as much as possible. That's why
-          we're a Certified B Corporation. Our aim isn't profits for profit
-          sake. We wish to give back to the community and customers in need. We
-          keep our costs as low as possible and pass our savings on to you.
-    type: faq_section
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
