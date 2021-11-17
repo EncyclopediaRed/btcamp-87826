@@ -14,7 +14,7 @@ sections:
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
-      - title: 'Blog Post #1'
+      - title: 'Blog Post 1: The Lean Startup'
         description: >
           What processes and concepts from The Lean Startup benefit our business
           and details of why it’s being used?
