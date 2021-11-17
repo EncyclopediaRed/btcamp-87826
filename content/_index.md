@@ -7,12 +7,10 @@ sections:
     section_id: hero_section
     background_image: images/AdobeStock_114985546.jpeg
     background_image_opacity: 65
-    content: >
-      # Temporary Emergency Shelters - Test
+    content: |
+      # Büt Camp Temporary Emergency Shelters
 
-
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      Biodegradable and lightweight. Piece of mind is sheltered here.
     actions:
       - title: See all items
         url: /store
