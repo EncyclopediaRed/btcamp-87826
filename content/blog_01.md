@@ -44,7 +44,7 @@ sections:
           can be discarded in an emergency without environmental consequences.
           People are moving towards eco-friendly options to replace traditional
           products that are not biodegradable and will want a product that
-          minimizes their waste.
+          minimizes their waste.<br /><br />
 
 
           ## **Growth Hypothesis**<br /><br />
