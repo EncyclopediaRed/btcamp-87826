@@ -67,11 +67,14 @@ sections:
         image: images/Quan-Nguyen-6e06ef6b.png
       - title: Structure
         description: >
-          We are a Certified B Corporation registered in Virginia.
+          We are a **Certified B Corporation** registered in Virginia.
 
 
           Büt Camp, Inc. has passed its B Certification exam with an overall
           score of 92.
+
+
+          B Lab. (n.d.) Certified B Corporation. Retrieved from
   - type: promotion_section
     section_id: promotion_section
     title: A new alternative for temporary shelter
