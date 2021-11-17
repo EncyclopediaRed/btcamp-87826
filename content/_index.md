@@ -81,7 +81,7 @@ sections:
       url: /store
       style: secondary
       arrow: true
-  - section_id: lorem-ipsum
+  - section_id: test
     questions: []
     type: faq_section
 seo:
