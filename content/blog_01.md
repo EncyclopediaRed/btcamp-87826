@@ -12,6 +12,7 @@ sections:
 
       ##
     type: header_section
+    background_image: images/leaf-light-grey.svg
   - section_id: post-one
     bulletpoints:
       - title: What is the Lean Startup?
