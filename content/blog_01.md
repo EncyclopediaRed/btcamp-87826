@@ -38,7 +38,7 @@ sections:
           is already a market for products to prepare for emergency response,
           and people would want additional product options for emergency
           shelters to diversify their preparedness plan.
-
+          <br />
 
           Additionally, Büt Camp is designed to be environmentally friendly and
           can be discarded in an emergency without environmental consequences.
