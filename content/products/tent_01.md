@@ -32,7 +32,7 @@ seo:
       value: images/plant1-lg.jpg
       relativeUrl: true
 layout: product
-default_thumbnail_image: images/plant1.jpg
+default_thumbnail_image: images/tent_01.png
 default_original_image: images/plant1-lg.jpg
 category: content/category/bigplants.md
 ---
