@@ -96,7 +96,7 @@ sections:
 
           3.  If <50% of customers report that individual units are too
           expensive, we persevere and market the bulk sales price, which is
-          significantly reduced.
+          significantly reduced.<br /><br />
 
 
           4.  If <75% of customers report that individual units are too
