@@ -127,8 +127,8 @@ sections:
 
 
           ODM Group is our direct contact for:
-          
-          *   Representative office in Zhuhai
+
+          *   - Representative office in Zhuhai
           *   Product sourcing
           *   QC reporting
   - type: promotion_section
