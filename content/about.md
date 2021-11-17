@@ -111,7 +111,31 @@ sections:
           January/February during the Chinese Lunar New Year.
         image: images/CBC-small-6af99c25.png
       - title: 'Partner: ODM Group'
-        description: "Website: https://www.odm-pro.com\nLocation: 4A Hung Chu Bldg, Jida Jiuzhou Avenue Zhuhai 519015, China\n\nQuality Control is performed by our Chinese Manufacturer Liaison ODM Group as part of our contract with them.\n\nODM works directly with the manufacturer to hold to ISO Standards1 and ASTM Standards2 for durability, functionality as a tent, and biodegradability of the PLA film and finished product.\n\n\nODM Group is our direct contact for\_\n\n*   Representative office in Zhuhai\n\n*   Product sourcing\n\n*   QC reporting\n"
+        description: >
+          Website: https://www.odm-pro.com
+
+          Location: 4A Hung Chu Bldg, Jida Jiuzhou Avenue Zhuhai 519015, China
+
+
+          Quality Control is performed by our Chinese Manufacturer Liaison ODM
+          Group as part of our contract with them.
+
+
+          ODM works directly with the manufacturer to hold to ISO Standards1 and
+          ASTM Standards2 for durability, functionality as a tent, and
+          biodegradability of the PLA film and finished product.
+
+
+          ODM Group is our direct contact for:
+
+
+          *   Representative office in Zhuhai
+
+
+          *   Product sourcing
+
+
+          *   QC reporting
   - type: promotion_section
     section_id: promotion_section
     title: A new alternative for temporary shelter
