@@ -17,14 +17,11 @@ sections:
           Modern Data Governance Needs
 
 
-
-
           Have you ever wondered what really happens with the data you provide
           your online services and accounts? Of course you have! Using Google,
           Amazon, Twitter, Facebook, and any other e-commerce or social media
           service not only keeps your data, but uses it to generate product
           recommendations and targeted ads.
-
 
 
           The individual user has little autonomy over what happens to their
@@ -34,7 +31,6 @@ sections:
           H.R.4240 - 117th Congress (2021-2022): User Data Protection Act.
           (2021, June 29).
           <https://www.congress.gov/bill/117th-congress/house-bill/4240).>
-
 
 
           General Data Protection Regulation¹ do exist, as well as the Personal
@@ -50,6 +46,8 @@ sections:
           reading privacy policies is an act of surrender, not of consent.”³
 
 
+          We hear you, Teresa.
+
 
           Recently there have been calls for companies to answer for how they
           manage user data and what they use it for, an example being the recent
@@ -57,7 +55,6 @@ sections:
           including Amazon, TikTok, Twitter, and others,⁴ as well as multiple
           discussions on ethical data use in many other applications,⁴ including
           other tech companies like Uber, Google Maps, and Facebook⁵
-
 
 
           We believe that businesses should have clear, transparent standards on
