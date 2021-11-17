@@ -56,7 +56,7 @@ sections:
           broader level. With brand recognition and wider distribution, we will
           gain the attention of larger groups at regional, state, and federal
           levels in need of additional emergency shelter options.
-      - title: lorem-ipsum
+      - title: Metrics for Success
         description: >-
           ## Lorem ipsum
 
