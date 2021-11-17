@@ -73,7 +73,6 @@ sections:
           Büt Camp, Inc. has passed its B Certification exam with an overall
           score of 92.<br /><br />
 
-
           Our four-member team shares an equal 25% Ownership.<br /><br />
 
           A near-future vision of 10-15 employees to assist with inventory,
