@@ -38,17 +38,11 @@ sections:
           shelter will never last in a landfill.
 
       - question: Affordable
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: >
+          Büt Camp, Inc. believes in helping as much as possible. That's why
+          we're a Certified B Corporation. Our aim isn't profits for profit
+          sake. We wish to give back to the community and customers in need. We
+          keep our costs as low as possible and pass our savings on to you.
     type: faq_section
   - type: testimonials_section
     section_id: testimonials_section
