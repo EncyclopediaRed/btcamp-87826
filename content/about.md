@@ -109,7 +109,6 @@ sections:
           COVID-19, customs has been slower to receive shipments, but we don’t
           foresee significant delays in time to receipt, except in the months of
           January/February during the Chinese Lunar New Year.
-        image: images/CBC-small.png
       - title: 'Partner: ODM Group'
         description: |
           Website: https://www.odm-pro.com
