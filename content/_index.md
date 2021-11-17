@@ -88,7 +88,7 @@ sections:
           sake. We wish to give back to the community and customers in need. We
           keep our costs as low as possible and pass our savings on to you.
         image: images/icon_afford_small.png
-      - title: lorem-ipsum
+      - title: 'Easy to '
         description: >-
           ## Lorem ipsum
 
