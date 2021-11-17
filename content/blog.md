@@ -31,7 +31,7 @@ sections:
 
 
           ## Continue...
-        image: images/team.jpg
+        image: images/AdobeStock_136542286.jpeg
       - title: 'Blog Post #3'
         description: >
           What additional technology are you currently or planning on
