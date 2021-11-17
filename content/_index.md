@@ -37,7 +37,7 @@ sections:
           PLA is a plastic made from biodegradeable cornstarch. This temporary
           shelter will never last in a landfill.
 
-      - question: lorem-ipsum
+      - question: Affordable
         answer: >-
           ## Lorem ipsum
 
