@@ -21,7 +21,7 @@ sections:
 
 
           ## [Continue...](/blog\_01)
-        image: images/AdobeStock_114985546.jpeg
+        image: images/leanstartup.png
       - title: 'Blog Post #2'
         description: >
           Detailed Technology use for ecommerce solution – How does your
