@@ -1,9 +1,9 @@
 {
-    "title": "Büt Camp asdfasdf",
+    "title": "Büt Camp",
     "favicon": "images/favicon.png",
     "logo_dark": "images/BC_logo.png",
     "logo_light": "images/BC_logo_white.png",
-    "hamburger_background_image": "/images/leaf-light-grey.svg",
+    "hamburger_background_image": "images/leaf-light-grey.svg",
     "bg_image_primary": "/images/header.jpg",
     "bg_image_primary_opacity": 60,
     "bg_image_secondary": "/images/leaf-light-grey.svg",
@@ -30,7 +30,7 @@
         },
         {
             "title": "PLA FAQ",
-            "url": "/faq",
+            "url": "/pla-faq",
             "style": "link"
         },
         {
