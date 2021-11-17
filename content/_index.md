@@ -54,8 +54,7 @@ sections:
       url: /store
       style: secondary
       arrow: true
-  - section_id: features
-    bulletpoints:
+  - bulletpoints:
       - title: Eco-Friendly
         description: >
           ## Made With Polylactic Acid (PLA)
