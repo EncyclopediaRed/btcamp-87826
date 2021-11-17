@@ -68,14 +68,21 @@ sections:
           **A Data Trust is a legal framework for managing data.**
 
 
+          ****
+
+
           What that really means is that there is a group of beneficiaries that
           produce data who enter a legal contract based on trust law with
           trustees who follow the contract and facilitate the appropriate
           handling of the data. This means that beneficiaries have complete
-          control and understanding of how their data is being used and why. 
+          control and understanding of how their data is being used and why.
+
+
 
 
           There are 3 primary concepts involved in a data trust:
+
+
 
 
           1.  There is a clear intention to establish a trust
@@ -91,8 +98,7 @@ sections:
           Data Trusts are used in several fields, including social media,
           hospitals and other health data repositories, research data,
           artificial intelligence research and data, and, you guessed it,
-          e-commerce. 
-
+          e-commerce.
 
 
           Key Entities for data trusts include the following:
@@ -106,12 +112,11 @@ sections:
           gatekeeping of data based on agreed-upon terms with the beneficiaries
 
 
-          *   **Trust** **Law**: “Trust law refers to laws governing the
-          creation and implementation of trusts, which are fiduciary
-          relationships. In this type of relationship, one party (called the
-          trustor) gives a second party (called the trustee) the right to hold
-          title to assets or property for the benefit of a third party (called
-          the beneficiary).”
+          *   **Trust Law**: “Trust law refers to laws governing the creation
+          and implementation of trusts, which are fiduciary relationships. In
+          this type of relationship, one party (called the trustor) gives a
+          second party (called the trustee) the right to hold title to assets or
+          property for the benefit of a third party (called the beneficiary).”
 
 
           *   **Data Rights**: The right for individuals to know what is
