@@ -5,7 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/AdobeStock_114985546.jpeg
+    background_image: images/AdobeStock_114985546_edited2.jpg
     background_image_opacity: 65
     content: |
       # Büt Camp Temporary Emergency Shelters
@@ -85,14 +85,14 @@ sections:
       style: secondary
       arrow: true
 seo:
-  title: Planty Theme
-  description: The preview of the Planty theme
+  title: Büt Camp, Inc.
+  description: Home of the Büt Camp Temporary Emergency Shelter
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Planty Theme
+      value: Büt Camp, Inc.
       keyName: property
     - name: 'og:description'
       value: The preview of the Planty theme
@@ -104,7 +104,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Planty Theme
+      value: Büt Camp, Inc.
     - name: 'twitter:description'
       value: The preview of the Planty theme
     - name: 'twitter:image'
