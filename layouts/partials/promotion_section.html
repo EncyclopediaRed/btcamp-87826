@@ -9,7 +9,7 @@
             <p class="promo__subtitle">{{ $section.subtitle }}</p>
             {{ if $section.cta }}
                 {{ $cta_style := $section.cta.style | default "primary" }}
-                <a class="link promo__link{{ if eq $cta_style "primary" }} link--light-filled{{ end }}{{ if eq $cta_style "secondary" }} link--light{{ end }}{{ if eq $cta_style "link" }} link--light-borderless{{ end }}" href="{{ $section.cta.RelPermalink }}">
+                <a class="link promo__link{{ if eq $cta_style "primary" }} link--light-filled{{ end }}{{ if eq $cta_style "secondary" }} link--light{{ end }}{{ if eq $cta_style "link" }} link--light-borderless{{ end }}" href="{{ $section.cta.Permalink }}">
                     {{ $section.cta.title }}
                     {{ if $section.cta.arrow }}
                     <svg width="26" height="14" viewBox="0 0 26 14" xmlns="http://www.w3.org/2000/svg">

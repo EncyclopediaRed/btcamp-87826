@@ -3,7 +3,7 @@
 
 <button class="{{ $component }}__item-buy button button--icon-only snipcart-add-item"
     data-item-name="{{ $product_page.Title }}"
-    data-item-url="{{ $product_page.RelPermalink }}"
+    data-item-url="{{ $product_page.Permalink }}"
     data-item-price="{{ $product_page.Params.price }}"
     {{ if $product_page.Params.category }}
         {{ $category_page := $.Site.GetPage "page" ( $product_page.Params.category | strings.TrimPrefix "content/" ) }}

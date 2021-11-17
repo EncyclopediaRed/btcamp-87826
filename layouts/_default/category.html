@@ -3,7 +3,7 @@
 <main class="content{{ if $store_page.Params.page_css_class }} {{ $store_page.Params.page_css_class }}{{ end }}">
     {{ range $section := $store_page.Params.sections }}
         {{ if eq $section.type "store_section" }}
-            {{ $include_dict := dict "section" $section "page" $ "category_url" $.RelPermalink "Site" $.Site }}
+            {{ $include_dict := dict "section" $section "page" $ "category_url" $.Permalink "Site" $.Site }}
             {{ $component := print $section.type ".html" }}
             {{ partial $component $include_dict }}
         {{ else }}

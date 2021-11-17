@@ -9,7 +9,7 @@
     <div class="hero__links link-group">
       {{ range $action := $section.actions }}
         {{ $action_style := $action.style | default "primary" }}
-        <a href="{{ $action.RelPermalink | relURL }}" class="link{{ if eq $action_style "primary" }} link--filled{{ end }}{{ if eq $action_style "link" }} link--borderless{{ end }}">
+        <a href="{{ $action.Permalink | relURL }}" class="link{{ if eq $action_style "primary" }} link--filled{{ end }}{{ if eq $action_style "link" }} link--borderless{{ end }}">
           {{ $action.title }}
           {{ if $action.arrow }}
           <svg width="26" height="14" viewBox="0 0 26 14" xmlns="http://www.w3.org/2000/svg">
