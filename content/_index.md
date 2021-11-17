@@ -58,6 +58,18 @@ sections:
         image: images/icon_lightweight_small.png
       - title: Learn More about BütCamp Inc.'s Roadmap for Growth
         image: images/icon_butcamp_tent.png
+      - title: lorem-ipsum
+        description: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
     type: bulletpoints_section
     section_id: features
   - type: testimonials_section
