@@ -62,9 +62,6 @@ sections:
           data sharing.
       - title: 'The Solution: Data Trusts'
         description: >
-          ## Data Trusts
-
-
           **A Data Trust is a legal framework for managing data.**
 
 
