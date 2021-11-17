@@ -4,17 +4,6 @@ layout: store
 sections:
   - type: store_section
     section_id: store_section
-  - type: promotion_section
-    section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
-    image: images/promo.jpg
-    background_image: /images/leaf.svg
-    cta:
-      title: Discover
-      url: /store
-      style: secondary
-      arrow: true
 seo:
   title: Store
   description: This is the store page
