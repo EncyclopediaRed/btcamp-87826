@@ -119,7 +119,7 @@ sections:
           bulk products and increase the price of the bulk items to decrease the
           cost of an individual unit.
         image: images/noun_adapt_4374562.png
-      - title: lorem-ipsum
+      - title: References
         description: >-
           ## Lorem ipsum
 
