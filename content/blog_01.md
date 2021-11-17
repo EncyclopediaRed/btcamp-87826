@@ -120,6 +120,12 @@ sections:
           cost of an individual unit.
         image: images/noun_adapt_4374562.png
     type: bulletpoints_section
+  - section_id: lorem-ipsum
+    address: lorem-ipsum
+    phone: lorem-ipsum
+    email: lorem-ipsum
+    mapUrl: lorem-ipsum
+    type: contact_section
 seo:
   title: ''
   description: ''
