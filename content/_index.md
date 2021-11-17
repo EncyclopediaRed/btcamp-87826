@@ -27,6 +27,32 @@ sections:
       - content/products/tent_02.md
       - content/products/tent_03.md
     title: Büt Camp Best Sellers
+  - bulletpoints:
+      - title: Eco-Friendly
+        description: >
+          ## Made With Polylactic Acid (PLA)
+
+
+          PLA is a plastic made from biodegradeable cornstarch. This temporary
+          shelter will never last in a landfill.
+        image: images/icon_eco_small.png
+      - title: Affordable
+        description: >
+          Büt Camp, Inc. believes in helping as much as possible. That's why
+          we're a Certified B Corporation. Our aim isn't profits for profit
+          sake. We wish to give back to the community and customers in need. We
+          keep our costs as low as possible and pass our savings on to you.
+        image: images/icon_afford_small.png
+      - title: Easy to Set Up
+        description: >
+          The Büt Camp Emergency Shelter has no poles or stakes. Instead you
+          only need to blow into the air chamber to set up your tent. The air
+          channels are stiff enough to keep the tent up right for a couple of
+          days. And if you need to move, you simply deflate the tent and roll it
+          back into the small bag provided.
+        image: images/icon_blow_small.png
+    type: bulletpoints_section
+    section_id: features
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
@@ -54,32 +80,6 @@ sections:
       url: /store
       style: secondary
       arrow: true
-  - bulletpoints:
-      - title: Eco-Friendly
-        description: >
-          ## Made With Polylactic Acid (PLA)
-
-
-          PLA is a plastic made from biodegradeable cornstarch. This temporary
-          shelter will never last in a landfill.
-        image: images/icon_eco_small.png
-      - title: Affordable
-        description: >
-          Büt Camp, Inc. believes in helping as much as possible. That's why
-          we're a Certified B Corporation. Our aim isn't profits for profit
-          sake. We wish to give back to the community and customers in need. We
-          keep our costs as low as possible and pass our savings on to you.
-        image: images/icon_afford_small.png
-      - title: Easy to Set Up
-        description: >
-          The Büt Camp Emergency Shelter has no poles or stakes. Instead you
-          only need to blow into the air chamber to set up your tent. The air
-          channels are stiff enough to keep the tent up right for a couple of
-          days. And if you need to move, you simply deflate the tent and roll it
-          back into the small bag provided.
-        image: images/icon_blow_small.png
-    type: bulletpoints_section
-    section_id: features
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
