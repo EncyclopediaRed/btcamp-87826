@@ -78,7 +78,7 @@ sections:
 
       - title: Our Valued Partners
         description: >
-          # Compost Bag China
+          # Compost Bag China<br /><br />
 
 
           Website: <https://compostbagchina.com>  |  Location: Shandong
