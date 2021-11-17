@@ -120,17 +120,8 @@ sections:
           cost of an individual unit.
         image: images/noun_adapt_4374562.png
       - title: References
-        description: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        description: |
+          Ries, E. (2011). *The Lean Startup: A *
     type: bulletpoints_section
   - section_id: lorem-ipsum
     address: '357 Fannypack Dr. Blacksburg, VA 24061'
