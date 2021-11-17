@@ -27,7 +27,7 @@ sections:
       - content/products/tent_02.md
       - content/products/tent_03.md
     title: Büt Camp Best Sellers
-  - section_id: lorem-ipsum
+  - section_id: ex
     bulletpoints: []
     type: bulletpoints_section
   - type: testimonials_section
