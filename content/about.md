@@ -114,7 +114,7 @@ sections:
           Website: https://www.odm-pro.com<br /><br />
           Location:
 
-          4A Hung Chu Bldg, Jida Jiuzhou Avenue Zhuhai 519015, China
+          4A Hung Chu Bldg, Jida Jiuzhou Avenue Zhuhai 519015, China<br /><br />
 
           Chinese Manufacturer Liaison
   - type: promotion_section
