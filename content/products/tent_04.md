@@ -1,6 +1,6 @@
 ---
 id: '4'
-title: Bulk (Bulk Pack 1000) - Büt Camp Emergency Shelters
+title: Bulk (Bulk  1000) - Büt Camp Emergency Shelters
 description: Bulk purchase shelter pack. Up to a 20% bulk discount! Minimum 1000 units.
 price: '9500'
 order: 4
