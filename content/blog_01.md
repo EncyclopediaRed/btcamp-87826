@@ -37,8 +37,7 @@ sections:
           and products that anyone can function in a stressful situation. There
           is already a market for products to prepare for emergency response,
           and people would want additional product options for emergency
-          shelters to diversify their preparedness plan.
-          <br /><br />
+          shelters to diversify their preparedness plan. <br /><br />
 
           Additionally, Büt Camp is designed to be environmentally friendly and
           can be discarded in an emergency without environmental consequences.
@@ -57,6 +56,18 @@ sections:
           broader level. With brand recognition and wider distribution, we will
           gain the attention of larger groups at regional, state, and federal
           levels in need of additional emergency shelter options.
+      - title: lorem-ipsum
+        description: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
     type: bulletpoints_section
 seo:
   title: ''
