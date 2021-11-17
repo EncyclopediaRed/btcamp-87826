@@ -14,7 +14,7 @@ sections:
     type: header_section
   - section_id: post-one
     bulletpoints:
-      - title: lorem-ipsum
+      - title: What is the Lean Startup?
         description: >
           "The Lean Startup: How Today's Entrepreneurs Use Continous Innovation
           to Create Radically Successful Businesses" by Eric Ries describes the
