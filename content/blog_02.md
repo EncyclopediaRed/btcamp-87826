@@ -12,7 +12,7 @@ sections:
     background_image: images/leaf-light-grey.svg
   - section_id: post2
     bulletpoints:
-      - title: lorem-ipsum
+      - title: 'The Problem:'
         description: >-
           ## Lorem ipsum
 
