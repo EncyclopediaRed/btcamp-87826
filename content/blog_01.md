@@ -119,6 +119,18 @@ sections:
           bulk products and increase the price of the bulk items to decrease the
           cost of an individual unit.
         image: images/noun_adapt_4374562.png
+      - title: lorem-ipsum
+        description: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
     type: bulletpoints_section
   - section_id: lorem-ipsum
     address: '357 Fannypack Dr. Blacksburg, VA 24061'
