@@ -58,7 +58,7 @@ sections:
     questions:
       - question: Biodegradeable
         answer: >
-          ## Made With Earth Freindly PLA
+          ## Made With Earth Friendly PLA
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
