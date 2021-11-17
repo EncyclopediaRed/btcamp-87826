@@ -1,7 +1,7 @@
 ---
 id: '10'
 title: Five (5) Büt Camp Emergency Shelters
-description: One shelter to rule them all.
+description: Five shelter pack. 8% Volume discount!
 price: '54.95'
 order: 1
 featured: true
