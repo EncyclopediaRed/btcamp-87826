@@ -74,22 +74,26 @@ sections:
           responses to the product.
       - title: Pivot & Persevere Actions
         description: >
-          *   If <25% of customers report that the product is dysfunctional, we
+          We want to know when we need to make a design update to our products.
+          After 
+
+
+          1.  If <25% of customers report that the product is dysfunctional, we
           persevere and work with our manufacturer and suppliers to improve
           quality control measures.
 
 
-          *   If <50% of customers report that the product is dysfunctional, we
+          2.  If <50% of customers report that the product is dysfunctional, we
           pivot and reevaluate with our manufacturer and develop a new design.
           This includes structural issues, setup workflow, and color.
 
 
-          *   If <50% of customers report that individual units are too
+          3.  If <50% of customers report that individual units are too
           expensive, we persevere and market the bulk sales price, which is
           significantly reduced.
 
 
-          *   If <75% of customers report that individual units are too
+          4.  If <75% of customers report that individual units are too
           expensive, we pivot and reevaluate the prices of individual versus
           bulk products and increase the price of the bulk items to decrease the
           cost of an individual unit.
