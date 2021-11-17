@@ -6,7 +6,7 @@ sections:
   - section_id: lorem-ipsum
     headline: lorem-ipsum
     subtitle: |
-      Where are are and where we're going
+      Where we are and where we're going
     type: header_section
 seo:
   title: ''
