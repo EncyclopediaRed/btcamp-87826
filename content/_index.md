@@ -27,6 +27,21 @@ sections:
       - content/products/tent_02.md
       - content/products/tent_03.md
     title: Büt Camp Best Sellers
+  - section_id: test
+    questions:
+      - question: Biodegradeable
+        answer: >
+          ## Made With Earth Friendly PLA
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          *   Lorem ipsum
+
+          *   dolor sit amet
+    type: faq_section
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
@@ -54,21 +69,6 @@ sections:
       url: /store
       style: secondary
       arrow: true
-  - section_id: test
-    questions:
-      - question: Biodegradeable
-        answer: >
-          ## Made With Earth Friendly PLA
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
-    type: faq_section
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
