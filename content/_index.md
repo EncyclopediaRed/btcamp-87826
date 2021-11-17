@@ -89,17 +89,12 @@ sections:
           keep our costs as low as possible and pass our savings on to you.
         image: images/icon_afford_small.png
       - title: Easy to Set Up
-        description: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        description: >
+          The Büt Camp Emergency Shelter has no poles or stakes. Instead you
+          only need to blow into the air chamber to set up your tent. The air
+          channels are stiff enough to keep the tent up right for a couple of
+          days. And if you need to move, you simply deflate the tent and roll it
+          back into the small bag provided.
         image: images/icon_blow_small.png
     type: bulletpoints_section
 seo:
