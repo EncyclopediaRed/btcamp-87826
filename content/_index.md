@@ -83,7 +83,7 @@ sections:
       arrow: true
   - section_id: test
     questions:
-      - question: lorem-ipsum
+      - question: Biodegradeable
         answer: >-
           ## Lorem ipsum
 
