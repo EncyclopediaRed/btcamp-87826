@@ -20,7 +20,7 @@ sections:
         style: primary
   - type: featured_products_section
     section_id: best_sellers_section
-    icon: false
+    icon: true
     light_title: true
     featured_products:
       - content/products/tent_01.md
