@@ -4,8 +4,6 @@ layout: store
 sections:
   - type: store_section
     section_id: store_section
-  - section_id: lorem-ipsum
-    type: store_section
 seo:
   title: Store
   description: This is the store page
