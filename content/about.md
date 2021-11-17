@@ -77,8 +77,8 @@ sections:
           bookkeeping, sales, support and returns, and government liaison.
 
       - title: Our Valued Partners
-        description: >+
-          ## Compost Bag China
+        description: >
+          # Compost Bag China
 
 
           https://compostbagchina.com
@@ -102,7 +102,6 @@ sections:
           hardened to allow for tying and untying.
 
 
-
           CBC requires payment upfront for order volumes of our size. And
           delivery is made after inspection via shipping container. Due to
           COVID-19, customs has been slower to receive shipments, but we don’t
@@ -110,10 +109,7 @@ sections:
           January/February during the Chinese Lunar New Year.
 
 
-
-
-          ## ODM Group
-
+          # ODM Group
       - title: lorem-ipsum
         description: >-
           ## Lorem ipsum
