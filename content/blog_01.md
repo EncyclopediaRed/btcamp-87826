@@ -72,7 +72,7 @@ sections:
           comments. More directly, we will conduct a limited number of
           one-on-one interviews with users for a qualitative analysis of
           responses to the product.
-      - title: lorem-ipsum
+      - title: Pivot & Persevere Actions
         description: >-
           ## Lorem ipsum
 
