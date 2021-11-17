@@ -28,7 +28,7 @@ sections:
 
 
 
-          *Hidden among these mundane details are a handful of assumptions that
+          *"Hidden among these mundane details are a handful of assumptions that
           require more courage to state—in the present tense—with a straight
           face: we assume that customers have a significant desire to use a
           product like ours, or we assume that supermarkets will carry our
@@ -36,7 +36,7 @@ sections:
           entrepreneur superpower. They are called leaps of faith precisely
           because the success of the entire venture rests on them. If they are
           true, tremendous opportunity awaits. If they are false, the startup
-          risks total failure.*
+          risks total failure."*
 
 
           *--Ries, Eric. The Lean Startup*
