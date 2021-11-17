@@ -57,17 +57,21 @@ sections:
           gain the attention of larger groups at regional, state, and federal
           levels in need of additional emergency shelter options.
       - title: Metrics for Success
-        description: >-
-          ## Lorem ipsum
+        description: >
+          Büt Camp Inc. takes a multi-pronged approach to measuring customer
+          response. Indirectly, we use web analytics to track the number of
+          visits to the site, number of clicks, time spent on the site, referral
+          links, incomplete purchases (added to cart but did not complete), and
+          complete purchases.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          Feedback options are available on our website, ranging from a
+          one-click product rating feedback to providing written reviews and
+          comments. More directly, we will conduct a limited number of
+          one-on-one interviews with users for a qualitative analysis of
+          responses to the product.
     type: bulletpoints_section
 seo:
   title: ''
