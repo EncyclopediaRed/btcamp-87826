@@ -58,6 +58,14 @@ sections:
         image: images/icon_lightweight_small.png
       - title: Learn More about BütCamp Inc.'s Roadmap for Growth
         image: images/icon_butcamp_tent.png
+        description: >
+          BütCamp is just beginning to make an impact on emergency planning and
+          biodegradeable product.
+
+
+
+
+          [Learn more about our 3-year roadmap!](/roadmap)
     type: bulletpoints_section
     section_id: features
   - type: testimonials_section
