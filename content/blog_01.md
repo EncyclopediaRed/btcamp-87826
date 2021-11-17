@@ -120,8 +120,10 @@ sections:
           cost of an individual unit.
         image: images/noun_adapt_4374562.png
       - title: References
-        description: |
-          Ries, E. (2011). *The Lean Startup: A *
+        description: >
+          Ries, E. (2011). *The Lean Startup: How Today's Entrepreneurs Use
+          Continous Innovation to Create Radically Successful Businesses.* Crown
+          Publishing Group, New York. ISBN 9780307887894
     type: bulletpoints_section
   - section_id: lorem-ipsum
     address: '357 Fannypack Dr. Blacksburg, VA 24061'
