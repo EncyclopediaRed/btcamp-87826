@@ -44,12 +44,6 @@
             "url": "plan",
             "style": "primary",
             "arrow": false
-        },
-        {
-            "title": "E-Commerce",
-            "url": "ecommerce",
-            "style": "primary",
-            "arrow": false
         }
     ],
     "domain": "https://btcamp-87826.netlify.app"
