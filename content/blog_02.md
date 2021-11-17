@@ -21,9 +21,7 @@ sections:
           your online services and accounts? Of course you have! Using Google,
           Amazon, Twitter, Facebook, and any other e-commerce or social media
           service not only allows them to keep your data, but use it to generate
-          product recommendations and targeted ads.
-
-
+          product recommendations and targeted ads.\<br />
 
 
           The individual user has little autonomy over what happens to their
@@ -33,8 +31,6 @@ sections:
           H.R.4240 - 117th Congress (2021-2022): User Data Protection Act.
           (2021, June 29).
           <https://www.congress.gov/bill/117th-congress/house-bill/4240).>
-
-
 
 
           General Data Protection Regulation¹ do exist, as well as the Personal
@@ -48,8 +44,6 @@ sections:
           often the way it is presented to consumers makes it difficult for them
           to make informed choices. In this context, clicking “I agree” without
           reading privacy policies is an act of surrender, not of consent.”³
-
-
 
 
           We hear you, Teresa.
