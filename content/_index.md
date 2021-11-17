@@ -52,17 +52,13 @@ sections:
           back into the small bag provided.
         image: images/icon_blow_small.png
       - title: Small & Lightweight
-        description: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        description: >
+          Only 8oz in weight, and the tent fits in the palm of your hand. Our
+          tent can be taken anywhere or stored for up to two years in even the
+          smallest areas. Take it on a day hike as a "just in case." Or store a
+          few in your emergency preparedness bug-out bag. Fire and rescue
+          services can keep larger quantities on hand for quick and easy
+          emergency shelters in a quickly-changing disaster.
     type: bulletpoints_section
     section_id: features
   - type: testimonials_section
