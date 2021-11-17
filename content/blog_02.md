@@ -144,17 +144,116 @@ sections:
       - title: Data Trusts & Ethical E-Commerce
         description: "The current environment of e-commerce is more connected and interwoven than ever with software, apps, mobile/wearable devices, and sites that track your every movement and action online. The benefit to consumers is more relevant data processed and delivered to them via ads hyper-personalized to their current wants and location, the ability to see where you are and where you've been, medical portals tracking health, purchasing habits, etc. As the scope and speed of data are cross-referenced, a customer becomes an encyclopedic data point with vast amounts of specific personal and private information that can be damaging if leaked or used by unscrupulous companies to drive profits through the sale of that data. This leads to a trust deficiency in consumer minds of businesses on the web in general, creating a more significant barrier to gaining a more reputable reputation.\n\n\nUsing a Data Trust allows the e-commerce business to access, store, and evaluate data on current customers, potential customers, and trends while simultaneously keeping that data safe and manageable by the customer via the trust's legal structure and access rules. Building trust in e-commerce is no different than trust between two people. Trust is inherently hard to gain and easy to lose. In e-commerce, trust is a primary driver of why a consumer may buy from your store versus a competitor.1 A company with a higher reputation is a company that can more easily charge higher prices, lower the risk of newer products, and even create consumer evangelists.\_\n\nAn example of how powerful trust can be is Apple's reputation in the eyes of consumers. \"Apple has a powerful brand and unrivaled track record when it comes to the user's experience – in particular, it has taken a strong stance on privacy. Last month its iPhone advert said 'We believe your privacy should never be something you have to question.'\"2 But even one of the most trusted companies on the planet is subject to the fragility of the trust factor. When Apple announced, they were rolling out iPhone photo data scraping for images of child sexual abuse. This announcement was met with immediate backlash as even though the intentions were good, it felt like a betrayal of the core value of privacy Apple has maintained.3\n\nOur first step as an e-commerce company is to begin to foster trust through the use of a Data Trust. This step is one of many on the long road to becoming a company known for being ethical and honest with the data we're given.\n"
       - title: 'How BütCamp, Inc. Employs Data Trusts'
-        description: >-
-          ## Lorem ipsum
+        description: >
+          Büt Camp. Inc. (BCI), an e-commerce certified B-Corp, selling
+          single-person temporary shelter directly to emergency responders,
+          local disaster preparedness groups and councils, survival preppers,
+          and day hikers, has an ethical duty to store data that does not treat
+          the customer's privacy as a source of income. We employ Data Trusts
+          for our benefit and the benefit of the consumers and potential
+          customers.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+          In terms of research data, similar to AI research, and sharing data
+          responsibly, Büt Camp Inc.'s product is built on an innovative,
+          patented PLA technology. We feel that sharing this data with others in
+          a Data Trust and those our Data Trust approves, rather than with
+          anyone who may reappropriate it, is optimal for continuing research in
+          PLA technology and ethical data sharing.
 
 
-          - Lorem ipsum
+          **Data BütCamp, Inc. Collects**
 
-          - dolor sit amet
+
+          Customers order from Büt Camp, Inc.’s online store via the web or
+          progressive web application (PWA). The order process requires a
+          certain amount of data from the customer to allow BCI to process and
+          deliver the order. Data entered, gathered, and generated includes but
+          is not necessarily limited to:
+
+
+          *   Full name
+
+
+          *   Company if applicable
+
+
+          *   Address
+
+
+          *   Credit card
+
+
+          *   Email address
+
+
+          *   Phone number
+
+
+          *   SKUs purchased and quantities
+
+
+          *   Time of purchase
+
+
+          *   Shipping Preference
+
+
+          *   Unique order number
+
+
+          *   Contact preferences
+
+
+          *   Length of time on BCI site
+
+
+          *   Number of visits to BCI site
+
+
+          *   SKUs placed in cart or removed
+
+
+          *   Recent purchases
+
+
+          *   Discounts used
+
+
+
+
+          **Maintaining Our Mission**
+
+
+          Data is stored only in the Data Trust. Only relevant data needed for
+          purchase completion, BCI marketing campaigns, lead generation,
+          customer feedback, etc., is requested and given, adhering to the
+          trust's strict governance rules. Logs keep records of all transactions
+          involving the data to analyze for misuse or data manipulation.
+
+
+
+          The data held by the trust is not only used by Büt Camp, Inc. but is
+          also available to researchers of biodegradable cornstarch-based
+          polylactic acid (PLA), other companies, public sector agencies, and
+          the customers themselves. The customers can see at any time the data
+          collected by Büt Camp, Inc. and what it is used for and why it may be
+          accessed, and by whom. A BCI customer has the right to disallow any
+          information they wish not to be accessed, as long as it does not
+          interfere with the process of completing a purchase. After purchase,
+          the customer can elect to destroy all relevant data or anonymize it
+          for later use, stripping any personal data that could be traced back
+          to that individual or entity.
+
+
+          This level of conditional and ethical data governance is best suited
+          for use in a data trust. With a third party trust guiding and
+          maintaining the data and access to it while also explaining the use
+          patterns, customers and Büt Camp, Inc. can be assured that any
+          customer and BCI data is safe and helpful to the community overall.
+          Ethical data practice is a guiding principle of BCI to be a steward to
+          people and the environment.
     type: bulletpoints_section
 seo:
   title: ''
