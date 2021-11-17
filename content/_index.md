@@ -47,7 +47,7 @@ sections:
     section_id: promotion_section
     title: There when you need it.
     subtitle: from $11.99
-    image: images/promo.jpg
+    image: images/81t7DOELtdL.png
     background_image: images/leaf.svg
     cta:
       title: Discover
