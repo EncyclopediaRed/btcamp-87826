@@ -12,7 +12,7 @@ sections:
     background_image: images/leaf-light-grey.svg
   - section_id: post2
     bulletpoints:
-      - title: 'The Problem:'
+      - title: 'The Problem: Loose Personal Data Protection'
         description: >-
           ## Lorem ipsum
 
