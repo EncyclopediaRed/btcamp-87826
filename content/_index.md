@@ -68,8 +68,7 @@ sections:
         text: >-
           The Büt Camp system saved my bacon when I followed a bear off the main
           trail and got lost. It took days to find me, and I only packed for day
-          hike. I "bearly" made it out. But Büt Camp kept me sheltered until the
-          rescue squad found me.
+          hike. I "bearly" made it out. Büt Camp kept me sheltered until Bear Gryllis found me.
       - author:
           name: Ella Vader
           location: 'MO, USA'

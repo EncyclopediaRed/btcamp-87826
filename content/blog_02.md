@@ -1,13 +1,13 @@
 ---
 title: blog-02
-page_css_class: lorem-ipsum
+page_css_class: Blog 2
 white_header: false
 sections:
   - section_id: blog-2
     headline: 'Blog 2: Data Trusts & E-Commerce'
     subtitle: >
       How does BütCamp, Inc. use Data Trusts as part of an e-commerce solution
-      and why? 
+      and why?
     type: header_section
     background_image: images/leaf-light-grey.svg
   - section_id: post2
@@ -33,7 +33,7 @@ sections:
           US they are only just being introduced in Congress (for example, see
           H.R.4240 - 117th Congress (2021-2022): User Data Protection Act.
           (2021, June 29).
-          <https://www.congress.gov/bill/117th-congress/house-bill/4240).> 
+          <https://www.congress.gov/bill/117th-congress/house-bill/4240).>
 
 
 

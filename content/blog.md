@@ -20,7 +20,7 @@ sections:
           and details of why it’s being used?
 
 
-          ## [Continue...](/blog\_01)
+          ## [Click here to continue...](/blog\_01)
         image: images/leanstartup.png
       - title: 'Blog Post #2'
         description: >
@@ -28,7 +28,7 @@ sections:
           product/service or business use the Technology and why?
 
 
-          ## [Continue...](/blog\_02)
+          ## [Click here to continue...](/blog\_02)
         image: images/AdobeStock_136542286.jpeg
       - title: 'Blog Post #3'
         description: >
@@ -36,7 +36,7 @@ sections:
           incorporating into the business/service/product?
 
 
-          ## [Continue...](/blog\_03)
+          ## [Click here to continue...](/blog\_03)
         image: images/AdobeStock_4026930932.jpeg
       - title: 'Blog Post #4'
         description: >
@@ -45,7 +45,7 @@ sections:
           install the plugin – research only.
 
 
-          ## [Continue...](/blog\_04)
+          ## [Click here to continue...](/blog\_04)
         image: images/AdobeStock_2385483742.jpg
   - type: promotion_section
     section_id: promotion_section

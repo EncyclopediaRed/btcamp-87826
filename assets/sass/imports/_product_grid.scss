@@ -14,6 +14,14 @@
     flex-direction: column;
   }
 
+  &__definition a {
+    text-decoration: none;
+  }
+
+  &__definition a:hover {
+      text-decoration: underline;
+    }
+
   &__title {
     margin-top: $spacing--unit*4;
     margin-bottom: $spacing--unit*1;

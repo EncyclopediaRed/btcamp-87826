@@ -1,6 +1,6 @@
 ---
-title: lorem-ipsum
-page_css_class: lorem-ipsum
+title: blog-03
+page_css_class: Blog 3
 white_header: false
 sections: []
 seo:

@@ -1,9 +1,9 @@
 ---
-id: '10'
+id: '2'
 title: "Five (5) - \_Büt Camp Emergency Shelters"
 description: Five shelter pack. 8% Volume discount!
 price: '54.95'
-order: 1
+order: 2
 featured: true
 seo:
   title: Nulla suscipit
@@ -19,7 +19,7 @@ seo:
       value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
       keyName: property
     - name: 'og:image'
-      value: images/plant1-lg.jpg
+      value: images/tent_01.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -29,12 +29,12 @@ seo:
     - name: 'twitter:description'
       value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
     - name: 'twitter:image'
-      value: images/plant1-lg.jpg
+      value: images/tent_01.png
       relativeUrl: true
 layout: product
 default_thumbnail_image: images/tent_01.png
 default_original_image: images/tent_01.png
-category: content/category/bigplants.md
+category:
 ---
 
 # Nulla suscipit

@@ -1,17 +1,10 @@
 ---
-layout: product
-id: '1'
-price: '49.40'
-title: Nulla suscipit
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
-  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
-  tincidunt.
-default_thumbnail_image: images/plant1.jpg
-default_original_image: images/plant1-lg.jpg
-featured: false
-order: 1
-category: content/category/bigplants.md
+id: '4'
+title: Bulk (1000+) - Büt Camp Emergency Shelters
+description: Bulk purchase shelter pack. Up to a 20% bulk discount! Minimum 1000 units.
+price: '9500'
+order: 4
+featured: true
 seo:
   title: Nulla suscipit
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
@@ -26,7 +19,7 @@ seo:
       value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
       keyName: property
     - name: 'og:image'
-      value: images/plant1-lg.jpg
+      value: images/tent_01.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -36,8 +29,12 @@ seo:
     - name: 'twitter:description'
       value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
     - name: 'twitter:image'
-      value: images/plant1-lg.jpg
+      value: images/tent_01.png
       relativeUrl: true
+layout: product
+default_thumbnail_image: images/tent_01.png
+default_original_image: images/tent_01.png
+category:
 ---
 
 # Nulla suscipit
