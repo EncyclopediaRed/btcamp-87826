@@ -7,7 +7,7 @@
     "bg_image_primary": "/images/header.jpg",
     "bg_image_primary_opacity": 60,
     "bg_image_secondary": "images/logo_large_black_transparent.png",
-    "bg_image_product": "/images/leaf.svg",
+    "bg_image_product": "images/logo_large_black_transparent.png",
     "snipcart_api_key": "OTk3MTY1ZGYtMmU2ZS00ZmMwLThmODMtOTI3YjQ0MGVhYzkwNjM3NzE4NTE5MDg2NzA4MTAy",
     "footer_text": "Copyright 2021 Büt Camp, Inc. All rights reserved.",
     "palette": "cyan",
