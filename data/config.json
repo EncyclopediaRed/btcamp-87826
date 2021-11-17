@@ -6,7 +6,7 @@
     "hamburger_background_image": "images/leaf-light-grey.svg",
     "bg_image_primary": "/images/header.jpg",
     "bg_image_primary_opacity": 60,
-    "bg_image_secondary": "/images/leaf-light-grey.svg",
+    "bg_image_secondary": "images/icon_butcamp_tent.png",
     "bg_image_product": "/images/leaf.svg",
     "snipcart_api_key": "OTk3MTY1ZGYtMmU2ZS00ZmMwLThmODMtOTI3YjQ0MGVhYzkwNjM3NzE4NTE5MDg2NzA4MTAy",
     "footer_text": "Copyright 2021 Büt Camp, Inc. All rights reserved.",
