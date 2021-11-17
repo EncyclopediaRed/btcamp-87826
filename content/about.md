@@ -48,6 +48,8 @@ sections:
           to our success. Just look at that rampant enthusiasm!
 
 
+
+
           Rob is an IT Generalist. If it plugs in, works on a computer, or
           traverses the interent he's likely worked on it. Rob resides in
           Richmond, VA with wife and rescue animals. For the last six years Rob
