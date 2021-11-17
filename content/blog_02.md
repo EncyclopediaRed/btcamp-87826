@@ -68,9 +68,6 @@ sections:
           **A Data Trust is a legal framework for managing data.**
 
 
-          ****
-
-
           What that really means is that there is a group of beneficiaries that
           produce data who enter a legal contract based on trust law with
           trustees who follow the contract and facilitate the appropriate
@@ -78,11 +75,7 @@ sections:
           control and understanding of how their data is being used and why.
 
 
-
-
           There are 3 primary concepts involved in a data trust:
-
-
 
 
           1.  There is a clear intention to establish a trust
