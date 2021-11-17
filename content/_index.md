@@ -88,7 +88,7 @@ sections:
           sake. We wish to give back to the community and customers in need. We
           keep our costs as low as possible and pass our savings on to you.
         image: images/icon_afford_small.png
-      - title: 'Easy to '
+      - title: Easy to Set Up
         description: >-
           ## Lorem ipsum
 
