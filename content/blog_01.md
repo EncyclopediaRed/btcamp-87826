@@ -24,6 +24,22 @@ sections:
           we especially want to discuss Leap of Faith Assumptions, including
           growth and value hypothesis, pivot and persevere points, and metrics
           and feedback loop with our valued customers.
+
+
+
+
+          *Hidden among these mundane details are a handful of assumptions that
+          require more courage to state—in the present tense—with a straight
+          face: we assume that customers have a significant desire to use a
+          product like ours, or we assume that supermarkets will carry our
+          product. Acting as if these assumptions are true is a classic
+          entrepreneur superpower. They are called leaps of faith precisely
+          because the success of the entire venture rests on them. If they are
+          true, tremendous opportunity awaits. If they are false, the startup
+          risks total failure.*
+
+
+          *--Ries, Eric. The Lean Startup*
         image: images/leanstartup.png
       - title: Leap of Faith Assumptions
         description: >
