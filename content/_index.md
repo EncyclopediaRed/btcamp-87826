@@ -51,6 +51,18 @@ sections:
           days. And if you need to move, you simply deflate the tent and roll it
           back into the small bag provided.
         image: images/icon_blow_small.png
+      - title: lorem-ipsum
+        description: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
     type: bulletpoints_section
     section_id: features
   - type: testimonials_section
