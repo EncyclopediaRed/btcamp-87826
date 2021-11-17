@@ -1,7 +1,7 @@
 ---
 title: blog-02
 page_css_class: lorem-ipsum
-white_header: true
+white_header: false
 sections: []
 seo:
   title: ''
