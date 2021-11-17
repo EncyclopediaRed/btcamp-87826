@@ -45,17 +45,23 @@ sections:
           experience as inclusive as possible. We hope to complete the work in
           the beginning of 2022 and prior to launching a PWA.
       - title: 3D Polylactic Acid (PLA) Store Front
-        description: >-
-          ## Lorem ipsum
+        description: >
+          As a champion of what can be achieved with the eco-friendly PLA
+          plastics, Büt Camp, Inc. has plans to expand beyond temporary
+          emergency shelters and offer up an expanding array of temporary PLA 3D
+          printed goods and services. As PLA filament is easily printed with,
+          the nature of PLA makes the durability and heat resistance less than a
+          traditional plastic like ABS or PET. But better for the environment.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          First, BCI plans to expand it's storefront by introducing a free
+          marketplace for users to share 3D plans that will work with PLA
+          filaments. Allowing users to share their designs with others.
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          Second, BCI hopes to enter the professionally PLA 3D printed space by
+          offering up high quality pre-printed goods on our existing store front
+          and selling access to our models for users to try at home.
     type: bulletpoints_section
 seo:
   title: ''
