@@ -68,6 +68,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
+        image: images/icon_butcamp_tent.png
     type: bulletpoints_section
     section_id: features
   - type: testimonials_section
