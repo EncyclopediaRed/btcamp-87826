@@ -24,7 +24,7 @@
                 {{ $section := $page.Params.section | default $page.Title }}
                 {{ $isActive := cond (eq $item.title $section) true false }}
                 <li class="nav__menu-item">
-                    <a href="{{ $item.URL | relURL }}" class="nav__menu-item-link{{ if $isActive }} nav__menu-item-link--active{{ end }}">
+                    <a href="{{ $item.url | relURL }}" class="nav__menu-item-link{{ if $isActive }} nav__menu-item-link--active{{ end }}">
                         {{ $item.title }}
                     </a>
                 </li>
@@ -68,7 +68,7 @@
                         {{ $section := $page.Params.section | default $page.Title }}
                         {{ $isActive := cond (eq $item.title $section) true false }}
                         <li class="hamburger__nav-item">
-                            <a href="{{ $item.URL | relURL }}" class="hamburger__nav-link{{ if $isActive }} hamburger__nav-link--active{{ end }}">
+                            <a href="{{ $item.url | relURL }}" class="hamburger__nav-link{{ if $isActive }} hamburger__nav-link--active{{ end }}">
                                 {{ $item.title }}
                             </a>
                         </li>
