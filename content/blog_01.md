@@ -47,7 +47,7 @@ sections:
           minimizes their waste.<br /><br />
 
 
-          ## **Growth Hypothesis**<br /><br />
+          ## **Growth Hypothesis** ##<br /><br />
 
 
           Büt Camp Inc. is starting small with a limited staff. Once we have
