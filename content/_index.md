@@ -54,6 +54,15 @@ sections:
       url: /store
       style: secondary
       arrow: true
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    cta:
+      title: lorem-ipsum
+      url: '#'
+      style: primary
+      arrow: false
+    type: promotion_section
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
