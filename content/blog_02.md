@@ -24,7 +24,6 @@ sections:
           product recommendations and targeted ads.
 
 
-
           The individual user has little autonomy over what happens to their
           data they knowingly or unknowingly provide online services and
           websites. There are specific laws for protecting User Data, but in the
@@ -47,11 +46,9 @@ sections:
           surrender, not of consent” (Scassa 2018).
 
 
-          \<br />
-
-
-
           We hear you, Teresa.
+
+
 
           Recently there have been calls for companies to answer for how they
           manage user data and what they use it for, an example being the recent
@@ -59,7 +56,7 @@ sections:
           including Amazon, TikTok, Twitter, and others (Diaz 2020), as well as
           multiple discussions on ethical data use in many other applications,
           including other tech companies like Uber, Google Maps, and Facebook
-          (Janiszewska-Kiewra, Podlesny, & Soller 2020). 
+          (Janiszewska-Kiewra, Podlesny, & Soller 2020).
 
 
           We believe that businesses should have clear, transparent standards on
