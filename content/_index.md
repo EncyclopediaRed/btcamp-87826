@@ -30,17 +30,13 @@ sections:
   - section_id: test
     questions:
       - question: Eco-Friendly
-        answer: >
-          ## Made With Earth Friendly PLA
+        answer: >+
+          ## Made With Polylactic Acid (PLA)
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          PLA is a plastic made from biodegradeable cornstarch. This temporary
+          shelter will never last in a landfill.
 
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
     type: faq_section
   - type: testimonials_section
     section_id: testimonials_section
