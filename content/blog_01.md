@@ -75,7 +75,8 @@ sections:
       - title: Pivot & Persevere Actions
         description: >
           We want to know when we need to make a design update to our products.
-          After 
+          We monitor feedback quarterly and if any of the following actions
+          occurs, we pivot or persevere as needed. \<br />\<br />
 
 
           1.  If <25% of customers report that the product is dysfunctional, we
