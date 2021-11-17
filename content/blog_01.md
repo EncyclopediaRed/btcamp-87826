@@ -73,6 +73,7 @@ sections:
           comments. More directly, we will conduct a limited number of
           one-on-one interviews with users for a qualitative analysis of
           responses to the product.
+        image: images/noun_metrics_105414.png
       - title: Pivot & Persevere Actions
         description: >
           We want to know when we need to make a design update to our products.
