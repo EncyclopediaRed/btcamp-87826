@@ -1,6 +1,6 @@
 ---
 layout: category
-order: 1
+order: 100
 seo:
   description: This is the store page
   extra:
