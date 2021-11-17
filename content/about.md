@@ -109,7 +109,7 @@ sections:
           COVID-19, customs has been slower to receive shipments, but we don’t
           foresee significant delays in time to receipt, except in the months of
           January/February during the Chinese Lunar New Year.
-      - title: lorem-ipsum
+      - title: 'Partner: ODM Group'
         description: >-
           ## Lorem ipsum
 
