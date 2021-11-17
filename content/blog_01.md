@@ -23,10 +23,7 @@ sections:
           a variety of inspirations and angles to consider. In this blog post,
           we especially want to discuss Leap of Faith Assumptions, including
           growth and value hypothesis, pivot and persevere points, and metrics
-          and feedback loop with our valued customers.
-
-
-
+          and feedback loop with our valued customers.<br /><br />
 
           *"Hidden among these mundane details are a handful of assumptions that
           require more courage to state—in the present tense—with a straight
