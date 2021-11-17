@@ -103,7 +103,7 @@ sections:
           is shared, and compliance with these parameters
 
 
-          ![](images/howdatatrustswork.png)
+          ![](/images/howdatatrustswork.png)
     type: bulletpoints_section
 seo:
   title: ''
