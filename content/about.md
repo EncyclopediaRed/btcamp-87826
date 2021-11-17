@@ -81,7 +81,6 @@ sections:
           A near-future vision of 10-15 employees to assist with inventory,
           bookkeeping, sales, support and returns, and government liaison.
 
-        image: images/CBC-9184e462.png
       - title: 'Partner: Compost Bag China'
         description: >
           Website: <https://compostbagchina.com>  |  Location: Shandong
