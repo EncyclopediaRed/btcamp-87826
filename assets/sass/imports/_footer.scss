@@ -1,11 +1,12 @@
 .footer {
   @include container-properties;
   background-color: $color_dark;
+  font-size: .95rem;
 
-  &__container { 
+  &__container {
       @include container-item-properties;
       padding-top: 50px;
-      padding-bottom: 50px; 
+      padding-bottom: 50px;
       display: flex;
   }
 
@@ -21,11 +22,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    &:not(:last-child) { 
-        margin-right: 40px;
+    &:not(:last-child) {
+        margin-right: 30px;
     }
   }
-  
+
   &__logo {
     flex-shrink: 0;
     margin-right: 50px;
@@ -36,10 +37,15 @@
     max-height: 45px;
   }
 
-  &__nav-link { 
+  &__nav-link {
     color: $color_medium;
-    font-weight: bold;
+    font-weight: normal;
+    text-decoration: none;
 }
+
+  &__nav-link:hover {
+      text-decoration: underline;
+  }
 
   &__legal-notice {
       display: flex;
