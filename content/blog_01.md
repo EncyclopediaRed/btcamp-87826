@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: blog-01-lean-startup
 page_css_class: Blog 1
 white_header: false
 sections:
