@@ -10,7 +10,7 @@ sections:
       and why? 
     type: header_section
     background_image: images/leaf-light-grey.svg
-  - section_id: lorem-ipsum
+  - section_id: post
     bulletpoints: []
     type: bulletpoints_section
 seo:
