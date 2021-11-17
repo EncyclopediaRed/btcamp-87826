@@ -253,7 +253,7 @@ sections:
 
 
           ![](images/butcampdatatrust.png)
-      - title: lorem-ipsum
+      - title: References
         description: >-
           ## Lorem ipsum
 
