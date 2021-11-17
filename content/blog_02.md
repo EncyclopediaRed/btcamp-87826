@@ -154,7 +154,6 @@ sections:
           customers.
 
 
-
           In terms of research data, similar to AI research, and sharing data
           responsibly, Büt Camp Inc.'s product is built on an innovative,
           patented PLA technology. We feel that sharing this data with others in
@@ -221,8 +220,6 @@ sections:
           *   Discounts used
 
 
-
-
           **Maintaining Our Mission**
 
 
@@ -231,7 +228,6 @@ sections:
           customer feedback, etc., is requested and given, adhering to the
           trust's strict governance rules. Logs keep records of all transactions
           involving the data to analyze for misuse or data manipulation.
-
 
 
           The data held by the trust is not only used by Büt Camp, Inc. but is
@@ -254,6 +250,9 @@ sections:
           customer and BCI data is safe and helpful to the community overall.
           Ethical data practice is a guiding principle of BCI to be a steward to
           people and the environment.
+
+
+          ![](images/butcampdatatrust.png)
     type: bulletpoints_section
 seo:
   title: ''
