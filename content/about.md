@@ -7,46 +7,89 @@ sections:
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
     headline: We are Büt Camp
+    subtitle: >
+      #### **Mission** 
+
+      Büt Camp, Inc. strives to help provide shelter and privacy to those in any
+      emergency using simple, easily dispensed, highly mobile, inflatable
+      cornstarch-based tents stored in a waist bag (fanny pack) or a similar
+      small vessel. &#xA; <br /><br /> **Vision**  
+
+      We envision the Büt Camp biodegradable cornstarch-based polylactic acid
+      (PLA)¹ shelters being available in every first responder, search and
+      rescue, Red Cross, and emergency preppers arsenal for helping to treat
+      those in need of immediate protection from the elements.
+  - type: header_section
+    section_id: header_section
+    background_image: /images/leaf-light-greay.svg
+    headline: Our Goal
     subtitle: >-
-      Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of geeks
-      from Québec City. Planty is a theme we built for
-      [Stackbit](https://www.stackbit.com/), a killer JAMstack site-builder. To
-      enable e-commerce on Planty, you’ll need to [sign up for
-      Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
-      required.
+      Out of the prototype stage, with several patents pending, our end goal is
+      to make the Büt Camp tent synonymous with a small comfort during a
+      stressful time. We are pushing to move from a local market into larger
+      regional areas within the following year.<br /><br />
+
+      We plan to grow the emergency shelter business through investment into a
+      national offering. Then we plan to expand our product line into 3D printed
+      camping and survival products such as utensils, multi-tools, and first aid
+      kit supplies, with an eventual goal of offering 3D schematics via
+      direct-to-consumer sales.
+  - type: header_section
+    section_id: header_section
+    background_image: /images/leaf-light-greay.svg
+    headline: Meat the Team
   - type: bulletpoints_section
     section_id: bulletpoints_section
+    headLine: Meet the Team
     bulletpoints:
-      - title: We love plants
+      - title: Rob Barrowclift
+        description: >
+          Meet Rob! Rob is awesome pants. Our lead web developer and financial
+          pro, Rob is essential to our success. Just look at that rampant
+          enthusiasm!
+        image: images/Rob-Barrowclift.png
+      - title: Alex Kinnaman
         description: >-
-          Now THAT is true, but we love web development even more. We talk about
-          it on our blog, like, [a lot](http://bit.ly/2YA6999). We often craft
-          live demos and open source these bad boys [on
-          GitHub](https://github.com/snipcart). Matter of fact, this Planty
-          theme [is open source
-          too](https://github.com/snipcart/stackbit-theme-planty)! If you spot
-          any bugs, open an issue, and we’ll fire our junior dev. Just kidding
-          Michael, you’re good.
-        image: images/nan_talk.jpg
-      - title: We think plants are the future
+          This is Alex! Alex is the PLA expert and designs many of our products.
+          She is also an expert in digital preservation and ensures our research
+          and impact last far longer than our biodegradeable products!
+        image: images/Alex-Kinnaman.png
+      - title: Pat Bonipally
         description: >-
-          Word. But good **code** _can_ solve a lots of problems, too. New _and_
-          old. That’s why we help beginners get started with web development
-          through free content and tools, like this theme. We also believe [the
-          JAMstack](https://jamstack.org/) might be one solid pillar on which we
-          build that future.
-        image: images/team.jpg
+          And this is Pat! Pat is our resident Scrum Master and leader of all
+          things planning. We would be a mess without him!
+        image: images/Pat-Bonipally.png
+      - title: Quan Nguyen
+        description: >
+          And here's Quan! Quan is an enigma. He questions all things equally.
+          Seemingly knowledgeable in the answers yet not sharing, Quan also
+          enjoys cats, but not as much as his daughter.
+        image: images/Quan-Nguyen-6e06ef6b.png
+      - title: Structure
+        description: >+
+          We are a **Certified B Corporation** registered in Virginia.
+
+
+          Büt Camp, Inc. has passed its B Certification exam with an overall
+          score of 92.
+
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
+    title: A new alternative for temporary shelter
+    subtitle: from $11.99
     image: images/promo.jpg
-    background_image: /images/leaf.svg
+    background_image: images/background-g962c0e182_1280.png
     cta:
       title: Discover
       url: /store
       style: primary
       arrow: true
+  - section_id: lorem-ipsum
+    address: '357 Fannypack Dr. Blacksburg, VA 24061'
+    phone: +1-555-288-2267
+    email: info@bütcamp.com
+    mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
+    type: contact_section
 seo:
   title: About
   description: This is the about page
