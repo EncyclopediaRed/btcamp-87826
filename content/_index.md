@@ -74,17 +74,8 @@ sections:
   - section_id: features
     bulletpoints:
       - title: lorem-ipsum
-        description: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        description: |
+          test
         image: images/icon_eco_small.png
     type: bulletpoints_section
 seo:
