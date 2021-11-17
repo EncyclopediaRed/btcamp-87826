@@ -40,6 +40,18 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
+      - title: lorem-ipsum
+        description: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
     type: bulletpoints_section
     section_id: but_camp_story
   - type: testimonials_section
