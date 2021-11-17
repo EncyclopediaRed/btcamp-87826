@@ -6,9 +6,6 @@ sections:
   - section_id: lorem-ipsum
     headline: lorem-ipsum
     subtitle: >
-      ## Blog 1: The Lean Startup
-
-
       What processes and concepts from The Lean Startup benefit our business and
       details of why it’s being used?
 
