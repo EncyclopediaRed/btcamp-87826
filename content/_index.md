@@ -25,6 +25,7 @@ sections:
     featured_products:
       - content/products/tent_01.md
       - content/products/tent_02.md
+      - content/products/tent_03.md
     title: Büt Camp Best Sellers
   - type: testimonials_section
     section_id: testimonials_section
