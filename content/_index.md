@@ -56,7 +56,7 @@ sections:
           services can keep larger quantities on hand for quick and easy
           emergency shelters in a quickly-changing disaster.
         image: images/icon_lightweight_small.png
-      - title: lorem-ipsum
+      - title: Learn More about BütCamp Inc.'s Roadmap for Growth
         description: >-
           ## Lorem ipsum
 
