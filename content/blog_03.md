@@ -63,17 +63,19 @@ sections:
           offering up high quality pre-printed goods on our existing store front
           and selling access to our models for users to try at home.
       - title: References
-        description: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        description: >
+          *   Microsoft Docs. "Overview of Progressive Web Apps (PWAs)."
+          Retrieved from 
+          https://docs.microsoft.com/en-us/microsoft-edge/progressive-web-apps-chromium/*  
+          Osmani, A. (2020). Google Developer Web Docs. "Getting Started with
+          Progressive Web Apps." Retrieved from
+          https://developers.google.com/web/updates/2015/12/getting-started-pwa*  
+          Retrieved from https://www.w3.org/WAI/standards-guidelines/wcag/*  
+          Retrieved from https://www.a11yproject.com*   Simplify3D.com.
+          Retrieved from 
+          <https://www.simplify3d.com/support/materials-guide/pla/>*   MDN Web
+          Docs. Retrieved from
+          https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
     type: bulletpoints_section
 seo:
   title: ''
