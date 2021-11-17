@@ -2,7 +2,7 @@
 id: '1'
 title: Nulla suscipit
 description: One tent to rule them all.
-price: '49.40'
+price: '11.99'
 order: 1
 featured: true
 seo:
