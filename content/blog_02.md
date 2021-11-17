@@ -21,7 +21,7 @@ sections:
           your online services and accounts? Of course you have! Using Google,
           Amazon, Twitter, Facebook, and any other e-commerce or social media
           service not only allows them to keep your data, but use it to generate
-          product recommendations and targeted ads.\<br />
+          product recommendations and targeted ads.
 
 
           The individual user has little autonomy over what happens to their
