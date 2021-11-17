@@ -73,17 +73,23 @@ sections:
           one-on-one interviews with users for a qualitative analysis of
           responses to the product.
       - title: Pivot & Persevere Actions
-        description: >-
-          ## Lorem ipsum
+        description: >
+          If <25% of customers report that the product is dysfunctional, we
+          persevere and work with our manufacturer and suppliers to improve
+          quality control measures.
 
+          If <50% of customers report that the product is dysfunctional, we
+          pivot and reevaluate with our manufacturer and develop a new design.
+          This includes structural issues, setup workflow, and color.
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          If <50% of customers report that individual units are too expensive,
+          we persevere and market the bulk sales price, which is significantly
+          reduced.
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          If <75% of customers report that individual units are too expensive,
+          we pivot and reevaluate the prices of individual versus bulk products
+          and increase the price of the bulk items to decrease the cost of an
+          individual unit.
     type: bulletpoints_section
 seo:
   title: ''
