@@ -83,7 +83,7 @@ sections:
 
       - title: 'Partner: Compost Bag China'
         description: >
-          Website: <https://compostbagchina.com>  |  Location: Shandong
+          Website: <https://compostbagchina.com><br /><br />  Location: Shandong
           Province, China
 
 
