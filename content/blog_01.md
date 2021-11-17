@@ -91,7 +91,8 @@ sections:
 
           2.  If <50% of customers report that the product is dysfunctional, we
           pivot and reevaluate with our manufacturer and develop a new design.
-          This includes structural issues, setup workflow, and color.<br /><br />
+          This includes structural issues, setup workflow, and color.<br /><br
+          />
 
 
           3.  If <50% of customers report that individual units are too
@@ -103,6 +104,7 @@ sections:
           expensive, we pivot and reevaluate the prices of individual versus
           bulk products and increase the price of the bulk items to decrease the
           cost of an individual unit.
+        image: images/noun_adapt_4374562.png
     type: bulletpoints_section
 seo:
   title: ''
