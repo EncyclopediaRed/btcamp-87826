@@ -9,8 +9,8 @@ sections:
     headline: What is PLA?
     subtitle: >
       All right, friends. Let’s do this. This section will cover basic,
-      frequently asked questions about PLA and why it's essential to the future
-      of temporary products.
+      frequently asked questions about polylactic acid (PLA), and why it's
+      essential to the future of temporary products.
 
 
       ![](images/PLA-chem-32827030.png)
