@@ -76,16 +76,18 @@ sections:
           enjoys cats, but not as much as his daughter.
         image: images/Quan-Nguyen-6e06ef6b.png
       - title: Structure & Advisors
-        description: >+
-          We are a **Certified B Corporation** registered in Virginia.<br /><br
-          /> Büt Camp, Inc. has passed its B Certification exam with an overall
-          score of 92.<br /><br />
+        description: >
+          We are a **Certified B Corporation** registered in Virginia. Büt Camp,
+          Inc. has passed its B Certification exam with an overall score of 92.
 
-          Our four-member team shares an equal 25% Ownership.<br /><br />
+          Our four-member team shares an equal 25% Ownership.
+
+
+          We are advised by our Partners, featured below, as well as a
+          \*\*\*\*\*
 
           A near-future vision of 10-15 employees to assist with inventory,
           bookkeeping, sales, support and returns, and government liaison.
-
       - title: 'Partner: Compost Bag China'
         description: >
           Website: <https://compostbagchina.com><br /><br />  Location: Shandong
