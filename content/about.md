@@ -77,17 +77,43 @@ sections:
           bookkeeping, sales, support and returns, and government liaison.
 
       - title: Our Valued Partners
-        description: >-
-          ## Lorem ipsum
+        description: >+
+          ## Compost Bag China
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          https://compostbagchina.com
+
+          Shandong Province, China
 
 
-          - Lorem ipsum
+          Compost Bag China (CBC) is our manufacturer and expert in PLA film.
 
-          - dolor sit amet
+
+          CBC creates several sheets of PLA film. The top of which is two sheets
+          heat-stamped together in a pattern to create an air channel to allow
+          for inflation of the tent.
+
+
+          A screen and floor are also produced with the same material. The floor
+          is heat-sealed to the top portion of the tent, and the screen is kept
+          separate until the customer constructs the field. The screen adheres
+          to the tent's opening via a mild tacky glue strip on one side of the
+          opening and two ties on the other side. The ties are strips of PLA
+          hardened to allow for tying and untying.
+
+
+
+          CBC requires payment upfront for order volumes of our size. And
+          delivery is made after inspection via shipping container. Due to
+          COVID-19, customs has been slower to receive shipments, but we don’t
+          foresee significant delays in time to receipt, except in the months of
+          January/February during the Chinese Lunar New Year.
+
+
+
+
+          ## ODM Group
+
       - title: lorem-ipsum
         description: >-
           ## Lorem ipsum
