@@ -27,6 +27,15 @@ sections:
       - content/products/tent_02.md
       - content/products/tent_03.md
     title: Büt Camp Best Sellers
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    cta:
+      title: lorem-ipsum
+      url: '#'
+      style: primary
+      arrow: false
+    type: promotion_section
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
@@ -54,15 +63,6 @@ sections:
       url: /store
       style: secondary
       arrow: true
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    cta:
-      title: lorem-ipsum
-      url: '#'
-      style: primary
-      arrow: false
-    type: promotion_section
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
