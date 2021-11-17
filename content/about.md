@@ -90,7 +90,7 @@ sections:
 
           CBC creates several sheets of PLA film. The top of which is two sheets
           heat-stamped together in a pattern to create an air channel to allow
-          for inflation of the tent.
+          for inflation of the tent.<br /><br />
 
 
           A screen and floor are also produced with the same material. The floor
