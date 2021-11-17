@@ -71,7 +71,7 @@ sections:
       url: /store
       style: secondary
       arrow: true
-  - section_id: lorem-ipsum
+  - section_id: features
     bulletpoints: []
     type: bulletpoints_section
 seo:
