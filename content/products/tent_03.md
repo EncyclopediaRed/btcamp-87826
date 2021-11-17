@@ -1,7 +1,7 @@
 ---
 id: '10'
 title: Fifty (50) Büt Camp Emergency Shelters
-description: Five shelter pack. 8% Volume discount!
+description: Fifty shelter pack. A 16% volume discount!
 price: '499.50'
 order: 1
 featured: true
