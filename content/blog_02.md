@@ -70,10 +70,49 @@ sections:
           benefit the company, researchers, and other companies through ethical
           data sharing.
       - title: 'The Solution: Data Trusts'
-        description: |
+        description: >
           ## Data Trusts
 
-          A Data Trust is 
+
+          A Data Trust is
+
+
+          **Key Entities for data trusts include the following:**
+
+
+          **Beneficiaries: **Data producers (customers, individuals, companies,
+          organizations, society)
+
+
+          **
+
+          Trustees: **Those entrusted with monitoring compliance and gatekeeping
+          of data based on agreed upon terms with the beneficiaries
+
+
+          **Trust Law: **“Trust law refers to laws governing the creation and
+          implementation of trusts, which are fiduciary relationships. In this
+          type of relationship, one party (called the trustor) gives a second
+          party (called the trustee) the right to hold title to assets or
+          property for the benefit of a third party (called the beneficiary).”
+
+
+          **Data Rights: **The right for individuals to know what is happening
+          with their data without having to read intentionally confusing and
+          lengthy agreements
+
+
+          **Technology: **Validation, storage, and security measures applied to
+          data with access limited to the Trustees
+
+
+          **Funding Models: **Ranging from funded, unfunded, endowment,
+          subscription, etc.
+
+
+          **Shared Data Goals: **Understanding of and agreement of beneficiaries
+          on how data is shared, to whom it is shared with, why it is shared,
+          and compliance with these parameters
     type: bulletpoints_section
 seo:
   title: ''
