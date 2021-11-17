@@ -74,10 +74,10 @@ sections:
           ## Data Trusts
 
 
-          A Data Trust is a legal framework for managing data.
+          **A Data Trust is a legal framework for managing data.**
 
 
-          **Key Entities for data trusts include the following:**
+          Key Entities for data trusts include the following:
 
 
           *   **Beneficiaries**: Data producers (customers, individuals,
@@ -86,9 +86,6 @@ sections:
 
           *   **Trustees**: Those entrusted with monitoring compliance and
           gatekeeping of data based on agreed upon terms with the beneficiaries
-
-
-          <!---->
 
 
           *   **Trust** **Law**: “Trust law refers to laws governing the
@@ -115,6 +112,9 @@ sections:
           *   **Shared Data Goals**: Understanding of and agreement of
           beneficiaries on how data is shared, to whom it is shared with, why it
           is shared, and compliance with these parameters
+
+
+          ![](images/howdatatrustswork.png)
     type: bulletpoints_section
 seo:
   title: ''
