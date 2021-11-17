@@ -62,6 +62,18 @@ sections:
           Second, BCI hopes to enter the professionally PLA 3D printed space by
           offering up high quality pre-printed goods on our existing store front
           and selling access to our models for users to try at home.
+      - title: lorem-ipsum
+        description: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
     type: bulletpoints_section
 seo:
   title: ''
