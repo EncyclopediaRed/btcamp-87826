@@ -70,17 +70,10 @@ sections:
           benefit the company, researchers, and other companies through ethical
           data sharing.
       - title: 'The Solution: Data Trusts'
-        description: >-
-          ## Lorem ipsum
+        description: |
+          ## Data Trusts
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          A Data Trust is 
     type: bulletpoints_section
 seo:
   title: ''
