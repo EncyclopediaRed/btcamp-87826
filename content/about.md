@@ -83,11 +83,8 @@ sections:
 
       - title: 'Partner: Compost Bag China'
         description: >
-          # Compost Bag China<br /><br />
-
-
           Website: <https://compostbagchina.com>  |  Location: Shandong
-          Province, China<br /><br />
+          Province, China
 
 
           Compost Bag China (CBC) is our manufacturer and expert in PLA film.<br
@@ -112,9 +109,6 @@ sections:
           COVID-19, customs has been slower to receive shipments, but we don’t
           foresee significant delays in time to receipt, except in the months of
           January/February during the Chinese Lunar New Year.
-
-
-          # ODM Group
       - title: lorem-ipsum
         description: >-
           ## Lorem ipsum
