@@ -56,6 +56,18 @@ sections:
           services can keep larger quantities on hand for quick and easy
           emergency shelters in a quickly-changing disaster.
         image: images/icon_lightweight_small.png
+      - title: lorem-ipsum
+        description: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
     type: bulletpoints_section
     section_id: features
   - type: testimonials_section
@@ -68,7 +80,8 @@ sections:
         text: >-
           The Büt Camp system saved my bacon when I followed a bear off the main
           trail and got lost. It took days to find me, and I only packed for day
-          hike. I "bearly" made it out. Büt Camp kept me sheltered until Bear Gryllis found me.
+          hike. I "bearly" made it out. Büt Camp kept me sheltered until Bear
+          Gryllis found me.
       - author:
           name: Ella Vader
           location: 'MO, USA'
@@ -85,14 +98,14 @@ sections:
       style: secondary
       arrow: true
 seo:
-  title: Büt Camp, Inc.
+  title: 'Büt Camp, Inc.'
   description: Home of the Büt Camp Temporary Emergency Shelter
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Büt Camp, Inc.
+      value: 'Büt Camp, Inc.'
       keyName: property
     - name: 'og:description'
       value: The preview of the Planty theme
@@ -104,7 +117,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Büt Camp, Inc.
+      value: 'Büt Camp, Inc.'
     - name: 'twitter:description'
       value: The preview of the Planty theme
     - name: 'twitter:image'
