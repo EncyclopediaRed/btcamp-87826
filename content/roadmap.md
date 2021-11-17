@@ -4,7 +4,7 @@ page_css_class: lorem-ipsum
 white_header: false
 sections:
   - section_id: lorem-ipsum
-    headline: lorem-ipsum
+    headline: Büt Roadmap
     subtitle: |
       Where we are and where we're going
     type: header_section
