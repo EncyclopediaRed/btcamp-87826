@@ -130,7 +130,7 @@ sections:
 
           *   -Representative office in Zhuhai
 
-          *   -Product sourcing
+          *   Product sourcing
 
           *   QC reporting
 
