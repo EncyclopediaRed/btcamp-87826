@@ -29,6 +29,7 @@ sections:
     title: Büt Camp Best Sellers
   - bulletpoints: []
     type: bulletpoints_section
+    section_id: but_camp_story
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
