@@ -44,7 +44,7 @@ sections:
           to identify deficiencies in their web code base to make their shopping
           experience as inclusive as possible. We hope to complete the work in
           the beginning of 2022 and prior to launching a PWA.
-      - title: lorem-ipsum
+      - title: 3D Polylactic Acid (PLA) Store Front
         description: >-
           ## Lorem ipsum
 
