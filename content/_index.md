@@ -57,17 +57,8 @@ sections:
           emergency shelters in a quickly-changing disaster.
         image: images/icon_lightweight_small.png
       - title: Learn More about BütCamp Inc.'s Roadmap for Growth
-        description: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        description: |
+          *
         image: images/icon_butcamp_tent.png
     type: bulletpoints_section
     section_id: features
