@@ -110,17 +110,16 @@ sections:
           foresee significant delays in time to receipt, except in the months of
           January/February during the Chinese Lunar New Year.
       - title: 'Partner: ODM Group'
-        description: >-
-          ## Lorem ipsum
+        description: |
+          Website: https://www.odm-pro.com
+          Location:
 
+          4A Hung Chu Bldg,
+          Jida Jiuzhou Avenue
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Zhuhai 519015, China
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Chinese Manufacturer Liaison
   - type: promotion_section
     section_id: promotion_section
     title: A new alternative for temporary shelter
