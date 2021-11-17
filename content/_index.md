@@ -28,11 +28,9 @@ sections:
   - bulletpoints:
       - title: Eco-Friendly
         description: >
-          ## Made With Polylactic Acid (PLA)
-
-
-          PLA is a plastic made from biodegradeable cornstarch. This temporary
-          shelter will never last in a landfill.
+          Made With Polylactic Acid (PLA). PLA is a plastic made from
+          biodegradeable cornstarch. This temporary shelter will simply become
+          harmless biomass in a landfill.
         image: images/icon_eco_small.png
       - title: Affordable
         description: >
