@@ -24,17 +24,38 @@ sections:
           growth and value hypothesis, pivot and persevere points, and metrics
           and feedback loop with our valued customers.
       - title: Leap of Faith Assumptions
-        description: >-
-          ## Lorem ipsum
+        description: >
+          ## **Value Hypothesis**&#xA;
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+          We operate under the assumption that there is a value and a need for
+          Büt Camp products in today's society. Disaster and emergency response
+          needs to be quick, efficient, and easily distributed. People working
+          in these fields or individually preparing for disaster require tools
+          and products that anyone can function in a stressful situation. There
+          is already a market for products to prepare for emergency response,
+          and people would want additional product options for emergency
+          shelters to diversify their preparedness plan.
 
 
-          - Lorem ipsum
+          Additionally, Büt Camp is designed to be environmentally friendly and
+          can be discarded in an emergency without environmental consequences.
+          People are moving towards eco-friendly options to replace traditional
+          products that are not biodegradable and will want a product that
+          minimizes their waste.
 
-          - dolor sit amet
+
+          ## **Growth Hypothesis**
+
+
+          Büt Camp Inc. is starting small with a limited staff. Once we have
+          developed our local customer base, local brick-and-mortar businesses
+          will purchase and stock them in their stores. Once we have developed
+          our online customer base, our brand will be more recognized on a
+          broader level. With brand recognition and wider distribution, we will
+          gain the attention of larger groups at regional, state, and federal
+          levels in need of additional emergency shelter options.
     type: bulletpoints_section
 seo:
   title: ''
