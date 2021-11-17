@@ -123,7 +123,7 @@ sections:
   - section_id: lorem-ipsum
     address: lorem-ipsum
     phone: lorem-ipsum
-    email: lorem-ipsum
+    email: info@bütcamp.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
     type: contact_section
 seo:
