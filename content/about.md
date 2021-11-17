@@ -49,10 +49,15 @@ sections:
           enthusiasm!
         image: images/Rob-Barrowclift.png
       - title: Alex Kinnaman
-        description: >-
+        description: >
           This is Alex! Alex is the PLA expert and designs many of our products.
           She is also an expert in digital preservation and ensures our research
           and impact last far longer than our biodegradeable products!
+
+
+          Alex's background is in Library and Information Sciences with a
+          special focus on digital preservation. Preservation, as a concept,
+          applies to all fields.
         image: images/Alex-Kinnaman.png
       - title: Pat Bonipally
         description: >-
