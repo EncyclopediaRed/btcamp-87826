@@ -56,8 +56,13 @@ sections:
 
 
           Alex's background is in Library and Information Sciences with a
-          special focus on digital preservation. Preservation, as a concept,
-          applies to all fields.
+          special focus on digital preservation.  She currently serves as the
+          Digital Preservation Coordinator at Virginia Tech, specializing in the
+          digital preservation of research data, institutional repository
+          material, and research into methods for preserving complex digital
+          objects. Preservation, as a concept, applies to all fields. For Büt
+          Camp, Inc., she serves as the primary point of research and
+          sustainability.
         image: images/Alex-Kinnaman.png
       - title: Pat Bonipally
         description: >-
