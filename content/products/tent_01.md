@@ -1,10 +1,7 @@
 ---
 id: '1'
 title: Nulla suscipit
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
-  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
-  tincidunt.
+description: One tent to rule them all.
 price: '49.40'
 order: 1
 featured: true
