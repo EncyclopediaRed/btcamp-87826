@@ -66,7 +66,7 @@ sections:
           Büt Camp Inc. wants a solution that allows our customer data to
           benefit the company, researchers, and other companies through ethical
           data sharing.
-      - title: lorem-ipsum
+      - title: 'The Solution: Data Trusts'
         description: >-
           ## Lorem ipsum
 
