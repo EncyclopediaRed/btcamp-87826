@@ -54,6 +54,9 @@ sections:
       url: /store
       style: secondary
       arrow: true
+  - section_id: lorem-ipsum
+    bulletpoints: []
+    type: bulletpoints_section
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
