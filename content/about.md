@@ -81,9 +81,8 @@ sections:
           # Compost Bag China
 
 
-          https://compostbagchina.com
-
-          Shandong Province, China
+          Website: <https://compostbagchina.com>  |  Location: Shandong
+          Province, China
 
 
           Compost Bag China (CBC) is our manufacturer and expert in PLA film.
