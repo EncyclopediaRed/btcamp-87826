@@ -72,6 +72,18 @@ sections:
           comments. More directly, we will conduct a limited number of
           one-on-one interviews with users for a qualitative analysis of
           responses to the product.
+      - title: lorem-ipsum
+        description: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
     type: bulletpoints_section
 seo:
   title: ''
