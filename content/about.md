@@ -98,7 +98,7 @@ sections:
           separate until the customer constructs the field. The screen adheres
           to the tent's opening via a mild tacky glue strip on one side of the
           opening and two ties on the other side. The ties are strips of PLA
-          hardened to allow for tying and untying.
+          hardened to allow for tying and untying.<br /><br />
 
 
           CBC requires payment upfront for order volumes of our size. And
