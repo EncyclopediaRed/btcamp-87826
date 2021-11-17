@@ -79,7 +79,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: There when you need it.
-    subtitle: Starting at $11.99. Discounts for packs!
+    subtitle: Starting at $11.99. Discounts when purchased in bulk!
     image: images/use_cases2.jpg
     background_image: images/logo_large_black_transparent.png
     cta:
