@@ -73,7 +73,7 @@ sections:
       arrow: true
   - section_id: features
     bulletpoints:
-      - title: lorem-ipsum
+      - title: Eco-Friendly
         description: |
           test
         image: images/icon_eco_small.png
