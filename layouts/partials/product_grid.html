@@ -10,7 +10,7 @@
         {{ else }}
             {{ if $product_page.Params.category }}
                 {{ $category_page := $.Site.GetPage "page" ( $product_page.Params.category | strings.TrimPrefix "content/" ) }}
-                {{ if eq $category_url $category_page.Permalink }}
+                {{ if eq $category_url $category_page.URL }}
                     {{ $include_dict := dict "product_page" $product_page "Site" $site }}
                     {{ partial "product_grid_item.html" $include_dict }}
                 {{ end }}

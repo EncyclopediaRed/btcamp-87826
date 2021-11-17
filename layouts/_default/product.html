@@ -31,7 +31,7 @@
                 {{ if .Params.category }}
                     {{ $category_page := $.Site.GetPage "page" ( $.Params.category | strings.TrimPrefix "content/" ) }}
                     <h2 class="product__category">
-                        <a href="{{ $category_page.Permalink }}"> {{ $category_page.Title }} </a>
+                        <a href="{{ $category_page.URL }}"> {{ $category_page.Title }} </a>
                     </h2>
                 {{ end }}
                 <div class="product__price">
@@ -52,7 +52,7 @@
                 <h2 class="content__row-title">Related</h2>
                 {{ $product_pages := where ((($.Site.GetPage "section" "/products").Pages).ByParam "order") "Params.id" "!=" $.Params.id }}
                 {{ $category_page := $.Site.GetPage "page" ( $.Params.category | strings.TrimPrefix "content/" ) }}
-                {{ $include_dict = dict "product_pages" $product_pages "category_url" $category_page.Permalink "cssClass" "store__product-grid" "Site" $.Site }}
+                {{ $include_dict = dict "product_pages" $product_pages "category_url" $category_page.URL "cssClass" "store__product-grid" "Site" $.Site }}
 
                 {{ partial "product_grid.html" $include_dict }}
             </section>
