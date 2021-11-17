@@ -23,7 +23,7 @@ sections:
           we especially want to discuss Leap of Faith Assumptions, including
           growth and value hypothesis, pivot and persevere points, and metrics
           and feedback loop with our valued customers.
-      - title: lorem-ipsum
+      - title: Leap of Faith Assumptions
         description: >-
           ## Lorem ipsum
 
