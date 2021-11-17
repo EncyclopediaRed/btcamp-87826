@@ -29,7 +29,8 @@ sections:
           US they are only just being introduced in Congress (for example, see
           H.R.4240 - 117th Congress (2021-2022): User Data Protection Act.
           (2021, June 29).
-          <https://www.congress.gov/bill/117th-congress/house-bill/4240).><br /><br />
+          <https://www.congress.gov/bill/117th-congress/house-bill/4240).><br
+          /><br />
 
           General Data Protection Regulation¹ do exist, as well as the Personal
           Data Protection Bill, however, current data rights are often exchanged
@@ -41,7 +42,8 @@ sections:
           Law, sums it up perfectly: “There is simply too much to manage, and
           often the way it is presented to consumers makes it difficult for them
           to make informed choices. In this context, clicking “I agree” without
-          reading privacy policies is an act of surrender, not of consent.”³<br /><br />
+          reading privacy policies is an act of surrender, not of consent.”³<br
+          /><br />
 
           We hear you, Teresa.<br /><br />
 
@@ -66,6 +68,33 @@ sections:
           **A Data Trust is a legal framework for managing data.**
 
 
+          What that really means is that there is a group of beneficiaries that
+          produce data who enter a legal contract based on trust law with
+          trustees who follow the contract and facilitate the appropriate
+          handling of the data. This means that beneficiaries have complete
+          control and understanding of how their data is being used and why. 
+
+
+          There are 3 primary concepts involved in a data trust:
+
+
+          1.  There is a clear intention to establish a trust
+
+
+          2.  The subject matter or property of the Trust is defined
+
+
+          3.  The beneficiaries of the Trust are specified (including as a
+          conceptual category rather than nominally)
+
+
+          Data Trusts are used in several fields, including social media,
+          hospitals and other health data repositories, research data,
+          artificial intelligence research and data, and, you guessed it,
+          e-commerce. 
+
+
+
           Key Entities for data trusts include the following:
 
 
@@ -74,7 +103,7 @@ sections:
 
 
           *   **Trustees**: Those entrusted with monitoring compliance and
-          gatekeeping of data based on agreed upon terms with the beneficiaries
+          gatekeeping of data based on agreed-upon terms with the beneficiaries
 
 
           *   **Trust** **Law**: “Trust law refers to laws governing the
@@ -99,8 +128,16 @@ sections:
 
 
           *   **Shared Data Goals**: Understanding of and agreement of
-          beneficiaries on how data is shared, to whom it is shared with, why it
-          is shared, and compliance with these parameters
+          beneficiaries on how data is shared, to whom it is shared, why it is
+          shared, and compliance with these parameters
+
+
+          Below is a lifecycle for how a data trust works with BütCamp, Inc.
+          built into the model. Essentially, we provide a clear, concise
+          statement to all users describing their data rights before they enter
+          any personal information. We keep only the data necessary to complete
+          an order successfully, and data is put into a data trust that BütCamp
+          uses for ethical research.
 
 
           ![](/images/howdatatrustswork.png)
