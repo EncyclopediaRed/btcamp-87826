@@ -29,7 +29,7 @@ sections:
     title: Büt Camp Best Sellers
   - section_id: test
     questions:
-      - question: Biodegradeable
+      - question: Eco-Friendly
         answer: >
           ## Made With Earth Friendly PLA
 
