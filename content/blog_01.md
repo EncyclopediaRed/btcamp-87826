@@ -16,9 +16,6 @@ sections:
     bulletpoints:
       - title: lorem-ipsum
         description: >
-          ## What is the Lean Startup?
-
-
           "The Lean Startup: How Today's Entrepreneurs Use Continous Innovation
           to Create Radically Successful Businesses" by Eric Ries describes the
           core strategies for starting a business and has offered Büt Camp, Inc.
