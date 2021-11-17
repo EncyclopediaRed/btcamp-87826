@@ -44,9 +44,16 @@ sections:
     bulletpoints:
       - title: Rob Barrowclift
         description: >
-          Meet Rob! Rob is awesome pants. Our lead web developer and financial
-          pro, Rob is essential to our success. Just look at that rampant
-          enthusiasm!
+          Meet Rob! Our lead web developer and financial pro, Rob is essential
+          to our success. Just look at that rampant enthusiasm!
+
+
+          Rob is an IT Generalist. If it plugs in, works on a computer, or
+          traverses the interent he's likely worked on it. Rob resides in
+          Richmond, VA with wife and rescue animals. For the last six years Rob
+          has been an IT, Business Planning, and Graphics Design Consultant in
+          RVA. He enjoys helping small businesses reach their potential while
+          saving money and planning for the future.
         image: images/Rob-Barrowclift.png
       - title: Alex Kinnaman
         description: >
