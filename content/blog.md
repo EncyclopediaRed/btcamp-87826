@@ -28,9 +28,7 @@ sections:
           product/service or business use the Technology and why?
 
 
-
-
-          ## Continue...
+          ## [Continue...](/blog\_02)
         image: images/AdobeStock_136542286.jpeg
       - title: 'Blog Post #3'
         description: >
