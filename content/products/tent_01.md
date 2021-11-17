@@ -1,6 +1,6 @@
 ---
 id: '10'
-title: Büt Camp Emergency Shelter
+title: Büt Camp | Emergency Shelter
 description: One tent to rule them all.
 price: '11.99'
 order: 1
