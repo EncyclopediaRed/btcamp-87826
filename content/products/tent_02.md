@@ -1,6 +1,6 @@
 ---
 id: '10'
-title: Mini Pack (5) Büt Camp Emergency Shelter
+title: Five (5) Büt Camp Emergency Shelters
 description: One shelter to rule them all.
 price: '11.99'
 order: 1
