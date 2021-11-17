@@ -28,7 +28,7 @@ sections:
       - content/products/tent_03.md
     title: Büt Camp Best Sellers
   - bulletpoints:
-      - title: lorem-ipsum
+      - title: New from Büt Camp
         description: >-
           ## Lorem ipsum
 
