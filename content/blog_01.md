@@ -84,7 +84,7 @@ sections:
 
 
 
-          1.  If <25% of customers report that the product is dysfunctional, we
+          1. If <25% of customers report that the product is dysfunctional, we
           persevere and work with our manufacturer and suppliers to improve
           quality control measures.
 
