@@ -67,16 +67,18 @@ sections:
         image: images/Quan-Nguyen-6e06ef6b.png
       - title: Structure
         description: >
-          We are a **Certified B Corporation** registered in Virginia.<br /><br
-          />
+          We are a **Certified B Corporation** registered in Virginia.
 
           Büt Camp, Inc. has passed its B Certification exam with an overall
-          score of 92.<br /><br />
+          score of 92.
 
-          Our four-member team shares an equal 25% Ownership.<br /><br />
+          Our four-member team shares an equal 25% Ownership.
 
           A near-future vision of 10-15 employees to assist with inventory,
           bookkeeping, sales, support and returns, and government liaison.
+
+
+          ![](images/structure-13d6808d.png)
         image: images/structure.png
   - type: promotion_section
     section_id: promotion_section
