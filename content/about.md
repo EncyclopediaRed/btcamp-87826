@@ -79,7 +79,6 @@ sections:
 
 
           ![](images/structure-13d6808d.png)
-        image: images/structure.png
   - type: promotion_section
     section_id: promotion_section
     title: A new alternative for temporary shelter
