@@ -79,6 +79,7 @@ sections:
           back into the small bag provided.
         image: images/icon_blow_small.png
     type: bulletpoints_section
+    section_id: features
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
