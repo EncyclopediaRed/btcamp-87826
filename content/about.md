@@ -133,7 +133,7 @@ sections:
           *   Product sourcing
 
           *   QC reporting
-
+        image: images/odmgroup.jpeg
   - type: promotion_section
     section_id: promotion_section
     title: A new alternative for temporary shelter
