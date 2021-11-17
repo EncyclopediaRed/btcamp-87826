@@ -85,6 +85,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
+        image: images/icon_eco_small.png
     type: bulletpoints_section
 seo:
   title: Planty Theme
