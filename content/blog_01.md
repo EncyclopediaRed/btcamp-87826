@@ -12,7 +12,7 @@ sections:
 
       ##
     type: header_section
-  - section_id: lorem-ipsum
+  - section_id: post-one
     bulletpoints: []
     type: bulletpoints_section
 seo:
