@@ -100,6 +100,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
+        image: images/icon_blow_small.png
     type: bulletpoints_section
 seo:
   title: Planty Theme
