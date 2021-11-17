@@ -16,8 +16,8 @@ sections:
     bulletpoints:
       - title: 'Blog Post #1'
         description: >
-          What processes/concepts from The Lean Startup benefit your ecommerce
-          solution/business, and details of why it’s being used?
+          What processes and concepts from The Lean Startup benefit our business
+          and details of why it’s being used?
 
 
           ## [Continue...](/blog\_01)
