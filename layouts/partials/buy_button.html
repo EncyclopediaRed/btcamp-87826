@@ -2,7 +2,7 @@
 
 <button class="button button--std snipcart-add-item"
     data-item-name="{{ $product_page.Title }}"
-    data-item-url="{{ $product_page.URL }}"
+    data-item-url="{{ $product_page.RelPermalink }}"
     data-item-price="{{ $product_page.Params.price }}"
     {{ if $product_page.Params.default_thumbnail_image }} data-item-image="{{ $product_page.Params.default_thumbnail_image | relURL }}" {{ end }}
     data-item-description="{{ $product_page.Params.description }}"
