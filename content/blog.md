@@ -51,7 +51,7 @@ sections:
     section_id: promotion_section
     title: Büt Camp Emegency Shelter
     subtitle: from $11.99
-    image: images/promo.jpg
+    image: images/use_cases2.jpg
     background_image: images/leaf.svg
     cta:
       title: Discover
