@@ -9,6 +9,7 @@ sections:
       How does BütCamp, Inc. use Data Trusts as part of an e-commerce solution
       and why? 
     type: header_section
+    background_image: images/leaf-light-grey.svg
 seo:
   title: ''
   description: ''
