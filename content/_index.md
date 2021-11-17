@@ -87,6 +87,7 @@ sections:
           we're a Certified B Corporation. Our aim isn't profits for profit
           sake. We wish to give back to the community and customers in need. We
           keep our costs as low as possible and pass our savings on to you.
+        image: images/icon_afford_small.png
       - title: lorem-ipsum
         description: >-
           ## Lorem ipsum
