@@ -26,11 +26,7 @@ sections:
           and feedback loop with our valued customers.
 
 
-          >
 
-          >
-
-          >
 
           > *"Hidden among these mundane details are a handful of assumptions
           that require more courage to state—in the present tense—with a
@@ -40,10 +36,7 @@ sections:
           entrepreneur superpower. They are called leaps of faith precisely
           because the success of the entire venture rests on them. If they are
           true, tremendous opportunity awaits. If they are false, the startup
-          risks total failure."*
-
-
-          > *--Ries, Eric. The Lean Startup*
+          risks total failure."   --Ries, Eric. The Lean Startup*
         image: images/leanstartup.png
       - title: Leap of Faith Assumptions
         description: >
