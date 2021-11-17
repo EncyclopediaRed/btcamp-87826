@@ -65,7 +65,7 @@ sections:
           Seemingly knowledgeable in the answers yet not sharing, Quan also
           enjoys cats, but not as much as his daughter.
         image: images/Quan-Nguyen-6e06ef6b.png
-      - title: Structure
+      - title: Structure & Advisory
         description: >+
           We are a **Certified B Corporation** registered in Virginia.<br /><br
           /> Büt Camp, Inc. has passed its B Certification exam with an overall
@@ -85,7 +85,8 @@ sections:
           Province, China<br /><br />
 
 
-          Compost Bag China (CBC) is our manufacturer and expert in PLA film.<br /><br />
+          Compost Bag China (CBC) is our manufacturer and expert in PLA film.<br
+          /><br />
 
 
           CBC creates several sheets of PLA film. The top of which is two sheets
