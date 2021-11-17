@@ -91,7 +91,7 @@ sections:
 
           2.  If <50% of customers report that the product is dysfunctional, we
           pivot and reevaluate with our manufacturer and develop a new design.
-          This includes structural issues, setup workflow, and color.
+          This includes structural issues, setup workflow, and color.<br /><br />
 
 
           3.  If <50% of customers report that individual units are too
