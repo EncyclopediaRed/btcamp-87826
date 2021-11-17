@@ -26,7 +26,7 @@ sections:
         image: images/leanstartup.png
       - title: Leap of Faith Assumptions
         description: >
-          ## **Value Hypothesis**&#xA;
+          ## **Value Hypothesis**&#xA;<br /><br />
 
 
 
