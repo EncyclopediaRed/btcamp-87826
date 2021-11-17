@@ -79,7 +79,9 @@ sections:
           We want to know when we need to make a design update to our products.
           We monitor feedback quarterly and if any of the following actions
           occurs, we pivot or persevere as needed to bring the best possible
-          product. 
+          product.
+
+
 
 
           1.  If <25% of customers report that the product is dysfunctional, we
