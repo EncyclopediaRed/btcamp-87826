@@ -111,7 +111,7 @@ sections:
         image: images/CBC-small-6af99c25.png
       - title: 'Partner: ODM Group'
         description: |
-          Website: https://www.odm-pro.com
+          Website: https://www.odm-pro.com<br /><br />
           Location:
 
           4A Hung Chu Bldg,
