@@ -87,7 +87,8 @@ sections:
           Province, China<br /><br />
 
 
-          Compost Bag China (CBC) is our manufacturer and expert in PLA film.<br /><br />
+          Compost Bag China (CBC) is our manufacturer and expert in PLA film.<br
+          /><br />
 
 
           CBC creates several sheets of PLA film. The top of which is two sheets
@@ -110,11 +111,7 @@ sections:
           January/February during the Chinese Lunar New Year.
         image: images/CBC-small-6af99c25.png
       - title: 'Partner: ODM Group'
-        description: |
-          Website: https://www.odm-pro.com<br /><br />
-          Location: 4A Hung Chu Bldg, Jida Jiuzhou Avenue Zhuhai 519015, China<br /><br />
-
-          Chinese Manufacturer Liaison
+        description: "Website: https://www.odm-pro.com\nLocation: 4A Hung Chu Bldg, Jida Jiuzhou Avenue Zhuhai 519015, China\n\nQuality Control is performed by our Chinese Manufacturer Liaison ODM Group as part of our contract with them.\n\nODM works directly with the manufacturer to hold to ISO Standards1 and ASTM Standards2 for durability, functionality as a tent, and biodegradability of the PLA film and finished product.\n\n\nODM Group is our direct contact for\_\n\n*   Representative office in Zhuhai\n\n*   Product sourcing\n\n*   QC reporting\n"
   - type: promotion_section
     section_id: promotion_section
     title: A new alternative for temporary shelter
