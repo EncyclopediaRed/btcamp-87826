@@ -2,7 +2,7 @@
 id: '10'
 title: Five (5) Büt Camp Emergency Shelters
 description: One shelter to rule them all.
-price: '11.99'
+price: '54.95'
 order: 1
 featured: true
 seo:
