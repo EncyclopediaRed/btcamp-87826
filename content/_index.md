@@ -48,7 +48,7 @@ sections:
     title: There when you need it.
     subtitle: Starting at $11.99. Discounts for packs!
     image: images/use_cases2.jpg
-    background_image: images/leaf.svg
+    background_image: images/logo_large_black_transparent.png
     cta:
       title: Discover
       url: /store
