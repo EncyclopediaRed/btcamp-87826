@@ -56,6 +56,7 @@ sections:
           broader level. With brand recognition and wider distribution, we will
           gain the attention of larger groups at regional, state, and federal
           levels in need of additional emergency shelter options.
+        image: images/noun_Value_2351001-153d55e7.png
       - title: Metrics for Success
         description: >
           Büt Camp Inc. takes a multi-pronged approach to measuring customer
