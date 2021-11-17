@@ -46,7 +46,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: There when you need it.
-    subtitle: from $11.99
+    subtitle: Starting at $11.99. Discounts for packs!
     image: images/use_cases2.jpg
     background_image: images/leaf.svg
     cta:
