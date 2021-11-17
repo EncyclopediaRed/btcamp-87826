@@ -59,6 +59,7 @@ sections:
           few in your emergency preparedness bug-out bag. Fire and rescue
           services can keep larger quantities on hand for quick and easy
           emergency shelters in a quickly-changing disaster.
+        image: images/icon_lightweight_small.png
     type: bulletpoints_section
     section_id: features
   - type: testimonials_section
