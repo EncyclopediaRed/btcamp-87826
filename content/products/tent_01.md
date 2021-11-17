@@ -1,6 +1,6 @@
 ---
 id: '1'
-title: Nulla suscipit
+title: Büt Camp tent
 description: One tent to rule them all.
 price: '11.99'
 order: 1
