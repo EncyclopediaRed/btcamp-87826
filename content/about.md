@@ -66,7 +66,7 @@ sections:
           enjoys cats, but not as much as his daughter.
         image: images/Quan-Nguyen-6e06ef6b.png
       - title: Structure
-        description: >
+        description: >+
           We are a **Certified B Corporation** registered in Virginia.
 
           Büt Camp, Inc. has passed its B Certification exam with an overall
@@ -77,8 +77,6 @@ sections:
           A near-future vision of 10-15 employees to assist with inventory,
           bookkeeping, sales, support and returns, and government liaison.
 
-
-          ![](images/structure-13d6808d.png)
   - type: promotion_section
     section_id: promotion_section
     title: A new alternative for temporary shelter
