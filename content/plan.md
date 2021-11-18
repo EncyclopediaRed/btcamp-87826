@@ -20,7 +20,6 @@ sections:
           decrease waste caused by emergency and disaster situations.
 
 
-
           Manually inflatable channels take little time to inflate and provide a
           structural canopy to create a small personal tent with an additional
           add-on screen attached with biodegradable adhesive tape and PLA fiber
@@ -36,6 +35,9 @@ sections:
           Research into the cost of PLA indicated an affordable $0.15/gram, and
           at five (5) yards per tent, production costs are low enough to produce
           in bulk.3
+
+
+          **Total Tent COGS: $8.50/unit**
     type: bulletpoints_section
 seo:
   title: ''
