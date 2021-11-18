@@ -32,12 +32,6 @@ sections:
           card data on their servers, our compliance is easily determined each
           year by a few questions answered and submitted to our processor for
           their records.
-      - title: References
-        description: |+
-
-
-          *   https://www.pcicomplianceguide.org
-
     type: bulletpoints_section
 seo:
   title: ''
