@@ -39,17 +39,22 @@ sections:
 
           **Total Tent COGS: $8.50/unit**
       - title: Marketing Plan
-        description: >-
-          ## Lorem ipsum
+        description: >+
+          # Target Customer
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Büt Camp itself is designed to be easily usable by anyone in need of a
+          temporary shelter. The target audience varies from adult individuals
+          wishing to have a contingency shelter plan, individuals whose
+          occupations require additional emergency response equipment, and
+          larger groups that plan for and implement disaster recovery responses.
 
 
-          - Lorem ipsum
 
-          - dolor sit amet
+
+          ![](images/targetcustomer.png)
+
+
     type: bulletpoints_section
 seo:
   title: ''
