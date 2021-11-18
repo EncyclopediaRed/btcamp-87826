@@ -63,7 +63,7 @@ sections:
           biodegradeable product.
 
 
-          [Learn more about our 3-year roadmap!](/plan)
+          [Learn more about our 3-year roadmap!](/roadmap)
     type: bulletpoints_section
     section_id: features
   - type: testimonials_section
