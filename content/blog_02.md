@@ -21,7 +21,7 @@ sections:
           your online services and accounts? Of course you have! Using Google,
           Amazon, Twitter, Facebook, and any other e-commerce or social media
           service not only allows them to keep your data, but use it to generate
-          product recommendations and targeted ads.
+          product recommendations and targeted ads.<br /><br />
 
 
           The individual user has little autonomy over what happens to their
@@ -43,10 +43,10 @@ sections:
           much to manage, and often the way it is presented to consumers makes
           it difficult for them to make informed choices. In this context,
           clicking “I agree” without reading privacy policies is an act of
-          surrender, not of consent” (Scassa 2018).
+          surrender, not of consent” (Scassa 2018).<br /><br />
 
 
-          We hear you, Teresa.
+          We hear you, Teresa.<br /><br />
 
 
 
@@ -56,7 +56,7 @@ sections:
           including Amazon, TikTok, Twitter, and others (Diaz 2020), as well as
           multiple discussions on ethical data use in many other applications,
           including other tech companies like Uber, Google Maps, and Facebook
-          (Janiszewska-Kiewra, Podlesny, & Soller 2020).
+          (Janiszewska-Kiewra, Podlesny, & Soller 2020).<br /><br />
 
 
           We believe that businesses should have clear, transparent standards on
@@ -65,14 +65,14 @@ sections:
           researchers, and other companies through ethical data sharing.
       - title: 'The Solution: Data Trusts'
         description: >
-          **A Data Trust is a legal framework for managing data **(Qlarion)**.**
+          **A Data Trust is a legal framework for managing data **(Qlarion)**.**<br /><br />
 
 
           What that really means is that there is a group of beneficiaries that
           produce data who enter a legal contract based on trust law with
           trustees who follow the contract and facilitate the appropriate
           handling of the data. This means that beneficiaries have complete
-          control and understanding of how their data is being used and why.
+          control and understanding of how their data is being used and why.<br /><br />
 
 
           There are 3 primary concepts involved in a data trust (Ada Lovelace
@@ -91,7 +91,7 @@ sections:
           Data Trusts are used in several fields, including social media,
           hospitals and other health data repositories, research data,
           artificial intelligence research and data, and, you guessed it,
-          e-commerce.
+          e-commerce.<br /><br />
 
 
           Key Entities for data trusts include the following:
@@ -127,7 +127,7 @@ sections:
 
           *   **Shared Data Goals**: Understanding of and agreement of
           beneficiaries on how data is shared, to whom it is shared, why it is
-          shared, and compliance with these parameters
+          shared, and compliance with these parameters<br /><br />
 
 
           Below is a lifecycle for how a data trust works with BütCamp, Inc.
@@ -140,7 +140,10 @@ sections:
 
           ![](/images/howdatatrustswork.png)
       - title: Data Trusts & Ethical E-Commerce
-        description: "The current environment of e-commerce is more connected and interwoven than ever with software, apps, mobile/wearable devices, and sites that track your every movement and action online. The benefit to consumers is more relevant data processed and delivered to them via ads hyper-personalized to their current wants and location, the ability to see where you are and where you've been, medical portals tracking health, purchasing habits, etc. As the scope and speed of data are cross-referenced, a customer becomes an encyclopedic data point with vast amounts of specific personal and private information that can be damaging if leaked or used by unscrupulous companies to drive profits through the sale of that data. This leads to a trust deficiency in consumer minds of businesses on the web in general, creating a more significant barrier to gaining a more reputable reputation.\n\nUsing a Data Trust allows the e-commerce business to access, store, and evaluate data on current customers, potential customers, and trends while simultaneously keeping that data safe and manageable by the customer via the trust's legal structure and access rules. Building trust in e-commerce is no different than trust between two people. Trust is inherently hard to gain and easy to lose. In e-commerce, trust is a primary driver of why a consumer may buy from your store versus a competitor (Laudon & Traver 2018) company with a higher reputation is a company that can more easily charge higher prices, lower the risk of newer products, and even create consumer evangelists.\_\n\nAn example of how powerful trust can be is Apple's reputation in the eyes of consumers. \"Apple has a powerful brand and unrivaled track record when it comes to the user's experience – in particular, it has taken a strong stance on privacy. Last month its iPhone advert said 'We believe your privacy should never be something you have to question'\" (Mavadiya 2019). But even one of the most trusted companies on the planet is subject to the fragility of the trust factor. When Apple announced, they were rolling out iPhone photo data scraping for images of child sexual abuse. This announcement was met with immediate backlash as even though the intentions were good, it felt like a betrayal of the core value of privacy Apple has maintained (Associated Press 2021).\n\nOur first step as an e-commerce company is to begin to foster trust through the use of a Data Trust. This step is one of many on the long road to becoming a company known for being ethical and honest with the data we're given.\n"
+        description: "The current environment of e-commerce is more connected and interwoven than ever with software, apps, mobile/wearable devices, and sites that track your every movement and action online. The benefit to consumers is more relevant data processed and delivered to them via ads hyper-personalized to their current wants and location, the ability to see where you are and where you've been, medical portals tracking health, purchasing habits, etc. As the scope and speed of data are cross-referenced, a customer becomes an encyclopedic data point with vast amounts of specific personal and private information that can be damaging if leaked or used by unscrupulous companies to drive profits through the sale of that data. This leads to a trust deficiency in consumer minds of businesses on the web in general, creating a more significant barrier to gaining a more reputable reputation.<br /><br />
+        Using a Data Trust allows the e-commerce business to access, store, and evaluate data on current customers, potential customers, and trends while simultaneously keeping that data safe and manageable by the customer via the trust's legal structure and access rules. Building trust in e-commerce is no different than trust between two people. Trust is inherently hard to gain and easy to lose. In e-commerce, trust is a primary driver of why a consumer may buy from your store versus a competitor (Laudon & Traver 2018) company with a higher reputation is a company that can more easily charge higher prices, lower the risk of newer products, and even create consumer evangelists.<br /><br />
+        An example of how powerful trust can be is Apple's reputation in the eyes of consumers. \"Apple has a powerful brand and unrivaled track record when it comes to the user's experience – in particular, it has taken a strong stance on privacy. Last month its iPhone advert said 'We believe your privacy should never be something you have to question'\" (Mavadiya 2019). But even one of the most trusted companies on the planet is subject to the fragility of the trust factor. When Apple announced, they were rolling out iPhone photo data scraping for images of child sexual abuse. This announcement was met with immediate backlash as even though the intentions were good, it felt like a betrayal of the core value of privacy Apple has maintained (Associated Press 2021).<br /><br />
+        Our first step as an e-commerce company is to begin to foster trust through the use of a Data Trust. This step is one of many on the long road to becoming a company known for being ethical and honest with the data we're given.\n"
       - title: 'How BütCamp, Inc. Employs Data Trusts'
         description: >
           Büt Camp. Inc. (BCI), an e-commerce certified B-Corp, selling
@@ -149,7 +152,7 @@ sections:
           and day hikers, has an ethical duty to store data that does not treat
           the customer's privacy as a source of income. We employ Data Trusts
           for our benefit and the benefit of the consumers and potential
-          customers.
+          customers.<br /><br />
 
 
           In terms of research data, similar to AI research, and sharing data
@@ -157,10 +160,10 @@ sections:
           patented PLA technology. We feel that sharing this data with others in
           a Data Trust and those our Data Trust approves, rather than with
           anyone who may reappropriate it, is optimal for continuing research in
-          PLA technology and ethical data sharing.
+          PLA technology and ethical data sharing.<br /><br />
 
 
-          **Data BütCamp, Inc. Collects**
+          **Data BütCamp, Inc. Collects**<br /><br />
 
 
           Customers order from Büt Camp, Inc.’s online store via the web or
@@ -215,17 +218,17 @@ sections:
           *   Recent purchases
 
 
-          *   Discounts used
+          *   Discounts used<br /><br />
 
 
-          **Maintaining Our Mission**
+          **Maintaining Our Mission**<br /><br />
 
 
           Data is stored only in the Data Trust. Only relevant data needed for
           purchase completion, BCI marketing campaigns, lead generation,
           customer feedback, etc., is requested and given, adhering to the
           trust's strict governance rules. Logs keep records of all transactions
-          involving the data to analyze for misuse or data manipulation.
+          involving the data to analyze for misuse or data manipulation.<br /><br />
 
 
           The data held by the trust is not only used by Büt Camp, Inc. but is
@@ -238,7 +241,7 @@ sections:
           interfere with the process of completing a purchase. After purchase,
           the customer can elect to destroy all relevant data or anonymize it
           for later use, stripping any personal data that could be traced back
-          to that individual or entity.
+          to that individual or entity.<br /><br />
 
 
           This level of conditional and ethical data governance is best suited
