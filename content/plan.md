@@ -39,7 +39,7 @@ sections:
 
           **Total Tent COGS: $8.50/unit**
       - title: Marketing Plan
-        description: >+
+        description: >
           # Target Customer
 
 
@@ -50,11 +50,10 @@ sections:
           larger groups that plan for and implement disaster recovery responses.
 
 
-
-
           ![](images/targetcustomer.png)
 
 
+          # Competitors
     type: bulletpoints_section
 seo:
   title: ''
