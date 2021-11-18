@@ -38,7 +38,7 @@ sections:
 
 
           **Total Tent COGS: $8.50/unit**
-      - title: lorem-ipsum
+      - title: Marketing Plan
         description: >-
           ## Lorem ipsum
 
