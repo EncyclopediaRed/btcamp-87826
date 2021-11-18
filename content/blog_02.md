@@ -65,21 +65,28 @@ sections:
           researchers, and other companies through ethical data sharing.
       - title: 'The Solution: Data Trusts'
         description: >
-          **A Data Trust is a legal framework for managing data **(Qlarion)**.**<br /><br />
+          **A Data Trust is a legal framework for managing data (Qlarion).**<br
+          /><br />
 
 
           What that really means is that there is a group of beneficiaries that
           produce data who enter a legal contract based on trust law with
           trustees who follow the contract and facilitate the appropriate
           handling of the data. This means that beneficiaries have complete
-          control and understanding of how their data is being used and why.<br /><br />
+          control and understanding of how their data is being used and why.<br
+          /><br />
 
 
           There are 3 primary concepts involved in a data trust (Ada Lovelace
           Institute and AI Council 2021):
-            1. There is a clear intention to establish a trust duck duck duck
-            2. The subject matter or property of the Trust is defined
-            3. The beneficiaries of the Trust are specified (including as aconceptual category rather than nominally)
+
+
+          1.  There is a clear intention to establish a trust duck duck duck
+
+          2.  The subject matter or property of the Trust is defined
+
+          3.  The beneficiaries of the Trust are specified (including as a
+          conceptual category rather than nominally)
 
 
           Data Trusts are used in several fields, including social media,
@@ -91,38 +98,26 @@ sections:
           Key Entities for data trusts include the following:
 
 
-            *   **Beneficiaries**: Data producers (customers, individuals,
-          companies, organizations, society)
+          *   **Beneficiaries**: Data producers (customers, individuals,
+              companies, organizations, society)
 
+          *   **Trustees**: Those entrusted with monitoring compliance and
+              gatekeeping of data based on agreed-upon terms with the beneficiaries
 
-            *   **Trustees**: Those entrusted with monitoring compliance and
-          gatekeeping of data based on agreed-upon terms with the beneficiaries
+          *   **Trust Law**: “Trust law refers to laws governing the creation
+              and implementation of trusts, which are fiduciary relationships. In this type of relationship, one party (called the trustor) gives a second party (called the trustee) the right to hold title to assets or property for the benefit of a third party (called the beneficiary).”
 
- 
-            *   **Trust Law**: “Trust law refers to laws governing the creation
-          and implementation of trusts, which are fiduciary relationships. In
-          this type of relationship, one party (called the trustor) gives a
-          second party (called the trustee) the right to hold title to assets or
-          property for the benefit of a third party (called the beneficiary).”
+          *   **Data Rights**: The right for individuals to know what is
+              happening with their data without having to read intentionally confusing and lengthy agreements
 
+          *   **Technology**: Validation, storage, and security measures applied
+              to data with access limited to the Trustees
 
-            *   **Data Rights**: The right for individuals to know what is
-          happening with their data without having to read intentionally
-          confusing and lengthy agreements
+          *   **Funding Models**: Ranging from funded, unfunded, endowment,
+              subscription, etc.
 
-
-            *   **Technology**: Validation, storage, and security measures applied
-          to data with access limited to the Trustees
-
-
-            *   **Funding Models**: Ranging from funded, unfunded, endowment,
-          subscription, etc.
-
-
-            *   **Shared Data Goals**: Understanding of and agreement of
-          beneficiaries on how data is shared, to whom it is shared, why it is
-          shared, and compliance with these parameters<br /><br />
-
+          *   **Shared Data Goals**: Understanding of and agreement of
+              beneficiaries on how data is shared, to whom it is shared, why it is shared, and compliance with these parameters<br /><br />
 
           Below is a lifecycle for how a data trust works with BütCamp, Inc.
           built into the model. Essentially, we provide a clear, concise
@@ -134,10 +129,46 @@ sections:
 
           ![](/images/howdatatrustswork.png)
       - title: Data Trusts & Ethical E-Commerce
-        description: "The current environment of e-commerce is more connected and interwoven than ever with software, apps, mobile/wearable devices, and sites that track your every movement and action online. The benefit to consumers is more relevant data processed and delivered to them via ads hyper-personalized to their current wants and location, the ability to see where you are and where you've been, medical portals tracking health, purchasing habits, etc. As the scope and speed of data are cross-referenced, a customer becomes an encyclopedic data point with vast amounts of specific personal and private information that can be damaging if leaked or used by unscrupulous companies to drive profits through the sale of that data. This leads to a trust deficiency in consumer minds of businesses on the web in general, creating a more significant barrier to gaining a more reputable reputation.<br /><br />
-        Using a Data Trust allows the e-commerce business to access, store, and evaluate data on current customers, potential customers, and trends while simultaneously keeping that data safe and manageable by the customer via the trust's legal structure and access rules. Building trust in e-commerce is no different than trust between two people. Trust is inherently hard to gain and easy to lose. In e-commerce, trust is a primary driver of why a consumer may buy from your store versus a competitor (Laudon & Traver 2018) company with a higher reputation is a company that can more easily charge higher prices, lower the risk of newer products, and even create consumer evangelists.<br /><br />
-        An example of how powerful trust can be is Apple's reputation in the eyes of consumers. \"Apple has a powerful brand and unrivaled track record when it comes to the user's experience – in particular, it has taken a strong stance on privacy. Last month its iPhone advert said 'We believe your privacy should never be something you have to question'\" (Mavadiya 2019). But even one of the most trusted companies on the planet is subject to the fragility of the trust factor. When Apple announced, they were rolling out iPhone photo data scraping for images of child sexual abuse. This announcement was met with immediate backlash as even though the intentions were good, it felt like a betrayal of the core value of privacy Apple has maintained (Associated Press 2021).<br /><br />
-        Our first step as an e-commerce company is to begin to foster trust through the use of a Data Trust. This step is one of many on the long road to becoming a company known for being ethical and honest with the data we're given.\n"
+        description: >
+          The current environment of e-commerce is more connected and interwoven
+          than ever with software, apps, mobile/wearable devices, and sites that
+          track your every movement and action online. The benefit to consumers
+          is more relevant data processed and delivered to them via ads
+          hyper-personalized to their current wants and location, the ability to
+          see where you are and where you've been, medical portals tracking
+          health, purchasing habits, etc. As the scope and speed of data are
+          cross-referenced, a customer becomes an encyclopedic data point with
+          vast amounts of specific personal and private information that can be
+          damaging if leaked or used by unscrupulous companies to drive profits
+          through the sale of that data. This leads to a trust deficiency in
+          consumer minds of businesses on the web in general, creating a more
+          significant barrier to gaining a more reputable reputation.<br /><br
+          /> Using a Data Trust allows the e-commerce business to access, store,
+          and evaluate data on current customers, potential customers, and
+          trends while simultaneously keeping that data safe and manageable by
+          the customer via the trust's legal structure and access rules.
+          Building trust in e-commerce is no different than trust between two
+          people. Trust is inherently hard to gain and easy to lose. In
+          e-commerce, trust is a primary driver of why a consumer may buy from
+          your store versus a competitor (Laudon & Traver 2018) company with a
+          higher reputation is a company that can more easily charge higher
+          prices, lower the risk of newer products, and even create consumer
+          evangelists.<br /><br /> An example of how powerful trust can be is
+          Apple's reputation in the eyes of consumers. "Apple has a powerful
+          brand and unrivaled track record when it comes to the user's
+          experience – in particular, it has taken a strong stance on privacy.
+          Last month its iPhone advert said 'We believe your privacy should
+          never be something you have to question'" (Mavadiya 2019). But even
+          one of the most trusted companies on the planet is subject to the
+          fragility of the trust factor. When Apple announced, they were rolling
+          out iPhone photo data scraping for images of child sexual abuse. This
+          announcement was met with immediate backlash as even though the
+          intentions were good, it felt like a betrayal of the core value of
+          privacy Apple has maintained (Associated Press 2021).<br /><br /> Our
+          first step as an e-commerce company is to begin to foster trust
+          through the use of a Data Trust. This step is one of many on the long
+          road to becoming a company known for being ethical and honest with the
+          data we're given.
       - title: 'How BütCamp, Inc. Employs Data Trusts'
         description: >
           Büt Camp. Inc. (BCI), an e-commerce certified B-Corp, selling
@@ -222,7 +253,8 @@ sections:
           purchase completion, BCI marketing campaigns, lead generation,
           customer feedback, etc., is requested and given, adhering to the
           trust's strict governance rules. Logs keep records of all transactions
-          involving the data to analyze for misuse or data manipulation.<br /><br />
+          involving the data to analyze for misuse or data manipulation.<br
+          /><br />
 
 
           The data held by the trust is not only used by Büt Camp, Inc. but is
