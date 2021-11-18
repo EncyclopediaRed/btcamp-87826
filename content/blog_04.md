@@ -5,7 +5,7 @@ white_header: false
 sections:
   - section_id: lorem-ipsum
     bulletpoints:
-      - title: 'Blog Post #4'
+      - title: 'Blog Post #4: Snipcart'
         description: >-
           ## Lorem ipsum
 
