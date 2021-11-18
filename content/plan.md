@@ -34,6 +34,18 @@ sections:
           Research into the cost of PLA indicated an affordable $0.15/gram, and
           at five (5) yards per tent, production costs are low enough to produce
           in bulk.3
+      - title: lorem-ipsum
+        description: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
     type: bulletpoints_section
 seo:
   title: ''
