@@ -3,7 +3,7 @@ title: lorem-ipsum
 page_css_class: lorem-ipsum
 white_header: false
 sections:
-  - section_id: lorem-ipsum
+  - section_id: roadmap
     headline: Büt Roadmap
     subtitle: |
       Where we are and where we're going
