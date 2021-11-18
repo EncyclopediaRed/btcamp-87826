@@ -16,8 +16,6 @@ sections:
           vendor lock-in and wanted to make sure our shopping cart experience
           didn't have to change if our credit card processing merchant did.<br /><br />
 
-
-
           Snipcart is chiefly a payment gateway. This means Snipcart acts as
           like a point-of-sale terminal. The credit card information entered os
           never stored by Snipcart, and more importantly never stored by Büt
@@ -32,7 +30,7 @@ sections:
           processing transactions per year. Because BCI will also not be storing
           card data on their servers, our compliance is easily determined each
           year by a few questions answered and submitted to our processor for
-          their records.
+          their records.<br /><br />
     type: bulletpoints_section
 seo:
   title: ''
