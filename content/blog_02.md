@@ -79,14 +79,13 @@ sections:
           Institute and AI Council 2021):
 
 
-          1.  There is a clear intention to establish a trust
+          1.  There is a clear intention to establish a trust duck duck duck
 
 
           2.  The subject matter or property of the Trust is defined
 
 
-          3.  The beneficiaries of the Trust are specified (including as a
-          conceptual category rather than nominally)
+          3.  The beneficiaries of the Trust are specified (including as aconceptual category rather than nominally)
 
 
           Data Trusts are used in several fields, including social media,
@@ -105,7 +104,7 @@ sections:
           *   **Trustees**: Those entrusted with monitoring compliance and
           gatekeeping of data based on agreed-upon terms with the beneficiaries
 
-
+ 
           *   **Trust Law**: “Trust law refers to laws governing the creation
           and implementation of trusts, which are fiduciary relationships. In
           this type of relationship, one party (called the trustor) gives a
