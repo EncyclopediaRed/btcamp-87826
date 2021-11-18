@@ -4,7 +4,7 @@ page_css_class: lorem-ipsum
 white_header: false
 sections:
   - section_id: lorem-ipsum
-    headline: lorem-ipsum
+    headline: Büt Support
     subtitle: >-
       ## Lorem ipsum
 
