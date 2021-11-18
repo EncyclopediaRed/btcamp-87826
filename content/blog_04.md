@@ -33,17 +33,11 @@ sections:
           year by a few questions answered and submitted to our processor for
           their records.
       - title: References
-        description: >-
-          ## Lorem ipsum
+        description: |+
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   https://www.pcicomplianceguide.org
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
     type: bulletpoints_section
 seo:
   title: ''
