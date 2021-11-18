@@ -65,7 +65,7 @@ sections:
           researchers, and other companies through ethical data sharing.
       - title: 'The Solution: Data Trusts'
         description: >
-          **A Data Trust is a legal framework for managing data.**
+          **A Data Trust is a legal framework for managing data **(Qlarion)**.**
 
 
           What that really means is that there is a group of beneficiaries that
@@ -75,7 +75,8 @@ sections:
           control and understanding of how their data is being used and why.
 
 
-          There are 3 primary concepts involved in a data trust:
+          There are 3 primary concepts involved in a data trust (Ada Lovelace
+          Institute and AI Council 2021):
 
 
           1.  There is a clear intention to establish a trust
