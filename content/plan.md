@@ -9,7 +9,7 @@ sections:
     background_image: images/leaf-light-grey.svg
   - section_id: lorem-ipsum
     bulletpoints:
-      - title: lorem-ipsum
+      - title: The BütCamp
         description: >-
           ## Lorem ipsum
 
