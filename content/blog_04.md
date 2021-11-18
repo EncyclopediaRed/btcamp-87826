@@ -16,6 +16,8 @@ sections:
           vendor lock-in and wanted to make sure our shopping cart experience
           didn't have to change if our credit card processing merchant did.<br /><br />
 
+
+
           Snipcart is chiefly a payment gateway. This means Snipcart acts as
           like a point-of-sale terminal. The credit card information entered os
           never stored by Snipcart, and more importantly never stored by Büt
