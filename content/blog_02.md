@@ -77,15 +77,9 @@ sections:
 
           There are 3 primary concepts involved in a data trust (Ada Lovelace
           Institute and AI Council 2021):
-
-
-          1.  There is a clear intention to establish a trust duck duck duck
-
-
-          2.  The subject matter or property of the Trust is defined
-
-
-          3.  The beneficiaries of the Trust are specified (including as aconceptual category rather than nominally)
+            1. There is a clear intention to establish a trust duck duck duck
+            2. The subject matter or property of the Trust is defined
+            3. The beneficiaries of the Trust are specified (including as aconceptual category rather than nominally)
 
 
           Data Trusts are used in several fields, including social media,
@@ -97,35 +91,35 @@ sections:
           Key Entities for data trusts include the following:
 
 
-          *   **Beneficiaries**: Data producers (customers, individuals,
+            *   **Beneficiaries**: Data producers (customers, individuals,
           companies, organizations, society)
 
 
-          *   **Trustees**: Those entrusted with monitoring compliance and
+            *   **Trustees**: Those entrusted with monitoring compliance and
           gatekeeping of data based on agreed-upon terms with the beneficiaries
 
  
-          *   **Trust Law**: “Trust law refers to laws governing the creation
+            *   **Trust Law**: “Trust law refers to laws governing the creation
           and implementation of trusts, which are fiduciary relationships. In
           this type of relationship, one party (called the trustor) gives a
           second party (called the trustee) the right to hold title to assets or
           property for the benefit of a third party (called the beneficiary).”
 
 
-          *   **Data Rights**: The right for individuals to know what is
+            *   **Data Rights**: The right for individuals to know what is
           happening with their data without having to read intentionally
           confusing and lengthy agreements
 
 
-          *   **Technology**: Validation, storage, and security measures applied
+            *   **Technology**: Validation, storage, and security measures applied
           to data with access limited to the Trustees
 
 
-          *   **Funding Models**: Ranging from funded, unfunded, endowment,
+            *   **Funding Models**: Ranging from funded, unfunded, endowment,
           subscription, etc.
 
 
-          *   **Shared Data Goals**: Understanding of and agreement of
+            *   **Shared Data Goals**: Understanding of and agreement of
           beneficiaries on how data is shared, to whom it is shared, why it is
           shared, and compliance with these parameters<br /><br />
 
@@ -173,52 +167,52 @@ sections:
           is not necessarily limited to:
 
 
-          *   Full name
+            *   Full name
 
 
-          *   Company if applicable
+            *   Company if applicable
 
 
-          *   Address
+            *   Address
 
 
-          *   Credit card
+            *   Credit card
 
 
-          *   Email address
+            *   Email address
 
 
-          *   Phone number
+            *   Phone number
 
 
-          *   SKUs purchased and quantities
+            *   SKUs purchased and quantities
 
 
-          *   Time of purchase
+            *   Time of purchase
 
 
-          *   Shipping Preference
+            *   Shipping Preference
 
 
-          *   Unique order number
+            *   Unique order number
 
 
-          *   Contact preferences
+            *   Contact preferences
 
 
-          *   Length of time on BCI site
+            *   Length of time on BCI site
 
 
-          *   Number of visits to BCI site
+            *   Number of visits to BCI site
 
 
-          *   SKUs placed in cart or removed
+            *   SKUs placed in cart or removed
 
 
-          *   Recent purchases
+            *   Recent purchases
 
 
-          *   Discounts used<br /><br />
+            *   Discounts used<br /><br />
 
 
           **Maintaining Our Mission**<br /><br />
