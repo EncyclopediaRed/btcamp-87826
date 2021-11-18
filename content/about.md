@@ -51,15 +51,16 @@ sections:
           traverses the interent he's likely worked on it. Rob resides in
           Richmond, VA with wife and rescue animals.<br /><br />
 
-          For the last six years Rob has been an IT, Business Planning, and Graphics Design Consultant in
-          RVA. He enjoys helping small businesses reach their potential while
-          saving money and planning for the future.
+          For the last six years Rob has been an IT, Business Planning, and
+          Graphics Design Consultant in RVA. He enjoys helping small businesses
+          reach their potential while saving money and planning for the future.
         image: images/ROB_TXB_opt.png
       - title: Alex Kinnaman
         description: >
           This is Alex! Alex is the PLA expert and designs many of our products.
           She is also an expert in digital preservation and ensures our research
-          and impact last far longer than our biodegradeable products!<br /><br />
+          and impact last far longer than our biodegradeable products!<br /><br
+          />
 
           Alex's background is in Library and Information Sciences with a
           special focus on digital preservation.  She currently serves as the
@@ -68,9 +69,8 @@ sections:
           material, and research into methods for preserving complex digital
           objects.<br /><br />
 
-          Preservation, as a concept, applies to all fields. For Büt
-          Camp, Inc., she serves as the primary point of research and
-          sustainability.
+          Preservation, as a concept, applies to all fields. For Büt Camp, Inc.,
+          she serves as the primary point of research and sustainability.
         image: images/alex.jpg
       - title: Pat Bonipally
         description: >-
@@ -78,14 +78,16 @@ sections:
           things planning. We would be a mess without him!
         image: images/pat.jpg
       - title: Quan Nguyen
-        description: >
+        description: |
           And here's Quan! Quan enjoys cats, but not as much as his daughter.
-        image: images/Quan-Nguyen-6e06ef6b.png
+        image: images/Quan.jpg
       - title: Structure & Advisors
         description: >
-          We are a [**Certified B Corporation**](https://bcorporation.net) registered in Virginia.<br /><br />
+          We are a [**Certified B Corporation**](https://bcorporation.net)
+          registered in Virginia.<br /><br />
 
-          Büt Camp, Inc. has passed its B Certification exam with an overall score of 92.<br /><br />
+          Büt Camp, Inc. has passed its B Certification exam with an overall
+          score of 92.<br /><br />
 
           Our four-member team shares an equal 25% Ownership.<br /><br />
 
@@ -123,7 +125,8 @@ sections:
         description: >
           Website: https://www.odm-pro.com<br /><br />
 
-          Location: 4A Hung Chu Bldg, Jida Jiuzhou Avenue Zhuhai 519015, China<br /><br />
+          Location: 4A Hung Chu Bldg, Jida Jiuzhou Avenue Zhuhai 519015,
+          China<br /><br />
 
           Quality Control is performed by our Chinese Manufacturer Liaison ODM
           Group as part of our contract with them.<br /><br />
