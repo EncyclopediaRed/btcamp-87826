@@ -14,7 +14,7 @@ sections:
     bulletpoints:
       - title: 'The Problem: Loose Personal Data Protection'
         description: >
-          **Modern Data Governance Needs**
+          **Modern Data Governance Needs**<br /><br />
 
 
           Have you ever wondered what really happens with the data you provide
