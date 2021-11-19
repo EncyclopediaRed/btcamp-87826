@@ -65,17 +65,35 @@ sections:
           and first aid kit supplies, with an eventual goal of offering 3D
           schematics via direct-to-consumer sales.
       - title: Year 1
-        description: >-
-          ## Lorem ipsum
+        description: >+
+          **Local Market**
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Enter the local market through local brick-and-mortar camping and
+          outdoor stores and advertising to local disaster preparedness groups
+          and councils to build brand recognition and product awareness.
 
 
-          - Lorem ipsum
+          **Sample Distribution**
 
-          - dolor sit amet
+
+          Büt Camp Inc. will distribute 5,000 units immediately to first
+          responders in New Orleans, LA, and Northern California free of cost to
+          test the use within a specific customer base and request feedback
+          after two (2) months. We will also distribute an additional 1,000
+          units to local EMTs and local disaster preparedness groups and
+          councils. 
+
+
+          **Early Feedback Response**
+
+
+          Gather feedback directly from this customer base through informal
+          interviews and quantified questionnaires. By connecting with specific
+          components of our projected customer base, we can attain feedback on
+          the product and make any appropriate design or packaging changes
+          before releasing the final product for purchase.
+
     type: bulletpoints_section
 seo:
   title: ''
