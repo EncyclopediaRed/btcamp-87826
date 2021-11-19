@@ -107,17 +107,22 @@ sections:
 
           \*\*\*\*![](images/year1.png)
       - title: Year 2
-        description: >-
-          ## Lorem ipsum
+        description: >
+          Increase staff
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Enter Regional Market
 
 
-          - Lorem ipsum
+          In the second year, Büt Camp, Inc. hopes to move from a local market
+          into larger regional areas. 
 
-          - dolor sit amet
+
+          Investment
+
+
+          We plan to grow the emergency shelter business through investment into
+          a national offering within three (3) years. 
     type: bulletpoints_section
 seo:
   title: ''
