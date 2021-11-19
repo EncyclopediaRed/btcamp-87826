@@ -23,17 +23,33 @@ sections:
           Limited purchasing options: Currently Büt Camp is only available for
           purchase with a credit card on our website.
       - title: Büt Advantages
-        description: >-
-          ## Lorem ipsum
+        description: >
+          **Affordability: **Büt Camp is marketed to be extremely affordable for
+          single units and in bulk. Most shelters are for multiple individuals
+          and are over thirty (30) dollars for a single unit of average quality.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          **Eco-friendly: **Büt Camp is made of biodegradable cornstarch-based
+          polylactic acid (PLA), an eco-friendly replacement for mylar, nylon,
+          and other portable shelter materials. The use of PLA reduces the
+          carbon footprint of this product and promotes sustainability.
 
 
-          - Lorem ipsum
+          **Easy to Use: **Büt Camp is designed to be used by anyone with a
+          need. Set up includes unfolding and manually inflating the channels to
+          create the structure. No additional rods, tools, or accessories are
+          necessary for functionality, unlike a traditional tent.
 
-          - dolor sit amet
+
+          **Uniqueness: **Büt Camp is a new take on emergency shelters designed
+          to supplement planning, limit environmental impact, and still be
+          accessible and affordable.
+
+
+          **Lightweight: **Büt Camp weighs approximately 8oz and folds into a
+          small bundle that fits into the waist pack reducing impeding movement
+          and transport. Units are small and light, therefore easy to transport
+          and store efficiently.
     type: bulletpoints_section
 seo:
   title: ''
