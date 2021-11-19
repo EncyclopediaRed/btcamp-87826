@@ -93,7 +93,10 @@ sections:
           increase preparation measures.
 
 
-          ![](images/mordor-diaster.png)
+          ![](images/mordor-diaster.png)![](images/accordian-ae023624.png)
+
+
+          ![](images/grainger.png)
 
 
           ## Camping Equipment
