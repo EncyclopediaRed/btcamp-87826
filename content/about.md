@@ -8,12 +8,13 @@ sections:
     background_image: /images/leaf-light-grey.svg
     headline: We are Büt Camp
     subtitle: >
-      #### **Mission**
+      # **Mission**
 
       Büt Camp, Inc. strives to help provide shelter and privacy to those in any
       emergency using simple, easily dispensed, highly mobile, inflatable
       cornstarch-based tents stored in a waist bag (fanny pack) or a similar
-      small vessel. &#xA; <br /><br /> **Vision**
+      small vessel. &#xA; <br /><br /> 
+      # **Vision**<br /><br />
 
       We envision the Büt Camp biodegradable cornstarch-based polylactic acid
       (PLA)¹ shelters being available in every first responder, search and
@@ -60,7 +61,7 @@ sections:
           This is Alex! Alex is the PLA expert and designs many of our products
           and has a passion for preservation. She is also an expert in digital
           preservation and ensures our research and impact last far longer than
-          our biodegradable products!
+          our biodegradable products!<br /><br />
 
 
           Alex's background is in Library and Information Sciences with a
@@ -68,7 +69,7 @@ sections:
           Digital Preservation Coordinator at Virginia Tech, specializing in the
           digital preservation of research data, institutional repository
           material, and research into methods for preserving complex digital
-          objects.
+          objects.<br /><br />
 
 
           Preservation as a concept applies to all fields. For Büt Camp, Inc.,
@@ -78,13 +79,13 @@ sections:
       - title: Pat Bonipally
         description: >
           And this is Pat! Pat is the resident Scrum Master and leader of all
-          things planning. We would be a mess without him!
+          things planning. We would be a mess without him!<br /><br />
 
 
           Pat currently serves as the Associate Vice President at The Carlyle
           Group. After 11 years with the company, Pat is an experienced
           Technical Lead and Project Manager and an expert in Agile and
-          technology management. 
+          technology management.<br /><br />
 
 
           At BütCamp, Inc., Pat manages the entire backend of technology
@@ -93,7 +94,7 @@ sections:
         image: images/pat.jpg
       - title: Quan Nguyen
         description: |
-          And here's Quan! Quan enjoys cats, but not as much as his daughter.
+          And here's Quan! Quan enjoys cats, but not as much as his daughter.<br /><br />
 
           Quan is our computer engineer!
         image: images/Quan.jpg
