@@ -130,7 +130,7 @@ sections:
         ## **Suppliers & Partners**<br /><br />
         **ODM Group**\nhttps://www.odm-pro.com\n\n4A Hung Chu Bldg,\nJida Jiuzhou Avenue\n\nZhuhai 519015, China<br /><br />
         Chinese Manufacturer Liaison
-        ## Compost Bag China (CBC)\n\\*\\*https://compostbagchina.com\<br /><br />
+        ## Compost Bag China (CBC)<br /><br />
         Shandong Province, China<br /><br />
         CBC requires payment upfront for order volumes of our size, and delivery is made after inspection via shipping container.<br /><br />
         Due to COVID-19, customs has been slower to receive shipments, but we don’t foresee significant delays in time to receipt, except in the months of January/February during the Chinese Lunar New Year.
