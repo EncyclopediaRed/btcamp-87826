@@ -217,7 +217,7 @@ sections:
     type: bulletpoints_section
   - section_id: lorem-ipsum
     address: '357 Fannypack Dr. Blacksburg, VA 24061'
-    phone: lorem-ipsum
+    phone: +1-555-288-2267
     email: lorem-ipsum
     mapUrl: lorem-ipsum
     type: contact_section
