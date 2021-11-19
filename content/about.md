@@ -57,19 +57,23 @@ sections:
         image: images/ROB_TXB_opt.png
       - title: Alex Kinnaman
         description: >
-          This is Alex! Alex is the PLA expert and designs many of our products.
-          She is also an expert in digital preservation and ensures our research
-          and impact last far longer than our biodegradeable products!<br /><br
-          />
+          This is Alex! Alex is the PLA expert and designs many of our products
+          and has a passion for preservation. She is also an expert in digital
+          preservation and ensures our research and impact last far longer than
+          our biodegradable products!
+
+
 
           Alex's background is in Library and Information Sciences with a
           special focus on digital preservation.  She currently serves as the
           Digital Preservation Coordinator at Virginia Tech, specializing in the
           digital preservation of research data, institutional repository
           material, and research into methods for preserving complex digital
-          objects.<br /><br />
+          objects.
 
-          Preservation, as a concept, applies to all fields. For Büt Camp, Inc.,
+
+
+          Preservation as a concept applies to all fields. For Büt Camp, Inc.,
           she serves as the primary point of research and sustainability.
         image: images/alex.jpg
       - title: Pat Bonipally
