@@ -22,7 +22,7 @@ sections:
 
           Limited purchasing options: Currently Büt Camp is only available for
           purchase with a credit card on our website.
-      - title: lorem-ipsum
+      - title: Büt Advantages
         description: >-
           ## Lorem ipsum
 
