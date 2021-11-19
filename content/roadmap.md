@@ -113,21 +113,40 @@ sections:
           \*\*\*\*
       - title: 'Year 2: Increase Sustainability'
         description: >
-          Increase staff
+          **Increase staff**
 
 
-          Enter Regional Market
+          We plan to increase the staff to 10-15 individuals to increase our
+          customer service, advertising, and account management strategies.
+
+
+          **Enter Regional Market**
 
 
           In the second year, Büt Camp, Inc. hopes to move from a local market
-          into larger regional areas. 
+          into larger regional areas.
 
 
-          Investment
+          **Investment**
 
 
           We plan to grow the emergency shelter business through investment into
-          a national offering within three (3) years. 
+          a national offering.
+
+
+          The owners are looking to secure $250,000 for a 25% stake in the
+          business. Funding will help accelerate the marketing of the Büt Camp
+          shelter and allow us to place either larger orders from our current
+          manufacturer at a lower price point or give us the flexibility to
+          search for a cheaper, but comparable in quality, manufacturer.
+          Valuation is revenue calculated based on five (5) times sales.
+
+
+
+          2021 Projection
+
+
+          ![](images/year2.png)
     type: bulletpoints_section
 seo:
   title: ''
