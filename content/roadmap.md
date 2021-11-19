@@ -75,7 +75,7 @@ sections:
           product awareness.
 
 
-          **Sample Distribution**
+          **MVP Distribution**
 
 
           Büt Camp Inc. distributed 5,000 units immediately to first responders
@@ -99,13 +99,16 @@ sections:
           **Beta Product Launch**
 
 
-          ****
+          ***
 
 
           **2020 Sales**
 
 
-          \*\*\*\*![](images/year1.png)
+          ![](images/year1.png)
+
+
+          \*\*\*\*
       - title: Year 2
         description: >
           Increase staff
