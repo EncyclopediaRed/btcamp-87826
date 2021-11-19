@@ -137,7 +137,7 @@ sections:
           - growth, trends, Covid-19 impact, and forecasts (2021 - 2026).
           Retrieved from 
           https://www.mordorintelligence.com/industry-reports/emergency-and-disaster-response-market
-      - title: lorem-ipsum
+      - title: Operations
         description: >-
           ## Lorem ipsum
 
