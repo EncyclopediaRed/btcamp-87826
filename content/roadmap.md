@@ -10,7 +10,7 @@ sections:
     type: header_section
   - section_id: lorem-ipsum
     bulletpoints:
-      - title: lorem-ipsum
+      - title: Primary Challenges
         description: >-
           ## Lorem ipsum
 
