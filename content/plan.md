@@ -140,17 +140,36 @@ sections:
       - title: Operations
         description: "**Production**\n\nCompost Bag China (CBC) is our manufacturer and expert in PLA film.\n\nCBC creates several sheets of PLA film. The top of which is two sheets heat-stamped together in a pattern to create an air channel to allow for inflation of the tent.\n\nA screen and floor are also produced with the same material. The floor is heat-sealed to the top portion of the tent, and the screen is kept separate until the customer constructs it in the field. The screen adheres to the tent's opening via a mild tacky glue strip on one side of the opening and two ties on the other side. The ties are strips of PLA hardened to allow for tying and untying.\n\nThe cost per tent to manufacture is $8.50/unit.\n\n\n**Quality Control**\n\n\nQC is performed by our Chinese liaison ODM Group as part of our contract with them.\n\nODM works directly with the manufacturer to hold to ISO Standards1 and ASTM Standards2 for durability, functionality as a tent, and biodegradability of the PLA film and finished product.\n\nODM Group is our direct contact for\_\n\n*   Representative office in Zhuhai\n\n*   Product sourcing\n\n*   QC reporting\n\n**Inventory**\n\nNo raw materials are kept on hand. All material is sourced through ODM Group and sent directly to the manufacturer in China, Compost Bag China.\n\n$85,000 (10,000 units) are kept on hand in a rented storage facility.\n\nWe keep roughly two (2) months of inventory on hand.\n\nThough there is no seasonal activity at the moment, we anticipate future seasonal bumps in sales during:\n\n*   Hurricane season on the East Coast of the U.S\n\n*   June 1 - November 303\n\n*   Fire season in California\n\n*   June-April (2 Seasons overlapping)4\n\nThe lead time for ordering more inventory is 45 days.\n\n**Suppliers & Partners**\n\n\n\n\n**ODM Group**\nhttps://www.odm-pro.com\n\n4A Hung Chu Bldg,\nJida Jiuzhou Avenue\n\nZhuhai 519015, China\n\nChinese Manufacturer Liaison\n\n\n\n**Compost Bag China (CBC)\n**https://compostbagchina.com\nShandong Province, China\n\nCBC requires payment upfront for order volumes of our size. And delivery is made after inspection via shipping container. \n\nDue to COVID-19, customs has been slower to receive shipments, but we don’t foresee significant delays in time to receipt, except in the months of January/February during the Chinese Lunar New Year.\n"
       - title: Positioning & Niche
-        description: >-
-          ## Lorem ipsum
+        description: >
+          Büt Camp has a unique position in the market as a currently unrealized
+          product for temporary, portable, biodegradable, emergency shelters. We
+          provide an entirely different product from our primary competitors
+          because we want to supplement disaster and survival planning, not
+          replace products in the current market.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+          We also strive for sustainable methods in production and use a
+          material that is firmly becoming a viable option for replacing
+          traditional fabrics with a biodegradable material in temporary use
+          cases. Our target markets already exist, and the projection for those
+          markets previously discussed shows an evident growth and desire from
+          consumers for products.
 
 
-          - Lorem ipsum
+          **Supplementary: Not a Replacement**
 
-          - dolor sit amet
+
+
+          Büt Camp supplements disaster response and contingency planning and is
+          not a replacement for more robust shelter. The nature of PLAs and it’s
+          exposure to the environment for prolonged periods makes the Büt Camp
+          emergency tent a 1-2 day maximum emergency shelter.
+
+
+          Büt Camp allows diversification of individual contingency planning and
+          an option for fast and easily distributed emergency shelters on a
+          large scale.
     type: bulletpoints_section
 seo:
   title: ''
