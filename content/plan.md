@@ -10,26 +10,27 @@ sections:
   - section_id: lorem-ipsum
     bulletpoints:
       - title: The Problem
-        description: "Affordable, easily distributed emergency shelters are often in short supply during an emergency, such as a natural disaster or hiking incident. There has been an increase in the need for disaster-planning products, including personal temporary shelters, to ensure a timely response to an event.1\nDisasters also have a significant impact on the environment2 that furthers the damage of the actual event and the subsequent waste. Plastics and inorganic materials are the primary material used in emergency materials for their lightweight feature but further increase the long-term impact of disasters and personal incidents.\n“Increasing incidents of natural and anthropogenic hazards globally have led to a rise in the procurement of necessary equipment and response vehicles by the concerned government agencies.\_There are many incidents in recent times where inadequacy of equipment has caused delays in mitigating the damages. Learning from the past, many countries have increased the necessary disaster response equipment at disposal.”\n\n\\--\_ Mordor Intelligence on the Emergency Disaster and Response Market\n"
+        description: "Affordable, easily distributed emergency shelters are often in short supply during an emergency, such as a natural disaster or hiking incident. There has been an increase in the need for disaster-planning products, including personal temporary shelters, to ensure a timely response to an event.1\nDisasters also have a significant impact on the environment2 that furthers the damage of the actual event and the subsequent waste. Plastics and inorganic materials are the primary material used in emergency materials for their lightweight feature but further increase the long-term impact of disasters and personal incidents.
+        > “Increasing incidents of natural and anthropogenic hazards globally have led to a rise in the procurement of necessary equipment and response vehicles by the concerned government agencies.\_There are many incidents in recent times where inadequacy of equipment has caused delays in mitigating the damages. Learning from the past, many countries have increased the necessary disaster response equipment at disposal.”<br />\--\_ Mordor Intelligence on the Emergency Disaster and Response Market\n"
       - title: 'The Solution: BütCamp'
         description: >
           Made from biodegradable cornstarch-based polylactic acid (PLA), Büt
           Camp offers a simple-to-use single-person temporary shelter to provide
           small comfort during stressful situations. Products are designed to be
           highly visible and come in red, orange, and bright green and to
-          decrease waste caused by emergency and disaster situations.
+          decrease waste caused by emergency and disaster situations.<br /><br />
 
 
           Manually inflatable channels take little time to inflate and provide a
           structural canopy to create a small personal tent with an additional
           add-on screen attached with biodegradable adhesive tape and PLA fiber
-          string ties.
+          string ties.<br /><br />
 
 
           Büt Camp is unique because it is an inexpensive and biodegradable
           option for temporary shelter and is perfect for emergency planning and
           response. With multiple patents pending, Büt Camp is designed and
-          produced sustainably and responsibly.
+          produced sustainably and responsibly.<br /><br />
 
 
           Research into the cost of PLA indicated an affordable $0.15/gram, and
@@ -40,8 +41,7 @@ sections:
           **Total Tent COGS: $8.50/unit**
       - title: Marketing Plan
         description: >
-          # Target Customer
-
+          # Target Customer<br /><br />
 
           Büt Camp itself is designed to be easily usable by anyone in need of a
           temporary shelter. The target audience varies from adult individuals
@@ -51,9 +51,26 @@ sections:
 
 
           ![](images/targetcustomer.png)
+          <br /><br />
 
+          # Competitors<br /><br />
+          
+          ## Emergency and Disaster Response
+          
+          Companies selling disaster recovery and emergency preparedness products are primary competitors for Büt Camp. These companies specialize in products built for emergency response, including the niche of shelter and temporary shelter.<br /><br />
+          Large organizations like EMT Safety1 and Ali Med2 provide a range of response kits and materials from emergency shelters, first aid, and rescue equipment. Companies like Inhabitat3 (Image 1) and Grainger4 (Image 2) provide emergency shelters. Examples are shown in Image 1 and Image 2, designed explicitly for disasters and emergencies.<br /><br />
+          Covid-19 has revealed that there are significant gaps in emergency response planning.5 As shown in Figure 1, the Emergency and Disaster Response market shows a slight increase over the next four (4) years as disaster planning groups at local, regional, national, and global levels continue to improve and increase preparation measures.<br /><br />
 
-          # Competitors
+          ## Camping Equipment <br /><br />
+          
+           Companies selling camping equipment are another primary competitor for Büt Camp Inc. Büt Camp is categorized as a tent and therefore as camping equipment. Although we are not competing with companies selling traditional camping equipment, we compete with specific products and uses.<br /><br />
+
+For example, REI SOL Thermal Bivy¹ (Image 3) provides a method to limit exposure to the elements and is reasonably portable. Additionally, products like the Sneaker Shelter prototype² (Image 4) is a floorless, single-person, portable shelter that zips together and worn on shoes that come with the product.<br /><br />
+
+A threat to our initial success will be low brand recognition compared to popular camping equipment vendors.<br /><br />
+
+As shown in Figure 2, there is a strong projection of growth in this area over the next five (5) years. With Covid-19 restricting indoor activities, people have been exploring outdoor options, and interest in continuing outdoor activities is expected to grow.³
+
     type: bulletpoints_section
 seo:
   title: ''
