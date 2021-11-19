@@ -96,9 +96,6 @@ sections:
           final product for purchase.
 
 
-          **Beta Product Launch**
-
-
           ***
 
 
