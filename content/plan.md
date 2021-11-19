@@ -171,17 +171,11 @@ sections:
           an option for fast and easily distributed emergency shelters on a
           large scale.
       - title: Financials
-        description: >-
-          ## Lorem ipsum
+        description: |+
+          Expenses and Operating Capital
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
     type: bulletpoints_section
 seo:
   title: ''
