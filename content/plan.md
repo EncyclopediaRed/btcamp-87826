@@ -216,7 +216,7 @@ sections:
         description: "1.  EMT Safety: https://www.emssafetyservices.com/learn-about-our-products/disaster-supplies/\n\n2.  Ali Med: https://www.alimed.com/emergency-preparedness/\n\n3.  Inhabitat Accordion reCover Shelter: https://inhabitat.com/matthew-malone-recovery-shelter/13957/\n\n4.  Grainger Inflatable Emergency Shelter: https://www.grainger.com/product/FSI-Inflatable-Emergency-Shelter-38F303\n\n5.  Mordor Intelligence. (n.d.) Emergency and disaster response market - growth, trends, Covid-19 impact, and forecasts (2021 - 2026). Retrieved from  https://www.mordorintelligence.com/industry-reports/emergency-and-disaster-response-market\n\n6.  REI SOL Thermal Bivy: <https://www.rei.com/product/813513/sol-thermal-bivy>\_\n\n7.  Sibling Sneaker Shelter: <https://www.treehugger.com/shoes-hide-portable-shelter-sibling-4855159>\_\n\n8.  Mordor Intelligence. (n.d.) Camping equipment - market - growth, trends, Covid-19 impact, and forecasts (2021 - 2026). Retrieved from\_ <https://www.mordorintelligence.com/industry-reports/camping-equipment-market>\_\n"
     type: bulletpoints_section
   - section_id: lorem-ipsum
-    address: lorem-ipsum
+    address: '357 Fannypack Dr. Blacksburg, VA 24061'
     phone: lorem-ipsum
     email: lorem-ipsum
     mapUrl: lorem-ipsum
