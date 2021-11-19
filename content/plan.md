@@ -16,7 +16,7 @@ sections:
           
          
 
-type: bulletpoints_section
+    type: bulletpoints_section
 seo:
   title: ''
   description: ''
