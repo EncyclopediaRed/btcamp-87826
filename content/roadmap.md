@@ -50,6 +50,18 @@ sections:
           small bundle that fits into the waist pack reducing impeding movement
           and transport. Units are small and light, therefore easy to transport
           and store efficiently.
+      - title: lorem-ipsum
+        description: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
     type: bulletpoints_section
 seo:
   title: ''
