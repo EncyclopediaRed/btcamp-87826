@@ -94,17 +94,22 @@ sections:
            Companies selling camping equipment are another primary competitor for Büt Camp Inc. Büt Camp is categorized as a tent and therefore as camping equipment. Although we are not competing with companies selling traditional camping equipment, we compete with specific products and uses.<br /><br />
            For example, REI SOL Thermal Bivy Image 3 provides a method to limit exposure to the elements and is reasonably portable. Additionally, products like the Sneaker Shelter prototype Image 4 is a floorless, single-person, portable shelter that zips together and worn on shoes that come with the product.<br /><br />
       - title: References
-        description: >-
-          ## Lorem ipsum
+        description: >
+          1\. EMT Safety:
+          https://www.emssafetyservices.com/learn-about-our-products/disaster-supplies/
 
+          2\. Ali Med: https://www.alimed.com/emergency-preparedness/
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          3\. Inhabitat Accordion reCover Shelter:
+          https://inhabitat.com/matthew-malone-recovery-shelter/13957/
 
+          4\. Grainger Inflatable Emergency Shelter:
+          https://www.grainger.com/product/FSI-Inflatable-Emergency-Shelter-38F303
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          5\. Mordor Intelligence. (n.d.) Emergency and disaster response market
+          - growth, trends, Covid-19 impact, and forecasts (2021 - 2026).
+          Retrieved from 
+          https://www.mordorintelligence.com/industry-reports/emergency-and-disaster-response-market
     type: bulletpoints_section
 seo:
   title: ''
