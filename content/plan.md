@@ -171,11 +171,56 @@ sections:
           an option for fast and easily distributed emergency shelters on a
           large scale.
       - title: Financials
-        description: |+
+        description: >
           Expenses and Operating Capital
 
 
+          ![](images/expenses-67f98254.png)
 
+
+          Financial Plan
+
+
+          ![](images/financialplan.png)
+
+
+          Notes
+
+
+          1\. Based on general quote for General Liability Insurance from
+          Hartford Insurance. Referenced here
+          <https://www.thehartford.com/general-liability-insurance/business-insurance-startups/general-liability>
+
+
+
+          2\. Office space rental from Gather Workspaces in Richmond. Referenced
+          here
+          <https://workatgather.com/location/scotts-addition/?utm_source=gmb>
+
+
+          3\. Richmond Mini Storage price for a 10’x30’ storage unit. Referenced
+          from
+          <https://minipricestorage.com/map-location/4300-w-broad-street-richmond-virginia/>
+
+
+          4\. Based on previous experience obtaining Articles of Incorporation
+          and for bookkeeping and corporate taxes completed.
+
+
+          5\. Virginia State Corporation Commision Fee. Referenced from
+          <https://www.scc.virginia.gov/> and the B Corporation Annual
+          Certification fee. Referenced from
+          <https://bcorporation.net/certification>
+
+
+          6\. Website hosting through Github and Netlify. Pro accounts for 2
+          members added up to yearly costs. Referenced from
+          <https://github.com/pricing> and <https://www.netlify.com/pricing/>
+
+
+          7\. City of Richmond Finance Department. Referenced from
+          <https://www.rva.gov/finance/business> and based on 2020 gross
+          receipts.
     type: bulletpoints_section
 seo:
   title: ''
