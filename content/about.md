@@ -73,9 +73,20 @@ sections:
           she serves as the primary point of research and sustainability.
         image: images/alex.jpg
       - title: Pat Bonipally
-        description: >-
+        description: >
           And this is Pat! Pat is the resident Scrum Master and leader of all
           things planning. We would be a mess without him!
+
+
+          Pat currently serves as the Associate Vice President at The Carlyle
+          Group. After 11 years with the company, Pat is an experienced
+          Technical Lead and Project Manager and an expert in Agile and
+          technology management. 
+
+
+          At BütCamp, Inc., Pat manages the entire backend of technology
+          planning, project development and implementation, business processes,
+          and system architecture. 
         image: images/pat.jpg
       - title: Quan Nguyen
         description: |
