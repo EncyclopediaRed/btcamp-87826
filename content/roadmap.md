@@ -147,7 +147,7 @@ sections:
 
 
           ![](images/year2.png)
-      - title: lorem-ipsum
+      - title: 'Year 3: Product Expansion'
         description: >-
           ## Lorem ipsum
 
