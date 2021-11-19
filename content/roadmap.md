@@ -88,18 +88,24 @@ sections:
           **Early Feedback Response**
 
 
-          Büt Camp, Inc. is currently evaluating feedback directly from this
+          Büt Camp, Inc. attained and evaluated feedback directly from this
           customer base through informal interviews and quantified
           questionnaires. By connecting with specific components of our
-          projected customer base, we can attain feedback on the product and
+          projected customer base, we responded to feedback on the product and
           make any appropriate design or packaging changes before releasing the
           final product for purchase.
+
+
+          **Beta Product Launch**
+
+
+          ****
 
 
           **2020 Sales**
 
 
-          ****![](images/year1.png)
+          \*\*\*\*![](images/year1.png)
       - title: Year 2
         description: >-
           ## Lorem ipsum
