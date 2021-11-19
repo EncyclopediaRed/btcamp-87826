@@ -155,8 +155,21 @@ sections:
           Valuation is revenue calculated based on five (5) times sales.
 
 
+          **Increase Distribution Points**
 
-          2021 Projection
+
+          We plan to enter additional points of distribution outside of our
+          website, including through Amazon, camping gear sites, disaster
+          preparedness sites; as well as brick-and-mortar chains like Walmart,
+          Target, Dick's Sporting Goods, and other similar companies.
+
+
+          **2021 Projection**
+
+
+          We anticipate an uptick in individual and 5-unit tent sales in 2022
+          with a decrease in larger units like 50-unit and 100-unit orders as
+          these orders may last a customer longer.
 
 
           ![](images/year2.png)
