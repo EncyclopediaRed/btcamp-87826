@@ -111,7 +111,7 @@ sections:
 
 
           \*\*\*\*
-      - title: Year 2
+      - title: 'Year 2: Increase Sustainability'
         description: >
           Increase staff
 
