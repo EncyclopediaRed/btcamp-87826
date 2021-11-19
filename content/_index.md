@@ -56,7 +56,7 @@ sections:
           services can keep larger quantities on hand for quick and easy
           emergency shelters in a quickly-changing disaster.
         image: images/icon_lightweight_small.png
-      - title: Learn More about BütCamp Inc.'s Roadmap for Growth
+      - title: Learn More about Büt Camp Inc.'s Roadmap for Growth
         image: images/icon_butcamp_tent.png
         description: >
           BütCamp is just beginning to make an impact on emergency planning and
