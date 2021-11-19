@@ -56,7 +56,7 @@ sections:
           and store efficiently.
       - title: Primary Objectives
         description: >
-          **Brand Recognition: **Out of the prototype stage, with several
+          **Brand Recognition**: Out of the prototype stage, with several
           patents pending, our end goal is to make the Büt Camp tent synonymous
           with a small comfort during a stressful time.
 
@@ -77,7 +77,9 @@ sections:
           acid (PLA) products to increase our eco-friendly product line.
 
 
-          **Sustainability:** Have a 
+          **Sustainability:** Have stable investors and investments to support
+          increased product demand, support staff, and additional research and
+          distribution of new products.
       - title: 'Year 1: MVP & Local Market'
         description: >
           **Local Market**
