@@ -96,20 +96,23 @@ sections:
           ![](images/mordor-diaster.png)
 
 
-          ## Camping Equipment 
+          ## Camping Equipment
 
 
           Companies selling camping equipment are another primary competitor for
           Büt Camp Inc. Büt Camp is categorized as a tent and therefore as
           camping equipment. Although we are not competing with companies
           selling traditional camping equipment, we compete with specific
-          products and uses.<br /><br />
+          products and uses.
 
           For example, REI SOL Thermal Bivy Image 3 provides a method to limit
           exposure to the elements and is reasonably portable. Additionally,
           products like the Sneaker Shelter prototype Image 4 is a floorless,
           single-person, portable shelter that zips together and worn on shoes
-          that come with the product.<br /><br />
+          that come with the product.
+
+
+          ![](images/mordor-camping.png)
       - title: References
         description: >
           1.  EMT Safety:
