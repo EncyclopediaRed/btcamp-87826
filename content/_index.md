@@ -59,7 +59,7 @@ sections:
       - title: Learn More about Büt Camp Inc.'s Roadmap for Growth
         image: images/icon_butcamp_tent.png
         description: >
-          BütCamp is just beginning to make an impact on emergency planning and
+          Büt Camp is just beginning to make an impact on emergency planning and
           biodegradeable product.
 
 
