@@ -58,12 +58,15 @@ sections:
           regional areas within the following year.
 
 
-
           We plan to grow the emergency shelter business through investment into
           a national offering. Then we plan to expand our product line into 3D
           printed camping and survival products such as utensils, multi-tools,
           and first aid kit supplies, with an eventual goal of offering 3D
           schematics via direct-to-consumer sales.
+
+
+          Research and development in additional uses for polylactic acid (PLA)
+          products to increase our eco-friendly product line.
       - title: 'Year 1: MVP & Local Market'
         description: >
           **Local Market**
