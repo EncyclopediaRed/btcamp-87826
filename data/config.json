@@ -44,6 +44,12 @@
             "url": "plan",
             "style": "primary",
             "arrow": false
+        },
+        {
+            "title": "lorem-ipsum",
+            "url": "#",
+            "style": "primary",
+            "arrow": false
         }
     ],
     "domain": "https://btcamp-87826.netlify.app"
