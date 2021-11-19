@@ -151,17 +151,17 @@ sections:
 
           ![](images/year2.png)
       - title: 'Year 3: Product Expansion'
-        description: >-
-          ## Lorem ipsum
+        description: >
+          Brand Recognition No Longer a Challenge
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Product Expansion
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          we hope to expand our product line into 3D printed camping and
+          survival products such as utensils, multi-tools, and first aid kit
+          supplies, with an additional goal of offering 3D schematics of these
+          products via direct-to-consumer sales.
     type: bulletpoints_section
 seo:
   title: ''
