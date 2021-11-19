@@ -16,14 +16,15 @@ sections:
           incident. There has been an increase in the need for disaster-planning
           products, including personal temporary shelters, to ensure a timely
           response to an event (1). Disasters also have a significant impact on the
-          environment2 that furthers the damage of the actual event and the
+          environment(2) that furthers the damage of the actual event and the
           subsequent waste. Plastics and inorganic materials are the primary
           material used in emergency materials for their lightweight feature but
           further increase the long-term impact of disasters and personal
-          incidents.<br /><br /> “Increasing incidents of natural and
+          incidents.<br /><br /> 
+          “Increasing incidents of natural and
           anthropogenic hazards globally have led to a rise in the procurement
           of necessary equipment and response vehicles by the concerned
-          government agencies.\_There are many incidents in recent times where
+          government agencies. There are many incidents in recent times where
           inadequacy of equipment has caused delays in mitigating the damages.
           Learning from the past, many countries have increased the necessary
           disaster response equipment at disposal.”<br /> --Mordor Intelligence
@@ -52,7 +53,7 @@ sections:
 
           Research into the cost of PLA indicated an affordable $0.15/gram, and
           at five (5) yards per tent, production costs are low enough to produce
-          in bulk.3
+          in bulk (3).<br /><br />
 
 
           **Total Tent COGS: $8.50/unit**
@@ -82,7 +83,7 @@ sections:
           products are primary competitors for Büt Camp. These companies
           specialize in products built for emergency response, including the
           niche of shelter and temporary shelter. Large organizations like EMT
-          Safety1 and Ali Med (2) provide a range of response kits and materials
+          Safety (1) and Ali Med (2) provide a range of response kits and materials
           from emergency shelters, first aid, and rescue equipment. Companies
           like Inhabitat3 (Image 1) and Grainger (4) (Image 2) provide emergency
           shelters. Examples are shown in Image 1 and Image 2, designed
@@ -109,9 +110,9 @@ sections:
           selling traditional camping equipment, we compete with specific
           products and uses.<br /><br />
 
-          For example, REI SOL Thermal Bivy Image 3 provides a method to limit
+          For example, REI SOL Thermal Bivy (Image 3) provides a method to limit
           exposure to the elements and is reasonably portable. Additionally,
-          products like the Sneaker Shelter prototype Image 4 is a floorless,
+          products like the Sneaker Shelter prototype (Image 4) is a floorless,
           single-person, portable shelter that zips together and worn on shoes
           that come with the product.<br /><br />
 
@@ -152,19 +153,19 @@ sections:
           large scale.
       - title: Financials
         description: >
-          # Material Costs
+          # Material Costs<br /><br />
 
 
           ![](images/materialcost.png)
 
 
-          Pricing
+          # Pricing<br /><br />
 
 
           ![](images/pricing.png)
 
 
-          Expenses and Operating Capital
+          # Expenses and Operating Capital<br /><br />
 
 
           ![](images/expenses-67f98254.png)
