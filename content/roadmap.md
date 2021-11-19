@@ -64,7 +64,7 @@ sections:
           printed camping and survival products such as utensils, multi-tools,
           and first aid kit supplies, with an eventual goal of offering 3D
           schematics via direct-to-consumer sales.
-      - title: Year 1
+      - title: 'Year 1: MVP & Local Market'
         description: >
           **Local Market**
 
