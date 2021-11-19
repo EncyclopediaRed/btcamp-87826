@@ -180,9 +180,6 @@ sections:
           ![](images/year2.png)
       - title: 'Year 3: Product Expansion'
         description: >
-          **Brand Recognition No Longer a Challenge**
-
-
           **Stable Investors**
 
 
