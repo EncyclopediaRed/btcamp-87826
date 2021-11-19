@@ -105,6 +105,11 @@ sections:
           **2020 Sales**
 
 
+          2020 sales rely largely on individual and small-batch sales of the
+          product. This indicates that our entrance to the local market is
+          developing.
+
+
           ![](images/year1.png)
 
 
