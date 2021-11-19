@@ -95,6 +95,8 @@ sections:
       - title: Quan Nguyen
         description: |
           And here's Quan! Quan enjoys cats, but not as much as his daughter.
+
+          Quan is our computer engineer!
         image: images/Quan.jpg
       - title: Structure & Advisors
         description: >
