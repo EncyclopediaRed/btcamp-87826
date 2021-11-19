@@ -158,6 +158,12 @@ sections:
           ![](images/materialcost.png)
 
 
+          Pricing
+
+
+          ![](images/pricing.png)
+
+
           Expenses and Operating Capital
 
 
