@@ -218,7 +218,7 @@ sections:
   - section_id: lorem-ipsum
     address: '357 Fannypack Dr. Blacksburg, VA 24061'
     phone: +1-555-288-2267
-    email: lorem-ipsum
+    email: info@bütcamp.com
     mapUrl: lorem-ipsum
     type: contact_section
 seo:
