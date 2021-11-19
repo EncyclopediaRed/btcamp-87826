@@ -12,16 +12,20 @@ sections:
     bulletpoints:
       - title: Primary Challenges
         description: >
-          Limited staff: Büt Camp, Inc. is beginning with a small staff to get
-          the business up and running
+          **Limited Staff**: Büt Camp, Inc. is beginning with a small staff to
+          get the business up and running
 
 
-          Brand recognition: As a new product, Büt Camp will need to build brand
-          recognition among an initial customer base and expand out
+          **Brand Recognition:** As a new product, Büt Camp will need to build
+          brand recognition among an initial customer base and expand out
 
 
-          Limited purchasing options: Currently Büt Camp is only available for
-          purchase with a credit card on our website.
+          **Limited Purchasing Options**: Currently Büt Camp is only available
+          for purchase with a credit card on our website.
+
+
+          **Single Primary Product:** BütCamp is offering a single product in
+          various package sizes.
       - title: Büt Advantages
         description: >
           **Affordability**: Büt Camp is marketed to be extremely affordable for
