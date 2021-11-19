@@ -95,18 +95,22 @@ sections:
            For example, REI SOL Thermal Bivy Image 3 provides a method to limit exposure to the elements and is reasonably portable. Additionally, products like the Sneaker Shelter prototype Image 4 is a floorless, single-person, portable shelter that zips together and worn on shoes that come with the product.<br /><br />
       - title: References
         description: >
-          1\. EMT Safety:
+          1.  EMT Safety:
           https://www.emssafetyservices.com/learn-about-our-products/disaster-supplies/
 
-          2\. Ali Med: https://www.alimed.com/emergency-preparedness/
 
-          3\. Inhabitat Accordion reCover Shelter:
+          2.  Ali Med: https://www.alimed.com/emergency-preparedness/
+
+
+          3.  Inhabitat Accordion reCover Shelter:
           https://inhabitat.com/matthew-malone-recovery-shelter/13957/
 
-          4\. Grainger Inflatable Emergency Shelter:
+
+          4.  Grainger Inflatable Emergency Shelter:
           https://www.grainger.com/product/FSI-Inflatable-Emergency-Shelter-38F303
 
-          5\. Mordor Intelligence. (n.d.) Emergency and disaster response market
+
+          5.  Mordor Intelligence. (n.d.) Emergency and disaster response market
           - growth, trends, Covid-19 impact, and forecasts (2021 - 2026).
           Retrieved from 
           https://www.mordorintelligence.com/industry-reports/emergency-and-disaster-response-market
