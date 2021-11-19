@@ -17,7 +17,8 @@ sections:
 
 
           **Brand Recognition:** As a new product, Büt Camp will need to build
-          brand recognition among an initial customer base and expand out.<br /><br />
+          brand recognition among an initial customer base and expand out.<br
+          /><br />
 
 
           **Limited Purchasing Options**: Currently Büt Camp is only available
@@ -30,13 +31,15 @@ sections:
         description: >
           **Affordability**: Büt Camp is marketed to be extremely affordable for
           single units and in bulk. Most shelters are for multiple individuals
-          and are over thirty (30) dollars for a single unit of average quality.<br /><br />
+          and are over thirty (30) dollars for a single unit of average
+          quality.<br /><br />
 
 
           **Eco-friendly:** Büt Camp is made of biodegradable cornstarch-based
           polylactic acid (PLA), an eco-friendly replacement for mylar, nylon,
           and other portable shelter materials. The use of PLA reduces the
-          carbon footprint of this product and promotes sustainability.<br /><br />
+          carbon footprint of this product and promotes sustainability.<br /><br
+          />
 
 
           **Easy to Use**: Büt Camp is designed to be used by anyone with a
@@ -74,14 +77,15 @@ sections:
 
 
           **R\&D:** Research and development in additional uses for polylactic
-          acid (PLA) products to increase our eco-friendly product line.<br /><br />
+          acid (PLA) products to increase our eco-friendly product line.<br
+          /><br />
 
 
           **Sustainability:** Have stable investors and investments to support
           increased product demand, support staff, and additional research and
           distribution of new products.
       - title: 'Year 1: MVP & Local Market'
-        description: >
+        description: >+
           **Local Market**
 
 
@@ -122,15 +126,14 @@ sections:
 
           ![](images/year1.png)
 
-
-          \*\*\*\*
       - title: 'Year 2: Increase Sustainability'
         description: >
           **Increase staff**
 
 
           We plan to increase the staff to 10-15 individuals to increase our
-          customer service, advertising, and account management strategies.<br /><br />
+          customer service, advertising, and account management strategies.<br
+          /><br />
 
 
           **Enter Regional Market**
@@ -152,7 +155,8 @@ sections:
           shelter and allow us to place either larger orders from our current
           manufacturer at a lower price point or give us the flexibility to
           search for a cheaper, but comparable in quality, manufacturer.
-          Valuation is revenue calculated based on five (5) times sales.<br /><br />
+          Valuation is revenue calculated based on five (5) times sales.<br
+          /><br />
 
 
           **Increase Distribution Points**
@@ -161,7 +165,8 @@ sections:
           We plan to enter additional points of distribution outside of our
           website, including through Amazon, camping gear sites, disaster
           preparedness sites; as well as brick-and-mortar chains like Walmart,
-          Target, Dick's Sporting Goods, and other similar companies.<br /><br />
+          Target, Dick's Sporting Goods, and other similar companies.<br /><br
+          />
 
 
           **2021 Projection**
@@ -197,7 +202,8 @@ sections:
 
 
           In addition to expanding products, we hope to offer 3D schematics of
-          these products via direct-to-consumer sales for additional re-use.<br /><br />
+          these products via direct-to-consumer sales for additional re-use.<br
+          /><br />
 
 
           **2022 Projection**
