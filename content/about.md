@@ -63,7 +63,6 @@ sections:
           our biodegradable products!
 
 
-
           Alex's background is in Library and Information Sciences with a
           special focus on digital preservation.  She currently serves as the
           Digital Preservation Coordinator at Virginia Tech, specializing in the
@@ -72,9 +71,9 @@ sections:
           objects.
 
 
-
           Preservation as a concept applies to all fields. For Büt Camp, Inc.,
-          she serves as the primary point of research and sustainability.
+          she serves as the primary point of research, sustainability, and data
+          management by liaising with our data trust.
         image: images/alex.jpg
       - title: Pat Bonipally
         description: >
