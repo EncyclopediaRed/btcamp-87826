@@ -214,7 +214,7 @@ sections:
           and international organizations.<br /><br />
 
 
-          ****![](images/year3.png)
+          ![](images/year3.png)
     type: bulletpoints_section
 seo:
   title: ''
