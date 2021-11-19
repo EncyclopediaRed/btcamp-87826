@@ -175,25 +175,40 @@ sections:
           ![](images/year2.png)
       - title: 'Year 3: Product Expansion'
         description: >
-          Brand Recognition No Longer a Challenge
+          **Brand Recognition No Longer a Challenge**
 
 
-          Stable Investors
+          **Stable Investors**
 
 
-          Product Expansion
+          We hope to attain investors to support at least 25% of the operating
+          costs for Büt Camp, Inc.
 
 
-          we hope to expand our product line into 3D printed camping and
+          **Product Expansion**
+
+
+          We hope to expand our product line into 3D printed camping and
           survival products such as utensils, multi-tools, and first aid kit
-          supplies, with an additional goal of offering 3D schematics of these
-          products via direct-to-consumer sales.
+          supplies
 
 
-          Open Access 3D Patterns
+          **3D Patterns**
 
 
-          2022 Projection
+          In addition to expanding products, we hope to offer 3D schematics of
+          these products via direct-to-consumer sales for additional re-use.
+
+
+          **2022 Projection**
+
+
+          We anticipate an increase in all product lines at year 3 with the
+          exception of 1000+ bulk offerings as we further engage with national
+          and international organizations.
+
+
+          ****![](images/year3.png)
     type: bulletpoints_section
 seo:
   title: ''
