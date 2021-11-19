@@ -9,7 +9,7 @@ sections:
     background_image: images/leaf-light-grey.svg
   - section_id: lorem-ipsum
     bulletpoints:
-      - title: The Problem
+      - title: 'The Problem: Disaster Preparedness Needs'
         description: >-
           Affordable, easily distributed emergency shelters are often in short
           supply during an emergency, such as a natural disaster or hiking
