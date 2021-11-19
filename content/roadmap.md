@@ -11,17 +11,17 @@ sections:
   - section_id: lorem-ipsum
     bulletpoints:
       - title: Primary Challenges
-        description: >-
-          ## Lorem ipsum
+        description: >
+          Limited staff: Büt Camp, Inc. is beginning with a small staff to get
+          the business up and running
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Brand recognition: As a new product, Büt Camp will need to build brand
+          recognition among an initial customer base and expand out
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          Limited purchasing options: Currently Büt Camp is only available for
+          purchase with a credit card on our website.
     type: bulletpoints_section
 seo:
   title: ''
