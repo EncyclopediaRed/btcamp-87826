@@ -64,6 +64,18 @@ sections:
           printed camping and survival products such as utensils, multi-tools,
           and first aid kit supplies, with an eventual goal of offering 3D
           schematics via direct-to-consumer sales.
+      - title: lorem-ipsum
+        description: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
     type: bulletpoints_section
 seo:
   title: ''
