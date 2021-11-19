@@ -219,7 +219,7 @@ sections:
     address: '357 Fannypack Dr. Blacksburg, VA 24061'
     phone: +1-555-288-2267
     email: info@bütcamp.com
-    mapUrl: lorem-ipsum
+    mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
     type: contact_section
 seo:
   title: ''
