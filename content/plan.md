@@ -20,16 +20,14 @@ sections:
           subsequent waste. Plastics and inorganic materials are the primary
           material used in emergency materials for their lightweight feature but
           further increase the long-term impact of disasters and personal
-          incidents.<br /><br />
-          “Increasing incidents of natural and anthropogenic hazards
-          globally have led to a rise in the procurement of necessary equipment
-          and response vehicles by the concerned government agencies.\_There are
-          many incidents in recent times where inadequacy of equipment has
-          caused delays in mitigating the damages. Learning from the past, many
-          countries have increased the necessary disaster response equipment at
-          disposal.”<br />
-          --Mordor Intelligence on the Emergency Disaster
-          and Response Market"
+          incidents.<br /><br /> “Increasing incidents of natural and
+          anthropogenic hazards globally have led to a rise in the procurement
+          of necessary equipment and response vehicles by the concerned
+          government agencies.\_There are many incidents in recent times where
+          inadequacy of equipment has caused delays in mitigating the damages.
+          Learning from the past, many countries have increased the necessary
+          disaster response equipment at disposal.”<br /> --Mordor Intelligence
+          on the Emergency Disaster and Response Market"
       - title: 'The Solution: BütCamp'
         description: >
           Made from biodegradable cornstarch-based polylactic acid (PLA), Büt
@@ -67,7 +65,8 @@ sections:
           temporary shelter. The target audience varies from adult individuals
           wishing to have a contingency shelter plan, individuals whose
           occupations require additional emergency response equipment, and
-          larger groups that plan for and implement disaster recovery responses.<br /><br />
+          larger groups that plan for and implement disaster recovery
+          responses.<br /><br />
 
 
           ![](images/targetcustomer.png) <br /><br />
@@ -119,23 +118,7 @@ sections:
 
           ![](images/mordor-camping.png)![](images/bivy-4bb78fd8.png)![](images/sheltersneakers-eabfaa96.png)
       - title: Operations
-        description: "**Production**<br /><br />Compost Bag China (CBC) is our manufacturer and expert in PLA film.\n\nCBC creates several sheets of PLA film. The top of which is two sheets heat-stamped together in a pattern to create an air channel to allow for inflation of the tent.
-        <br /><br />Ascreen and floor are also produced with the same material. The floor is heat-sealed to the top portion of the tent, and the screen is kept separate until the customer constructs it in the field. The screen adheres to the tent's opening via a mild tacky glue strip on one side of the opening and two ties on the other side. The ties are strips of PLA hardened to allow for tying and untying.<br /><br />
-        The cost per tent to manufacture is $8.50/unit.<br /><br />
-        ## **Quality Control**<br /><br />
-        <br /><br />QC is performed by our Chinese liaison ODM Group as part of our contract with them.\n\nODM works directly with the manufacturer to hold to ISO Standards1 and ASTM Standards2 for durability, functionality as a tent, and biodegradability of the PLA film and finished product.\n\nODM Group is our direct contact for:\_\n\n*   Representative office in Zhuhai\n\n*   Product sourcing\n\n*   QC reporting
-        ## **Inventory**<br /><br />
-        No raw materials are kept on hand. All material is sourced through ODM Group and sent directly to the manufacturer in China, Compost Bag China.\n\n$85,000 (10,000 units) are kept on hand in a rented storage facility.\n\nWe keep roughly two (2) months of inventory on hand.\n\nThough there is no seasonal activity at the moment, we anticipate future seasonal bumps in sales during:\n\n*   Hurricane season on the East Coast of the U.S\n\n*   June 1 - November 303\n\n*   Fire season in California\n\n*   June-April (2 Seasons overlapping)4<br /><br />
-        The lead time for ordering more inventory is 45 days.
-        ## **Suppliers & Partners**<br /><br />
-        **ODM Group**\nhttps://www.odm-pro.com\n\n4A Hung Chu Bldg,\nJida Jiuzhou Avenue\n\nZhuhai 519015, China<br /><br />
-        Chinese Manufacturer Liaison
-        ## Compost Bag China (CBC)<br /><br />
-        Shandong Province, China<br /><br />
-        CBC requires payment upfront for order volumes of our size, and delivery is made after inspection via shipping container.<br /><br />
-        Due to COVID-19, customs has been slower to receive shipments, but we don’t foresee significant delays in time to receipt, except in the months of January/February during the Chinese Lunar New Year.
-        ### Notes:<br /><br /> 
-        International Organizations of Standards. (2020). 5912:2020 Camping tents — Requirements and test methods (ISO Standard No. 72895). Retrieved from https://www.iso.org/standard/72895.html\n\n2.  ASTM Standard D6400 - 19, “Standard Specification for Labeling of Plastics Designed to be Aerobically Composted in Municipal or Industrial Facilities. “ ASTM International, West. Conshohocken, PA,.2019, DOI: 10.1520/D6400-19. Retrieved from https://www.astm.org/Standards/D6400.htm\n\n3.  National Oceanic and Atmospheric Administration. (n.d.) “Tropical Cyclone Climatology.” National Hurricane Center and Central Pacific Hurricane Center. Retrieved from https://www.nhc.noaa.gov/climo/\n\n4.  Yufang, J. et. al.(2015). “Identification of two distinct fire regimes in Southern California: implications for economic impact and future change.” Environmental Research Letters, 10(9). Retrieved from https://iopscience.iop.org/article/10.1088/1748-9326/10/9/094005\n"
+        description: "**Production**<br /><br />Compost Bag China (CBC) is our manufacturer and expert in PLA film.\n\nCBC creates several sheets of PLA film. The top of which is two sheets heat-stamped together in a pattern to create an air channel to allow for inflation of the tent. <br /><br />Ascreen and floor are also produced with the same material. The floor is heat-sealed to the top portion of the tent, and the screen is kept separate until the customer constructs it in the field. The screen adheres to the tent's opening via a mild tacky glue strip on one side of the opening and two ties on the other side. The ties are strips of PLA hardened to allow for tying and untying.<br /><br /> The cost per tent to manufacture is $8.50/unit.<br /><br /> ## **Quality Control**<br /><br /> <br /><br />QC is performed by our Chinese liaison ODM Group as part of our contract with them.\n\nODM works directly with the manufacturer to hold to ISO Standards1 and ASTM Standards2 for durability, functionality as a tent, and biodegradability of the PLA film and finished product.\n\nODM Group is our direct contact for:\_\n\n*   Representative office in Zhuhai\n\n*   Product sourcing\n\n*   QC reporting ## **Inventory**<br /><br /> No raw materials are kept on hand. All material is sourced through ODM Group and sent directly to the manufacturer in China, Compost Bag China.\n\n$85,000 (10,000 units) are kept on hand in a rented storage facility.\n\nWe keep roughly two (2) months of inventory on hand.\n\nThough there is no seasonal activity at the moment, we anticipate future seasonal bumps in sales during:\n\n*   Hurricane season on the East Coast of the U.S\n\n*   June 1 - November 303\n\n*   Fire season in California\n\n*   June-April (2 Seasons overlapping)4<br /><br /> The lead time for ordering more inventory is 45 days. ## **Suppliers & Partners**<br /><br /> **ODM Group**\nhttps://www.odm-pro.com\n\n4A Hung Chu Bldg,\nJida Jiuzhou Avenue\n\nZhuhai 519015, China<br /><br /> Chinese Manufacturer Liaison ## Compost Bag China (CBC)<br /><br /> Shandong Province, China<br /><br /> CBC requires payment upfront for order volumes of our size, and delivery is made after inspection via shipping container.<br /><br /> Due to COVID-19, customs has been slower to receive shipments, but we don’t foresee significant delays in time to receipt, except in the months of January/February during the Chinese Lunar New Year. ### Notes:<br /><br />  International Organizations of Standards. (2020). 5912:2020 Camping tents — Requirements and test methods (ISO Standard No. 72895). Retrieved from https://www.iso.org/standard/72895.html\n\n2.  ASTM Standard D6400 - 19, “Standard Specification for Labeling of Plastics Designed to be Aerobically Composted in Municipal or Industrial Facilities. “ ASTM International, West. Conshohocken, PA,.2019, DOI: 10.1520/D6400-19. Retrieved from https://www.astm.org/Standards/D6400.htm\n\n3.  National Oceanic and Atmospheric Administration. (n.d.) “Tropical Cyclone Climatology.” National Hurricane Center and Central Pacific Hurricane Center. Retrieved from https://www.nhc.noaa.gov/climo/\n\n4.  Yufang, J. et. al.(2015). “Identification of two distinct fire regimes in Southern California: implications for economic impact and future change.” Environmental Research Letters, 10(9). Retrieved from https://iopscience.iop.org/article/10.1088/1748-9326/10/9/094005\n"
       - title: Positioning & Niche
         description: >
           Büt Camp has a unique position in the market as a currently unrealized
@@ -169,7 +152,13 @@ sections:
           large scale.
       - title: Financials
         description: >
-          # Expenses and Operating Capital<br /><br />
+          # Material Costs
+
+
+          ![](images/materialcost.png)
+
+
+          Expenses and Operating Capital
 
 
           ![](images/expenses-67f98254.png)
@@ -187,7 +176,6 @@ sections:
           1\. Based on general quote for General Liability Insurance from
           Hartford Insurance. Referenced here
           <https://www.thehartford.com/general-liability-insurance/business-insurance-startups/general-liability>
-
 
 
           2\. Office space rental from Gather Workspaces in Richmond. Referenced
