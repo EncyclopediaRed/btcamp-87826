@@ -65,7 +65,7 @@ sections:
           temporary shelter. The target audience varies from adult individuals
           wishing to have a contingency shelter plan, individuals whose
           occupations require additional emergency response equipment, and
-          larger groups that plan for and implement disaster recovery responses.
+          larger groups that plan for and implement disaster recovery responses.<br /><br />
 
 
           ![](images/targetcustomer.png) <br /><br />
@@ -74,7 +74,7 @@ sections:
           # Competitors<br /><br />
 
 
-          ## Emergency and Disaster Response
+          ## Emergency and Disaster Response<br /><br />
 
 
           Companies selling disaster recovery and emergency preparedness
@@ -99,25 +99,29 @@ sections:
           ![](images/grainger.png)
 
 
-          ## Camping Equipment
+          ## Camping Equipment<br /><br />
 
 
           Companies selling camping equipment are another primary competitor for
           Büt Camp Inc. Büt Camp is categorized as a tent and therefore as
           camping equipment. Although we are not competing with companies
           selling traditional camping equipment, we compete with specific
-          products and uses.
+          products and uses.<br /><br />
 
           For example, REI SOL Thermal Bivy Image 3 provides a method to limit
           exposure to the elements and is reasonably portable. Additionally,
           products like the Sneaker Shelter prototype Image 4 is a floorless,
           single-person, portable shelter that zips together and worn on shoes
-          that come with the product.
+          that come with the product.<br /><br />
 
 
           ![](images/mordor-camping.png)![](images/bivy-4bb78fd8.png)![](images/sheltersneakers-eabfaa96.png)
       - title: Operations
-        description: "**Production**\n\nCompost Bag China (CBC) is our manufacturer and expert in PLA film.\n\nCBC creates several sheets of PLA film. The top of which is two sheets heat-stamped together in a pattern to create an air channel to allow for inflation of the tent.\n\nA screen and floor are also produced with the same material. The floor is heat-sealed to the top portion of the tent, and the screen is kept separate until the customer constructs it in the field. The screen adheres to the tent's opening via a mild tacky glue strip on one side of the opening and two ties on the other side. The ties are strips of PLA hardened to allow for tying and untying.\n\nThe cost per tent to manufacture is $8.50/unit.\n\n**Quality Control**\n\nQC is performed by our Chinese liaison ODM Group as part of our contract with them.\n\nODM works directly with the manufacturer to hold to ISO Standards1 and ASTM Standards2 for durability, functionality as a tent, and biodegradability of the PLA film and finished product.\n\nODM Group is our direct contact for\_\n\n*   Representative office in Zhuhai\n\n*   Product sourcing\n\n*   QC reporting\n\n**Inventory**\n\nNo raw materials are kept on hand. All material is sourced through ODM Group and sent directly to the manufacturer in China, Compost Bag China.\n\n$85,000 (10,000 units) are kept on hand in a rented storage facility.\n\nWe keep roughly two (2) months of inventory on hand.\n\nThough there is no seasonal activity at the moment, we anticipate future seasonal bumps in sales during:\n\n*   Hurricane season on the East Coast of the U.S\n\n*   June 1 - November 303\n\n*   Fire season in California\n\n*   June-April (2 Seasons overlapping)4\n\nThe lead time for ordering more inventory is 45 days.\n\n**Suppliers & Partners**\n\n**ODM Group**\nhttps://www.odm-pro.com\n\n4A Hung Chu Bldg,\nJida Jiuzhou Avenue\n\nZhuhai 519015, China\n\nChinese Manufacturer Liaison\n\n\\*\\*Compost Bag China (CBC)\n\\*\\*https://compostbagchina.com\nShandong Province, China\n\nCBC requires payment upfront for order volumes of our size. And delivery is made after inspection via shipping container.\n\nDue to COVID-19, customs has been slower to receive shipments, but we don’t foresee significant delays in time to receipt, except in the months of January/February during the Chinese Lunar New Year.\n\n\n\nNotes:\n\n1.  International Organizations of Standards. (2020). 5912:2020 Camping tents — Requirements and test methods (ISO Standard No. 72895). Retrieved from https://www.iso.org/standard/72895.html\n\n2.  ASTM Standard D6400 - 19, “Standard Specification for Labeling of Plastics Designed to be Aerobically Composted in Municipal or Industrial Facilities. “ ASTM International, West. Conshohocken, PA,.2019, DOI: 10.1520/D6400-19. Retrieved from https://www.astm.org/Standards/D6400.htm\n\n3.  National Oceanic and Atmospheric Administration. (n.d.) “Tropical Cyclone Climatology.” National Hurricane Center and Central Pacific Hurricane Center. Retrieved from https://www.nhc.noaa.gov/climo/\n\n4.  Yufang, J. et. al.(2015). “Identification of two distinct fire regimes in Southern California: implications for economic impact and future change.” Environmental Research Letters, 10(9). Retrieved from https://iopscience.iop.org/article/10.1088/1748-9326/10/9/094005\n"
+        description: "**Production**<br /><br />Compost Bag China (CBC) is our manufacturer and expert in PLA film.\n\nCBC creates several sheets of PLA film. The top of which is two sheets heat-stamped together in a pattern to create an air channel to allow for inflation of the tent.
+        <br /><br />Ascreen and floor are also produced with the same material. The floor is heat-sealed to the top portion of the tent, and the screen is kept separate until the customer constructs it in the field. The screen adheres to the tent's opening via a mild tacky glue strip on one side of the opening and two ties on the other side. The ties are strips of PLA hardened to allow for tying and untying.
+        <br /><br />The cost per tent to manufacture is $8.50/unit.<br /><br />
+        **Quality Control**<br /><br />
+        <br /><br />QC is performed by our Chinese liaison ODM Group as part of our contract with them.\n\nODM works directly with the manufacturer to hold to ISO Standards1 and ASTM Standards2 for durability, functionality as a tent, and biodegradability of the PLA film and finished product.\n\nODM Group is our direct contact for\_\n\n*   Representative office in Zhuhai\n\n*   Product sourcing\n\n*   QC reporting\n\n**Inventory**\n\nNo raw materials are kept on hand. All material is sourced through ODM Group and sent directly to the manufacturer in China, Compost Bag China.\n\n$85,000 (10,000 units) are kept on hand in a rented storage facility.\n\nWe keep roughly two (2) months of inventory on hand.\n\nThough there is no seasonal activity at the moment, we anticipate future seasonal bumps in sales during:\n\n*   Hurricane season on the East Coast of the U.S\n\n*   June 1 - November 303\n\n*   Fire season in California\n\n*   June-April (2 Seasons overlapping)4\n\nThe lead time for ordering more inventory is 45 days.\n\n**Suppliers & Partners**\n\n**ODM Group**\nhttps://www.odm-pro.com\n\n4A Hung Chu Bldg,\nJida Jiuzhou Avenue\n\nZhuhai 519015, China\n\nChinese Manufacturer Liaison\n\n\\*\\*Compost Bag China (CBC)\n\\*\\*https://compostbagchina.com\nShandong Province, China\n\nCBC requires payment upfront for order volumes of our size. And delivery is made after inspection via shipping container.\n\nDue to COVID-19, customs has been slower to receive shipments, but we don’t foresee significant delays in time to receipt, except in the months of January/February during the Chinese Lunar New Year.\n\n\n\nNotes:\n\n1.  International Organizations of Standards. (2020). 5912:2020 Camping tents — Requirements and test methods (ISO Standard No. 72895). Retrieved from https://www.iso.org/standard/72895.html\n\n2.  ASTM Standard D6400 - 19, “Standard Specification for Labeling of Plastics Designed to be Aerobically Composted in Municipal or Industrial Facilities. “ ASTM International, West. Conshohocken, PA,.2019, DOI: 10.1520/D6400-19. Retrieved from https://www.astm.org/Standards/D6400.htm\n\n3.  National Oceanic and Atmospheric Administration. (n.d.) “Tropical Cyclone Climatology.” National Hurricane Center and Central Pacific Hurricane Center. Retrieved from https://www.nhc.noaa.gov/climo/\n\n4.  Yufang, J. et. al.(2015). “Identification of two distinct fire regimes in Southern California: implications for economic impact and future change.” Environmental Research Letters, 10(9). Retrieved from https://iopscience.iop.org/article/10.1088/1748-9326/10/9/094005\n"
       - title: Positioning & Niche
         description: >
           Büt Camp has a unique position in the market as a currently unrealized
