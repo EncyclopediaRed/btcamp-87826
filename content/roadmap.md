@@ -165,6 +165,9 @@ sections:
           Brand Recognition No Longer a Challenge
 
 
+          Stable Investors
+
+
           Product Expansion
 
 
@@ -172,6 +175,12 @@ sections:
           survival products such as utensils, multi-tools, and first aid kit
           supplies, with an additional goal of offering 3D schematics of these
           products via direct-to-consumer sales.
+
+
+          Open Access 3D Patterns
+
+
+          2022 Projection
     type: bulletpoints_section
 seo:
   title: ''
