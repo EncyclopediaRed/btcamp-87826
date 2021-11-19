@@ -51,17 +51,19 @@ sections:
           and transport. Units are small and light, therefore easy to transport
           and store efficiently.
       - title: Primary Objectives
-        description: >-
-          ## Lorem ipsum
+        description: >
+          Out of the prototype stage, with several patents pending, our end goal
+          is to make the Büt Camp tent synonymous with a small comfort during a
+          stressful time. We are pushing to move from a local market into larger
+          regional areas within the following year.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          We plan to grow the emergency shelter business through investment into
+          a national offering. Then we plan to expand our product line into 3D
+          printed camping and survival products such as utensils, multi-tools,
+          and first aid kit supplies, with an eventual goal of offering 3D
+          schematics via direct-to-consumer sales.
     type: bulletpoints_section
 seo:
   title: ''
