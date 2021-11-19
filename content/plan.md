@@ -15,7 +15,7 @@ sections:
           supply during an emergency, such as a natural disaster or hiking
           incident. There has been an increase in the need for disaster-planning
           products, including personal temporary shelters, to ensure a timely
-          response to an event.1 Disasters also have a significant impact on the
+          response to an event (1). Disasters also have a significant impact on the
           environment2 that furthers the damage of the actual event and the
           subsequent waste. Plastics and inorganic materials are the primary
           material used in emergency materials for their lightweight feature but
@@ -82,12 +82,12 @@ sections:
           products are primary competitors for Büt Camp. These companies
           specialize in products built for emergency response, including the
           niche of shelter and temporary shelter. Large organizations like EMT
-          Safety1 and Ali Med2 provide a range of response kits and materials
+          Safety1 and Ali Med (2) provide a range of response kits and materials
           from emergency shelters, first aid, and rescue equipment. Companies
-          like Inhabitat3 (Image 1) and Grainger4 (Image 2) provide emergency
+          like Inhabitat3 (Image 1) and Grainger (4) (Image 2) provide emergency
           shelters. Examples are shown in Image 1 and Image 2, designed
           explicitly for disasters and emergencies. Covid-19 has revealed that
-          there are significant gaps in emergency response planning.5 As shown
+          there are significant gaps in emergency response planning (5). As shown
           in Figure 1, the Emergency and Disaster Response market shows a slight
           increase over the next four (4) years as disaster planning groups at
           local, regional, national, and global levels continue to improve and
