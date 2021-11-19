@@ -170,7 +170,7 @@ sections:
           Büt Camp allows diversification of individual contingency planning and
           an option for fast and easily distributed emergency shelters on a
           large scale.
-      - title: lorem-ipsum
+      - title: Financials
         description: >-
           ## Lorem ipsum
 
