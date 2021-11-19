@@ -138,17 +138,27 @@ sections:
           Retrieved from 
           https://www.mordorintelligence.com/industry-reports/emergency-and-disaster-response-market
       - title: Operations
-        description: >-
-          ## Lorem ipsum
+        description: >
+          **Production**
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Compost Bag China (CBC) is our manufacturer and expert in PLA film.
 
 
-          - Lorem ipsum
+          CBC creates several sheets of PLA film. The top of which is two sheets
+          heat-stamped together in a pattern to create an air channel to allow
+          for inflation of the tent.
 
-          - dolor sit amet
+
+          A screen and floor is also produced with the same material. The floor
+          is heat-sealed to the top portion of the tent, and the screen is kept
+          separate until the customer constructs it the field. The screen
+          adheres to the tent's opening via a mild tacky glue strip on one side
+          of the opening and two ties on the other side. The ties are strips of
+          PLA hardened to allow for tying and untying.
+
+
+          The cost per ten
     type: bulletpoints_section
 seo:
   title: ''
