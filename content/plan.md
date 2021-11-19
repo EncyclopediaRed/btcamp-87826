@@ -115,7 +115,7 @@ sections:
           that come with the product.
 
 
-          ![](images/mordor-camping.png)
+          ![](images/mordor-camping.png)![](images/bivy-4bb78fd8.png)
       - title: References
         description: >
           1.  EMT Safety:
