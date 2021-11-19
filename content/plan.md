@@ -56,7 +56,7 @@ sections:
 
           # Competitors<br /><br />
 
- ## Emergency and Disaster Response
+            ## Emergency and Disaster Response
           
           Companies selling disaster recovery and emergency preparedness products are primary competitors for Büt Camp. These companies specialize in products built for emergency response, including the niche of shelter and temporary shelter.<br /><br />
           Large organizations like EMT Safety1 and Ali Med2 provide a range of response kits and materials from emergency shelters, first aid, and rescue equipment. Companies like Inhabitat3 (Image 1) and Grainger4 (Image 2) provide emergency shelters. Examples are shown in Image 1 and Image 2, designed explicitly for disasters and emergencies.<br /><br />
