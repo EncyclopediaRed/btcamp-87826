@@ -60,6 +60,7 @@ sections:
         description: >
           # Target Customer<br /><br />
 
+
           Büt Camp itself is designed to be easily usable by anyone in need of a
           temporary shelter. The target audience varies from adult individuals
           wishing to have a contingency shelter plan, individuals whose
@@ -69,30 +70,46 @@ sections:
 
           ![](images/targetcustomer.png) <br /><br />
 
+
           # Competitors<br /><br />
 
-            ## Emergency and Disaster Response
+
+          ## Emergency and Disaster Response
+
 
           Companies selling disaster recovery and emergency preparedness
           products are primary competitors for Büt Camp. These companies
           specialize in products built for emergency response, including the
-          niche of shelter and temporary shelter.<br /><br /> Large
-          organizations like EMT Safety1 and Ali Med2 provide a range of
-          response kits and materials from emergency shelters, first aid, and
-          rescue equipment. Companies like Inhabitat3 (Image 1) and Grainger4
-          (Image 2) provide emergency shelters. Examples are shown in Image 1
-          and Image 2, designed explicitly for disasters and emergencies.<br
-          /><br /> Covid-19 has revealed that there are significant gaps in
-          emergency response planning.5 As shown in Figure 1, the Emergency and
-          Disaster Response market shows a slight increase over the next four
-          (4) years as disaster planning groups at local, regional, national,
-          and global levels continue to improve and increase preparation
-          measures.<br /><br />
+          niche of shelter and temporary shelter. Large organizations like EMT
+          Safety1 and Ali Med2 provide a range of response kits and materials
+          from emergency shelters, first aid, and rescue equipment. Companies
+          like Inhabitat3 (Image 1) and Grainger4 (Image 2) provide emergency
+          shelters. Examples are shown in Image 1 and Image 2, designed
+          explicitly for disasters and emergencies. Covid-19 has revealed that
+          there are significant gaps in emergency response planning.5 As shown
+          in Figure 1, the Emergency and Disaster Response market shows a slight
+          increase over the next four (4) years as disaster planning groups at
+          local, regional, national, and global levels continue to improve and
+          increase preparation measures.
 
-          ## Camping Equipment <br /><br />
 
-           Companies selling camping equipment are another primary competitor for Büt Camp Inc. Büt Camp is categorized as a tent and therefore as camping equipment. Although we are not competing with companies selling traditional camping equipment, we compete with specific products and uses.<br /><br />
-           For example, REI SOL Thermal Bivy Image 3 provides a method to limit exposure to the elements and is reasonably portable. Additionally, products like the Sneaker Shelter prototype Image 4 is a floorless, single-person, portable shelter that zips together and worn on shoes that come with the product.<br /><br />
+          ![](images/mordor-diaster.png)
+
+
+          ## Camping Equipment 
+
+
+          Companies selling camping equipment are another primary competitor for
+          Büt Camp Inc. Büt Camp is categorized as a tent and therefore as
+          camping equipment. Although we are not competing with companies
+          selling traditional camping equipment, we compete with specific
+          products and uses.<br /><br />
+
+          For example, REI SOL Thermal Bivy Image 3 provides a method to limit
+          exposure to the elements and is reasonably portable. Additionally,
+          products like the Sneaker Shelter prototype Image 4 is a floorless,
+          single-person, portable shelter that zips together and worn on shoes
+          that come with the product.<br /><br />
       - title: References
         description: >
           1.  EMT Safety:
