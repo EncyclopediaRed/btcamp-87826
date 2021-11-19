@@ -100,7 +100,7 @@ sections:
 
 
           ****![](images/year1.png)
-      - title: lorem-ipsum
+      - title: Year 2
         description: >-
           ## Lorem ipsum
 
