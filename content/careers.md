@@ -21,7 +21,7 @@ sections:
       - title: Marketing Manager
         description: >
          Responsibilies: <br />
-         <ul> Develop and 
+         <ul> Develop and execute the company
          
 
 
