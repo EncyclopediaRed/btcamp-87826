@@ -30,7 +30,8 @@ sections:
          </ul> <br />
          Requirements: <br />
          <ul>
-         <li> Bachelor's degree in Marketing, Communications, Advertising or Enghlish <li>
+         <li> Bachelor's degree in Marketing, Communications, Advertising or Enghlish </li>
+         
 
 
          
