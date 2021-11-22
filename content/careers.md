@@ -30,7 +30,7 @@ sections:
          </ul> <br />
          Requirements: <br />
          <ul>
-         <li> Bachelor's degree in Marketing 
+         <li> Bachelor's degree in Marketing, Communication
 
 
          
