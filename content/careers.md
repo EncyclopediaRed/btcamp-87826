@@ -21,6 +21,7 @@ sections:
       - title: Marketing Manager
         description: >
          Responsibilies:
+         * 
 
 
       
