@@ -44,7 +44,9 @@ sections:
         description: > 
          Responsibilies: <br />
          <ul>
-         <li>
+         <li></li>
+         <li></li>
+         <li></li>
 
 
 
