@@ -42,7 +42,7 @@ sections:
          </ul> <br />
       - title: Government Relations/Sales Manager
         description: > 
-         Responsibilies: <br />
+         Responsibilies <br />
          <ul>
          <li> Develop sales plan for state and federal emergency management agencies</li>
          <li> Develop and maintain strong relationships with government emergency management agencies</li>
