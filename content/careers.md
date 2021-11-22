@@ -42,7 +42,7 @@ sections:
          </ul> <br />
       - title: Government Relation Manager
         description: > 
-         
+         Responsibilies: <br />
 
 
 
