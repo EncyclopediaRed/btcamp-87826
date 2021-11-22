@@ -44,7 +44,7 @@ sections:
         description: > 
          Responsibilies: <br />
          <ul>
-         <li> </li>
+         <li> Develop sales plan for </li>
          <li></li>
          <li></li>
          </ul> <br />
