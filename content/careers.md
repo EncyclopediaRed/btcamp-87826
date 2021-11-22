@@ -51,7 +51,7 @@ sections:
          </ul> <br />
          Requirements <br />
          <ul>
-         <li></li>
+         <li>Barchelor</li>
          <li></li>
          </ul> <br />
 
