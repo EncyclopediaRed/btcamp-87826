@@ -52,7 +52,7 @@ sections:
          Requirements <br />
          <ul>
          <li> Barchelor's degree in Business, Public Policy, Communications</li>
-         <li> Knowledge of local, state and federal government procur</li>
+         <li> Knowledge of local, state and federal government procurement </li>
          </ul> <br />
 
 
