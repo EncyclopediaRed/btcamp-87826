@@ -46,7 +46,7 @@ sections:
          <ul>
          <li> Develop sales plan for state and federal emergency management agencies</li>
          <li> Develop and maintain strong relationships with government emergency management agencies</li>
-         <li> </li>
+         <li> Manage and coordinate</li>
          </ul> <br />
          Requirements: <br />
          <ul>
