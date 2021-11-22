@@ -53,7 +53,7 @@ sections:
          <ul>
          <li> Barchelor's degree in Business, Public Policy, Communications </li>
          <li> Knowledge of local, state and federal government procurement methods and processes </li>
-         <li> Strong influencing skills and strong communication
+         <li> Strong influencing skills and strong communications skills
          </ul> <br />
 
 
