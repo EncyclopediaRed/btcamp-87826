@@ -8,7 +8,7 @@ sections:
     background_image: /images/leaf-light-grey.svg
     headline: Current Openings
     subtitle: >
-     We are in the hitoric downtown 
+     We are in the hitoric downtown of Blacksburg in southwest 
       
   
 
