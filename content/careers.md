@@ -30,7 +30,7 @@ sections:
          </ul> <br />
          Requirements: <br />
          <ul>
-         <li>
+         <li> Bachelor
 
 
          
