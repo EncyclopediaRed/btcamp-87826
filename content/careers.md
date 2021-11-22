@@ -13,7 +13,7 @@ sections:
   - type: header_section
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
-    headline: Marketing Manager
+    headline: Current Openings
   - type: bulletpoints_section
     section_id: bulletpoints_section
     headLine: Meet the Team
