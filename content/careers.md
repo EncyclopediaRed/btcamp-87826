@@ -38,7 +38,7 @@ sections:
          </li>
          <li> Strong presentation skill and verbal communication </li>
          <li> Strong analytical skill </li>
-         <li> Local and federal government relations expe
+         <li> Local and federal government relations experi
 
 
 
