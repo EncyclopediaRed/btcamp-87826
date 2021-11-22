@@ -36,7 +36,7 @@ sections:
          <li> 3 - 5 years' experience in digital marketing </li>
          <li> Knowledge of social media channels like YouTube, Facebook, Twitter, etc. 
          </li>
-         <li> Strong presentation skills and 
+         <li> Strong presentation skill and 
 
 
 
