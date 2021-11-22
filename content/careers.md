@@ -40,7 +40,7 @@ sections:
          <li> Strong analytical skill </li>
          <li> Local and federal government relations experience is a plus </li>
          </ul> <br />
-      - title: Government Relation Manager
+      - title: Government Relations Manager
         description: > 
          Responsibilies: <br />
 
