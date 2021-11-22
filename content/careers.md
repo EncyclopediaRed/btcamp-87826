@@ -23,7 +23,7 @@ sections:
          Responsibilies: <br />
          <ul> 
          <li> Develop and execute the company's marketing strategies including our e-commerce presence, social marketing and advertising, email marketing </li>
-         <li> Write, create, and edit content for ou
+         <li> Write, create, and edit content for our website, blogs, 
          </ul>
          
          
