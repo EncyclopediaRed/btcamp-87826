@@ -20,7 +20,7 @@ sections:
     bulletpoints:
       - title: Marketing Manager
         description: >
-         Responsibilies:
+         Responsibilies: <br />
          
 
 
