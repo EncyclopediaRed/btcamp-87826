@@ -29,6 +29,8 @@ sections:
          <li> Manage and coordinate local and national events </li>
          </ul> <br />
          Requirements: <br />
+         <ul>
+         <li>
 
 
          
