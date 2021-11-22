@@ -20,7 +20,7 @@ sections:
     bulletpoints:
       - title: Marketing Manager
         description: >
-        Respon
+        Responsi
 
 
       
