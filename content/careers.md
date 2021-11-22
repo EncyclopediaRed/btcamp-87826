@@ -31,6 +31,7 @@ sections:
          Requirements: <br />
          <ul>
          <li> Bachelor's degree in Marketing, Communications, Advertising or Enghlish
+         
 
 
          
