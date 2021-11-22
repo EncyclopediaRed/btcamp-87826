@@ -33,7 +33,7 @@ sections:
          <li> Bachelor's degree in Marketing, Communications, Advertising or Enghlish 
          </li>
          <li> 5 years' experience of marketing </li>
-         <li> 
+         <li> 3 - 5 years' 
 
 
 
