@@ -51,7 +51,7 @@ sections:
          </ul> <br />
          Requirements <br />
          <ul>
-         <li>Barchelor's degree in Business, Public Policy, Communication</li>
+         <li>Barchelor's degree in Business, Public Policy, Communications</li>
          <li></li>
          </ul> <br />
 
