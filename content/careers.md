@@ -24,7 +24,7 @@ sections:
          <ul> 
          <li> Develop and execute the company's marketing strategies including our e-commerce presence, social marketing and advertising, email marketing <li>
          </ul>
-         <ul> 
+         
          
 
 
