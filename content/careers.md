@@ -38,6 +38,7 @@ sections:
          <li> Bachelor's degree in Marketing, Communications, Advertising or Enghlish 
          </li>
          <li> 5 years' experience
+         
 
 
 
