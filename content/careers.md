@@ -44,7 +44,7 @@ sections:
         description: > 
          Responsibilies: <br />
          <ul>
-         <li> Develop sales plan for state and federal emergency management </li>
+         <li> Develop sales plan for state and federal emergency management agencies</li>
          <li></li>
          <li></li>
          </ul> <br />
