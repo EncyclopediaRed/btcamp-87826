@@ -37,7 +37,7 @@ sections:
          <li> Knowledge of social media channels like YouTube, Facebook, Twitter, etc. 
          </li>
          <li> Strong presentation skill and verbal communication </li>
-         <li> Strong analytical skill </li>
+         <li> Strong analytical skills </li>
          <li> Local and federal government relations experience is a plus </li>
          </ul> <br />
       - title: Government Relations Manager
