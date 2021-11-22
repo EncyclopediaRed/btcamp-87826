@@ -45,7 +45,7 @@ sections:
          Responsibilies: <br />
          <ul>
          <li> Develop sales plan for state and federal emergency management agencies</li>
-         <li> Develop and maintain strong relation</li>
+         <li> Develop and maintain strong relations</li>
          <li></li>
          </ul> <br />
          Requirements: <br />
