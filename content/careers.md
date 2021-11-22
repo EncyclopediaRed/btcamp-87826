@@ -51,7 +51,7 @@ sections:
          </ul> <br />
          Requirements <br />
          <ul>
-         <li>Barchelor's degree in </li>
+         <li>Barchelor's degree in Business, </li>
          <li></li>
          </ul> <br />
 
