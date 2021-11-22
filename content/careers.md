@@ -41,7 +41,7 @@ sections:
          <li> Local and federal government relations experience is a plus </li>
          </ul> <br />
       - title: Marketing Manager
-        description: >
+        description: > 
 
 
 
