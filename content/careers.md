@@ -28,7 +28,8 @@ sections:
          <li> Manage the marketing budget </li>
          <li> Manage and coordinate local and national events </li>
          </ul>
-         
+         Requirement
+
          
          
 
