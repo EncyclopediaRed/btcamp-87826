@@ -36,7 +36,7 @@ sections:
          <li> 3 - 5 years' experience in digital marketing </li>
          <li> Knowledge of social media channels like YouTube, Facebook, Twitter, etc. 
          </li>
-         <li> Strong presentation skills and verbal communication </li>
+         <li> Strong presentation skills and written/verbal communication </li>
          <li> Strong analytical skills </li>
          <li> Local and federal government relations experience is a plus </li>
          </ul> <br />
