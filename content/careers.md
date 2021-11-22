@@ -7,7 +7,7 @@ sections:
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
     headline: Current Openings
-    
+        
 
 seo:
   title: ''
