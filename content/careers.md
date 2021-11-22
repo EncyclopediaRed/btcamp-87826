@@ -37,7 +37,7 @@ sections:
          <ul>
          <li> Bachelor's degree in Marketing, Communications, Advertising or Enghlish 
          </li>
-         
+         <li> 
 
 
 
