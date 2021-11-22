@@ -47,7 +47,7 @@ sections:
          <li> Develop sales plan for state and federal emergency management agencies</li>
          <li> Develop and maintain strong relationships with government emergency management agencies</li>
          <li> Manage and coordinate local and national trade shows and conferences</li>
-         <li> Ba</li>
+         <li> Bach</li>
          </ul> <br />
          Requirements <br />
          <ul>
