@@ -22,7 +22,7 @@ sections:
         description: >
          Responsibilies: <br />
          <ul> 
-         Develop and execute the company's marketing strategies including our e-commerce presence, social marketing and advertising, email marketing 
+         <li>Develop and execute the company's marketing strategies including our e-commerce presence, social marketing and advertising, email marketing 
          </ul>
          <ul> 
          
