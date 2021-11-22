@@ -36,7 +36,7 @@ sections:
          <li> 3 - 5 years' experience in digital marketing </li>
          <li> Knowledge of social media channels like Youtube, Facebook, Twitter, etc. 
          </li>
-         
+         <li>
 
 
 
