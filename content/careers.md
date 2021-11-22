@@ -49,7 +49,7 @@ sections:
          <li> Manage and coordinate local and national trade shows and conferences</li>
          <li></li>
          </ul> <br />
-         Requirements: <br />
+         Requirements <br />
          <ul>
          <li></li>
          <li></li>
