@@ -52,7 +52,7 @@ sections:
          Requirements <br />
          <ul>
          <li> Barchelor's degree in Business, Public Policy, Communications</li>
-         <li> Know</li>
+         <li> Knowledge</li>
          </ul> <br />
 
 
