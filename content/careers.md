@@ -21,7 +21,7 @@ sections:
       - title: Marketing Manager
         description: >
          Responsibilies: <br />
-         <ul> Develop and execute the company's marketing strategies including our e-commerce
+         <ul> Develop and execute the company's marketing strategies including our e-commerce presence, social marketing
          
 
 
