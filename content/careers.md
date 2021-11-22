@@ -16,7 +16,7 @@ sections:
     headline: Current Openings
   - type: bulletpoints_section
     section_id: bulletpoints_section
-    headLine: Meet the Team
+    headLine: Me
     bulletpoints:
       - title: Rob Barrowclift
         description: >
