@@ -11,7 +11,7 @@ sections:
       
   - type: header_section
     section_id: header_section
-    background_image: /images/leaf-light-greay.svg
+    background_image: /images/leaf-light-grey.svg
 
 seo:
   title: ''
