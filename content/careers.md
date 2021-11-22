@@ -40,7 +40,7 @@ sections:
          <li> Strong analytical skills </li>
          <li> Local and federal government relations experience is a plus </li>
          </ul> <br />
-      - title: Government Relations Manager
+      - title: Government Sales Manager
         description: > 
          Responsibilies: <br />
          <ul>
