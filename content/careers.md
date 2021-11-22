@@ -24,7 +24,7 @@ sections:
          <ul> 
          <li> Develop and execute the company's marketing strategies including our e-commerce presence, social marketing and advertising, email marketing </li>
          <li> Write, create, and edit content for our website, blogs, Facebook, Twitter and other social media channels </li>
-         <li> Conduct website user and customer tracking, reporting and analyzing the 
+         <li> Conduct website user and customer tracking, reporting and analyzing the results from the company's marketing 
          </ul>
          
          
