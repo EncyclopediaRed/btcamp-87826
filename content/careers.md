@@ -44,7 +44,7 @@ sections:
         description: > 
          Responsibilies: <br />
          <ul>
-         <li> Develop sales plan for </li>
+         <li> Develop sales plan for fede</li>
          <li></li>
          <li></li>
          </ul> <br />
