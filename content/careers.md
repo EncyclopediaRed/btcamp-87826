@@ -85,7 +85,7 @@ sections:
          <ul>
          <li> High Scholl diploma or equivalent </li>
          <li> Computer experience using customer services software </li>
-         <li> Ability to work indepen </li>
+         <li> Ability to work independently </li>
          </ul> <br />
 
 
