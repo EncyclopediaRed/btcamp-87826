@@ -77,7 +77,7 @@ sections:
          Responsibilies <br />
          <ul>
          <li>  </li>
-         <li> Supervise all inbound and outbound shipments to ensure they are correct and carried out in a timely fashion </li>
+         <li>  </li>
          <li> Provide direct supervision to all warehouse workers </li>
          <li> Develop and maintain a productive staff by creating programs for hiring and training</li>
          </ul> <br />
