@@ -52,7 +52,7 @@ sections:
          <ul>
          <li> Barchelor's degree in Business, Public Policy, Communications </li>
          <li> 5 years of experience </li>
-         <li> Knowledge of local, state and federal government procurement methods and processes </li>
+         <li> Knowledge of local, state and federal government procurement methods and processes 
          <li> Strong influencing skills and strong communications skills </li>
          <li> Local and federal government relations experience is a plus </li>
          </ul> <br />
