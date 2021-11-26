@@ -63,7 +63,7 @@ sections:
          <ul>
          <li> Ensure a safe, clean, and efficient operation of the warehouse </li>
          <li> Provide direct supervision to all warehouse workers </li>
-         <li> Supervise all inbound and outbound shipments to ensure they are correct and carried </li>
+         <li> Supervise all inbound and outbound shipments to ensure they are correct and carried out in  </li>
          <li></li>
          </ul> <br />
          Requirements <br />
