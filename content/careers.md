@@ -78,7 +78,7 @@ sections:
          <ul>
          <li>  </li>
          <li>  </li>
-         <li> Provide direct supervision to all warehouse workers </li>
+         <li>  </li>
          <li> Develop and maintain a productive staff by creating programs for hiring and training</li>
          </ul> <br />
          Requirements <br />
