@@ -83,7 +83,7 @@ sections:
          </ul> <br />
          Requirements <br />
          <ul>
-         <li> High </li>
+         <li> High Scholl  </li>
          <li>  </li>
          <li>  </li>
          </ul> <br />
