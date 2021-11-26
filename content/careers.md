@@ -57,7 +57,7 @@ sections:
          <li> Strong influencing skills and strong communications skills </li>
          <li></li>
          </ul> <br />
-      - title: Warehouse Operations Mana
+      - title: Warehouse Operations Manager
         description: > 
          Responsibilies <br />
          <ul>
