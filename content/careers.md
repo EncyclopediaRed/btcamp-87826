@@ -83,7 +83,7 @@ sections:
          </ul> <br />
          Requirements <br />
          <ul>
-         <li> High Scholl  </li>
+         <li> High Scholl diploma or equivalent </li>
          <li>  </li>
          <li>  </li>
          </ul> <br />
