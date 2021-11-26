@@ -57,7 +57,7 @@ sections:
          <li> Strong influencing skills and strong communications skills </li>
          <li></li>
          </ul> <br />
-      - title: Government Relations/Sales Manager
+      - title: 
         description: > 
          Responsibilies <br />
          <ul>
