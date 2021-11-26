@@ -86,7 +86,7 @@ sections:
          <li> High Scholl diploma or equivalent </li>
          <li> Computer experience using customer services software </li>
          <li> Ability to work independently </li>
-         <li> Exellent 
+         <li> Exellent communication skills, both orally and in writting </li>
          </ul> <br />
 
 
