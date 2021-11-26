@@ -76,7 +76,7 @@ sections:
         description: > 
          Responsibilies <br />
          <ul>
-         <li> Response to  </li>
+         <li> Response to customer </li>
          <li>  </li>
          <li>  </li>
          <li>  </li>
