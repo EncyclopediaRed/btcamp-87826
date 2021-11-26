@@ -76,7 +76,7 @@ sections:
         description: > 
          Responsibilies <br />
          <ul>
-         <li>  </li>
+         <li> Response to  </li>
          <li>  </li>
          <li>  </li>
          <li>  </li>
