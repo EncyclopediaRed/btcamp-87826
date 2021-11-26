@@ -82,7 +82,7 @@ sections:
          </ul> <br />
          Requirements <br />
          <ul>
-         <li> High Scholl diploma or equivalent </li>
+         <li> High School diploma or equivalent </li>
          <li> Computer experience using customer services software </li>
          <li> Ability to work independently </li>
          <li> Exellent communication skills, both orally and in writting </li>
