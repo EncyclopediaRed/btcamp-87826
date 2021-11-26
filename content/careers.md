@@ -84,7 +84,7 @@ sections:
          Requirements <br />
          <ul>
          <li>  </li>
-         <li> Computer experience using warehouse management software </li>
+         <li>  </li>
          <li> Effective communications skills with customers and coworkers </li>
          </ul> <br />
 
