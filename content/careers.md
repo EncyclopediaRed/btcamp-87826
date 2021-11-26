@@ -77,7 +77,7 @@ sections:
          Responsibilies <br />
          <ul>
          <li> Know our products well </li>
-         <li>  </li>
+         <li> Monitor and document </li>
          <li> Response to customers' need in a timely fashion </li>
          <li>  </li>
          <li>  </li>
