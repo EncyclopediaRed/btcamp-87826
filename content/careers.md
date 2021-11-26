@@ -63,7 +63,7 @@ sections:
          <ul>
          <li> Ensure a safe, clean, and efficient operation of the warehouse </li>
          <li> Provide direct supervision to all warehouse workers </li>
-         <li> Manage and coordinate local and national trade shows and conferences </li>
+         <li> Develop and implement </li>
          <li></li>
          </ul> <br />
          Requirements <br />
