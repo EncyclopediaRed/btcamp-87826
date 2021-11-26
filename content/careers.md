@@ -85,7 +85,7 @@ sections:
          <ul>
          <li>  </li>
          <li>  </li>
-         <li> Effective communications skills with customers and coworkers </li>
+         <li>  </li>
          </ul> <br />
 
 
