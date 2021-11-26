@@ -61,7 +61,7 @@ sections:
         description: > 
          Responsibilies <br />
          <ul>
-         <li> Develop sales plan for local, state and federal emergency management agencies</li>
+         <li> Ensure </li>
          <li> Develop and maintain strong relationships with government emergency management agencies </li>
          <li> Manage and coordinate local and national trade shows and conferences </li>
          <li></li>
