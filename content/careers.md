@@ -61,7 +61,7 @@ sections:
         description: > 
          Responsibilies <br />
          <ul>
-         <li> Ensure </li>
+         <li> Ensure a safe, clean, and </li>
          <li> Develop and maintain strong relationships with government emergency management agencies </li>
          <li> Manage and coordinate local and national trade shows and conferences </li>
          <li></li>
