@@ -72,7 +72,21 @@ sections:
          <li> Computer experience using warehouse management software </li>
          <li> Effective communications skills with customers and coworkers </li>
          </ul> <br />
-      
+      - title: Warehouse Operations Manager
+        description: > 
+         Responsibilies <br />
+         <ul>
+         <li> Ensure a safe, clean, and efficient operation of the warehouse </li>
+         <li> Supervise all inbound and outbound shipments to ensure they are correct and carried out in a timely fashion </li>
+         <li> Provide direct supervision to all warehouse workers </li>
+         <li> Develop and maintain a productive staff by creating programs for hiring and training</li>
+         </ul> <br />
+         Requirements <br />
+         <ul>
+         <li> Barchelor's degree in Logistics or at least 5 years of experience in warehouse management or distribution management </li>
+         <li> Computer experience using warehouse management software </li>
+         <li> Effective communications skills with customers and coworkers </li>
+         </ul> <br />
 
 
 
