@@ -62,7 +62,7 @@ sections:
          Responsibilies <br />
          <ul>
          <li> Ensure a safe, clean, and efficient operation of the warehouse</li>
-         <li> Develop and maintain strong relationships with government emergency management agencies </li>
+         <li> Provide</li>
          <li> Manage and coordinate local and national trade shows and conferences </li>
          <li></li>
          </ul> <br />
