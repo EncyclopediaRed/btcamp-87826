@@ -84,7 +84,7 @@ sections:
          Requirements <br />
          <ul>
          <li> High Scholl diploma or equivalent </li>
-         <li> computer experience using customer services software </li>
+         <li> Computer experience using customer services software </li>
          <li>  </li>
          </ul> <br />
 
