@@ -57,7 +57,7 @@ sections:
          <li> Strong influencing skills and strong communications skills </li>
          <li></li>
          </ul> <br />
-      - title: 
+      - title: Warehouse Operations Mana
         description: > 
          Responsibilies <br />
          <ul>
