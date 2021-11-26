@@ -63,7 +63,7 @@ sections:
          <ul>
          <li> Ensure a safe, clean, and efficient operation of the warehouse </li>
          <li> Provide direct supervision to all warehouse workers </li>
-         <li> Develop and implement shipping/receiving </li>
+         <li> Develop and implement shipping/receiving work schedules and assignments to ensure  </li>
          <li></li>
          </ul> <br />
          Requirements <br />
