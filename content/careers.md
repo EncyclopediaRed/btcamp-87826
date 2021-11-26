@@ -79,7 +79,7 @@ sections:
          <li> Know our products well </li>
          <li> Monitor and document customer complains </li>
          <li> Response to customers' need in a timely fashion </li>
-         <li> Handle customer service usning telephone, email, online chat </li>
+         <li> Handle customer service usning telephone, email, online chat and other social channels </li>
          <li>  </li>
          </ul> <br />
          Requirements <br />
