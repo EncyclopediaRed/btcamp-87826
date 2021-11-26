@@ -47,7 +47,6 @@ sections:
          <li> Develop sales plan for general puplic, local, state and federal emergency management agencies</li>
          <li> Develop and maintain strong relationships with government emergency management agencies </li>
          <li> Manage and coordinate local and national trade shows and conferences </li>
-         <li></li>
          </ul> <br />
          Requirements <br />
          <ul>
