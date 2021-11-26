@@ -83,7 +83,7 @@ sections:
          </ul> <br />
          Requirements <br />
          <ul>
-         <li>  </li>
+         <li> High </li>
          <li>  </li>
          <li>  </li>
          </ul> <br />
