@@ -80,7 +80,6 @@ sections:
          <li> Response to customers' need in a timely fashion </li>
          <li>  </li>
          <li>  </li>
-         <li>  </li>
          </ul> <br />
          Requirements <br />
          <ul>
