@@ -76,7 +76,7 @@ sections:
         description: > 
          Responsibilies <br />
          <ul>
-         
+         <li> Know our products well </li>
          <li> Response to customers' need in a timely fashion </li>
          <li>  </li>
          <li>  </li>
