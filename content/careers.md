@@ -62,7 +62,7 @@ sections:
          Responsibilies <br />
          <ul>
          <li> Ensure a safe, clean, and efficient operation of the warehouse</li>
-         <li> Provide direct</li>
+         <li> Provide direct supervision</li>
          <li> Manage and coordinate local and national trade shows and conferences </li>
          <li></li>
          </ul> <br />
