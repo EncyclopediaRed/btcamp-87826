@@ -68,7 +68,7 @@ sections:
          </ul> <br />
          Requirements <br />
          <ul>
-         <li> Barchelor's degree in Lo </li>
+         <li> Barchelor's degree in Logistics or  </li>
          <li> 5 years of experience
          <li> Knowledge of local, state and federal government procurement methods and processes </li>
          <li> Strong influencing skills and strong communications skills </li>
