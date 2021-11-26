@@ -79,7 +79,7 @@ sections:
          <li>  </li>
          <li>  </li>
          <li>  </li>
-         <li> Develop and maintain a productive staff by creating programs for hiring and training</li>
+         <li>  </li>
          </ul> <br />
          Requirements <br />
          <ul>
