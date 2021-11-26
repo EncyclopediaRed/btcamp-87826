@@ -72,7 +72,7 @@ sections:
          <li> Computer experience using warehouse management software </li>
          <li> Effective communications skills with customers and coworkers </li>
          </ul> <br />
-      - title: Customer Support
+      - title: Customer Support Specialist
         description: > 
          Responsibilies <br />
          <ul>
