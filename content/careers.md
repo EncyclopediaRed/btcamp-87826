@@ -8,7 +8,7 @@ sections:
     background_image: /images/leaf-light-grey.svg
     headline: Join Büt Camp
     subtitle: >
-     We are in the historic downtown of Blacksburg in southwest Virginia.  The town is rated among the best place to live, study and work in the country, adjacent to a world-class university and research institue.  In the middle of the New River valley, it is between the Blue Ridge and the Alleghany mountains, surrounded by many national parks.  Outdoor activities are countless and year-round.  The town has a mix of urban and country living.  Joint our team!  We offer Medical and Dental insurance, Paid Time Off, Flexible Schedule, and Training Benefits.
+     We are in the historic downtown of Blacksburg in southwest Virginia.  The town is rated among the best place to live, study and work in the country, adjacent to a world-class university and research institue.  In the middle of the New River valley, it is between the Blue Ridge and the Alleghany mountains, surrounded by many national parks.  Outdoor activities are countless and year-round.  The town has a mix of urban and country living.  <Joint our team!  We offer Medical and Dental insurance, Paid Time Off, Flexible Schedule, and Training Benefits.
 
   - type: header_section
     section_id: header_section
