@@ -84,7 +84,7 @@ sections:
          Requirements <br />
          <ul>
          <li> High Scholl diploma or equivalent </li>
-         <li>  </li>
+         <li> computer </li>
          <li>  </li>
          </ul> <br />
 
