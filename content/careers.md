@@ -57,7 +57,23 @@ sections:
          <li> Strong influencing skills and strong communications skills </li>
          <li></li>
          </ul> <br />
-        
+        - title: Government Relations/Sales Manager
+        description: > 
+         Responsibilies <br />
+         <ul>
+         <li> Develop sales plan for local, state and federal emergency management agencies</li>
+         <li> Develop and maintain strong relationships with government emergency management agencies </li>
+         <li> Manage and coordinate local and national trade shows and conferences </li>
+         <li></li>
+         </ul> <br />
+         Requirements <br />
+         <ul>
+         <li> Barchelor's degree in Business, Public Policy, Communications </li>
+         <li> 5 years of experience
+         <li> Knowledge of local, state and federal government procurement methods and processes </li>
+         <li> Strong influencing skills and strong communications skills </li>
+         <li></li>
+         </ul> <br />
 
 
 
