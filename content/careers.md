@@ -76,7 +76,7 @@ sections:
         description: > 
          Responsibilies <br />
          <ul>
-         <li> Response to customer's need in a timely and accurate  </li>
+         <li> Response to customer's need in a timely fashion </li>
          <li>  </li>
          <li>  </li>
          <li>  </li>
