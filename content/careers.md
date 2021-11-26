@@ -69,7 +69,7 @@ sections:
          Requirements <br />
          <ul>
          <li> Barchelor's degree in Logistics or at least 5 years of experience in warehouse management or distribution management </li>
-         <li> Computer experience using warehouse management software
+         <li> Computer experience using warehouse management software </li>
          <li> Effective communications skills with customers and coworkers </li>
          <li> Strong influencing skills and strong communications skills </li>
          <li></li>
