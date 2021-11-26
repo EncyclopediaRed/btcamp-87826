@@ -68,7 +68,7 @@ sections:
          </ul> <br />
          Requirements <br />
          <ul>
-         <li> Barchelor's degree in Logistics or  </li>
+         <li> Barchelor's degree in Logistics or at least 5 years of experience in warehouse management or distribution management </li>
          <li> 5 years of experience
          <li> Knowledge of local, state and federal government procurement methods and processes </li>
          <li> Strong influencing skills and strong communications skills </li>
