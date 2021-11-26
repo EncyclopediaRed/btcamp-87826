@@ -55,7 +55,7 @@ sections:
          <li> 5 years of experience </li>
          <li> Knowledge of local, state and federal government procurement methods and processes </li>
          <li> Strong influencing skills and strong communications skills </li>
-         <li> Local and federal government relations experience is a plus</li>
+         <li> Local and federal government relations experience is a plus </li>
          </ul> <br />
       - title: Warehouse Operations Manager
         description: > 
