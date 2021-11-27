@@ -44,7 +44,7 @@ sections:
          <h4><b>Salary: 65,000.00 - 80,000.00 per year </br>
       - title: Government Relations/Sales Manager
         description: > 
-         Responsibilies <br />
+         <h4><b>Responsibilies <br />
          <ul>
          <li> Develop sales plan for general puplic, local, state and federal emergency management agencies</li>
          <li> Develop and maintain strong relationships with government emergency management agencies </li>
