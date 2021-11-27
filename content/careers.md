@@ -91,7 +91,7 @@ sections:
          <li> Ability to work independently </li>
          <li> Exellent communication skills, both orally and in writting </li>
          </ul> <br />
-         Salary: 65,000.00 - 80,000.00 per year </br>
+         Salary: ,000.00 - 80,000.00 per year </br>
 
 
 
