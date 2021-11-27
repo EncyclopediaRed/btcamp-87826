@@ -41,6 +41,7 @@ sections:
          <li> Strong analytical skills </li>
          <li> Local and federal government relations experience is a plus </li>
          </ul> <br />
+         Pay: 65.
       - title: Government Relations/Sales Manager
         description: > 
          Responsibilies <br />
