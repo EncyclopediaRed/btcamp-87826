@@ -77,7 +77,7 @@ sections:
          <h4><b>Salary</b></h4> 50,000.00 - 70,000.00 per year </br>
       - title: Customer Support Specialist
         description: > 
-         <h4><b>Responsibilies <br />
+         <h4><b>Responsibilies </b></h4>
          <ul>
          <li> Know our products well </li>
          <li> Monitor and document customer complains </li>
