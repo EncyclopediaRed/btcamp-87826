@@ -74,7 +74,7 @@ sections:
          <li> Computer experience using warehouse management software </li>
          <li> Effective communications skills with customers and coworkers </li>
          </ul> <br />
-         <h4><b>Salary: 50,000.00 - 70,000.00 per year </br>
+         <h4><b>Salary</b></h4> 50,000.00 - 70,000.00 per year </br>
       - title: Customer Support Specialist
         description: > 
          <h4><b>Responsibilies <br />
