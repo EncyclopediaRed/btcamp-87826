@@ -41,7 +41,7 @@ sections:
          <li> Strong analytical skills </li>
          <li> Local and federal government relations experience is a plus </li>
          </ul> <br />
-         <h4><b>Salary: 65,000.00 - 80,000.00 per year </b></h4></br>
+         <h4><b>Salary: 65,000.00 - 80,000.00 per year </br>
       - title: Government Relations/Sales Manager
         description: > 
          <h4><b>Responsibilies <br />
