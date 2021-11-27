@@ -21,7 +21,7 @@ sections:
     bulletpoints:
       - title: Marketing Manager
         description: >
-         <h4><b> Responsibilies </h4> <br />
+         <h4><b> Responsibilies </b></h4> <br />
          <ul> 
          <li> Develop and execute the company's marketing strategies including our e-commerce presence, email and social marketing and advertising </li>
          <li> Write, create, and edit content for the company's website, blogs, Facebook, Twitter and other social media channels </li>
