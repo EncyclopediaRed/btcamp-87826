@@ -58,7 +58,7 @@ sections:
          <li> Strong influencing skills and strong communications skills </li>
          <li> Local and federal government relations experience is a plus </li>
          </ul> <br />
-         Salary: 65,000.00 - 80,000.00 per year </br>
+         <h4><b>Salary: 65,000.00 - 80,000.00 per year </br>
       - title: Warehouse Operations Manager
         description: > 
          Responsibilies <br />
