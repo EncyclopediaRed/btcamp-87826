@@ -9,7 +9,7 @@ sections:
     headline: Join Büt Camp
     subtitle: >
      We are in the historic downtown of Blacksburg in southwest Virginia.  The town is rated among the best place to live, study and work in the country, adjacent to a world-class university and research institue.  In the middle of the New River valley, it is between the Blue Ridge and the Alleghany mountains, surrounded by many national parks.  Outdoor activities are countless and year-round.  The town has a mix of urban and country living.  Joint our team!
-     </br> </br>Benefit  We offer Medical and Dental insurance, Paid Time Off and Holidays, Flexible Schedule, and Training Benefits. <br />
+     </br> </br> Benefit  We offer Medical and Dental insurance, Paid Time Off and Holidays, Flexible Schedule, and Training Benefits. <br />
 
   - type: header_section
     section_id: header_section
@@ -21,7 +21,7 @@ sections:
     bulletpoints:
       - title: Marketing Manager
         description: >
-          Responsibilies </b></h4>
+         <h4><b> Responsibilies </b></h4>
          <ul> 
          <li> Develop and execute the company's marketing strategies including our e-commerce presence, email and social marketing and advertising </li>
          <li> Write, create, and edit content for the company's website, blogs, Facebook, Twitter and other social media channels </li>
