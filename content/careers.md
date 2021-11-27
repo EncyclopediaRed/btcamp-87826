@@ -61,7 +61,7 @@ sections:
          <h4><b>Salary: 65,000.00 - 80,000.00 per year </br>
       - title: Warehouse Operations Manager
         description: > 
-         Responsibilies <br />
+         <h4><b>Responsibilies <br />
          <ul>
          <li> Ensure a safe, clean, and efficient operation of the warehouse </li>
          <li> Oversee all inbound and outbound shipments to ensure they are correct and carried out in a timely fashion </li>
