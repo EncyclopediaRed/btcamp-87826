@@ -84,7 +84,7 @@ sections:
          <li> Response to customers' need in a timely fashion </li>
          <li> Handle customer service usning telephone, email, online chat and other social channels </li>
          </ul> <br />
-         Requirements <br />
+         <h4><b>Requirements <br />
          <ul>
          <li> High School diploma or equivalent </li>
          <li> Computer experience using customer services software </li>
