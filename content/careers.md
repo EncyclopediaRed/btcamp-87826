@@ -68,7 +68,7 @@ sections:
          <li> Provide direct supervision to all warehouse workers </li>
          <li> Develop and maintain a productive staff by creating programs for hiring and training</li>
          </ul> <br />
-         <h4><b>Requirements <br />
+         <h4><b>Requirements </b></h4>
          <ul>
          <li> Barchelor's degree in Logistics or at least 5 years of experience in warehouse or  distribution management </li>
          <li> Computer experience using warehouse management software </li>
