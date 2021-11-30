@@ -124,7 +124,7 @@ sections:
           developing.<br /><br />
 
 
-          ![](/images/year1.png)
+          ![](images/year1.png)
 
       - title: 'Year 2: Increase Sustainability'
         description: >
@@ -177,7 +177,7 @@ sections:
           these orders may last a customer longer.<br /><br />
 
 
-          ![](static/images/year2.png)
+          ![](images/year2.png)
       - title: 'Year 3: Product Expansion'
         description: >
           **Stable Investors**
