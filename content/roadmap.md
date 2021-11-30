@@ -1,6 +1,6 @@
 ---
-title: lorem-ipsum
-page_css_class: lorem-ipsum
+title: Büt Camp Roadmap
+page_css_class: roadmap
 white_header: false
 sections:
   - section_id: roadmap
@@ -124,7 +124,7 @@ sections:
           developing.<br /><br />
 
 
-          ![](images/year1.png)
+          ![](static/images/year1.png)
 
       - title: 'Year 2: Increase Sustainability'
         description: >
@@ -177,7 +177,7 @@ sections:
           these orders may last a customer longer.<br /><br />
 
 
-          ![](images/year2.png)
+          ![](static/images/year2.png)
       - title: 'Year 3: Product Expansion'
         description: >
           **Stable Investors**
@@ -211,9 +211,9 @@ sections:
           and international organizations.<br /><br />
 
 
-          ![](images/year3.png)
+          ![](static/images/year3.png)
     type: bulletpoints_section
-  - section_id: lorem-ipsum
+  - section_id:
     address: '357 Fannypack Dr. Blacksburg, VA 24061'
     phone: +1-555-288-2267
     email: info@bütcamp.com
