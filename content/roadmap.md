@@ -1,6 +1,10 @@
 ---
 title: Büt Camp Roadmap
+<<<<<<< HEAD
 page_css_class: roadmap
+=======
+page_css_class: lorem-ipsum
+>>>>>>> 69a352f0714654cd6cbe1464c111bb421a5f385b
 white_header: false
 sections:
   - section_id: roadmap
