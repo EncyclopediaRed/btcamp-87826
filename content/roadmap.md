@@ -124,7 +124,7 @@ sections:
           developing.<br /><br />
 
 
-          ![](static/images/year1.png)
+          ![](/images/year1.png)
 
       - title: 'Year 2: Increase Sustainability'
         description: >
