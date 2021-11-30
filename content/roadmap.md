@@ -124,7 +124,7 @@ sections:
           developing.<br /><br />
 
 
-          ![](/images/year1.png)
+          ![](images/year1.png)
 
       - title: 'Year 2: Increase Sustainability'
         description: >
@@ -177,7 +177,7 @@ sections:
           these orders may last a customer longer.<br /><br />
 
 
-          ![](static/images/year2.png)
+          ![](images/year2.png)
       - title: 'Year 3: Product Expansion'
         description: >
           **Stable Investors**
@@ -211,7 +211,7 @@ sections:
           and international organizations.<br /><br />
 
 
-          ![](static/images/year3.png)
+          ![](images/year3.png)
     type: bulletpoints_section
   - section_id:
     address: '357 Fannypack Dr. Blacksburg, VA 24061'
