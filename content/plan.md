@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: plan
 page_css_class: lorem-ipsum
 white_header: false
 sections:
