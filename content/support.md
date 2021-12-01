@@ -676,6 +676,7 @@ sections:
     email: info@bütcamp.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
     type: contact_section
+    image: images/use_cases2.jpg
 seo:
   title: ''
   description: ''
