@@ -100,7 +100,8 @@ sections:
       - question: What do I do if I never receive my order?
         answer: >
           If you do not receive your order within the timeframe provided in your
-          reciept, please contact us immediately
+          receipt, please contact our customer support at +1-555-288-2267 or
+          email us at info@bütcamp.com immediately.
       - question: Can I make changes on a placed order?
         answer: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
