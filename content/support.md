@@ -46,6 +46,9 @@ sections:
           diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis
           justo.
     type: faq_section
+  - section_id: lorem-ipsum
+    bulletpoints: []
+    type: bulletpoints_section
 seo:
   title: ''
   description: ''
