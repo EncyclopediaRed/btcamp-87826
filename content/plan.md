@@ -1,5 +1,5 @@
 ---
-title: plan
+title: business-plan
 page_css_class: lorem-ipsum
 white_header: false
 sections:
@@ -70,7 +70,7 @@ sections:
           responses.<br /><br />
 
 
-          ![](images/targetcustomer.png) <br /><br />
+          ![target customer table](btcamp-87826/static/images/targetcustomer.png) <br /><br />
 
 
           # Competitors<br /><br />
