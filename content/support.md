@@ -126,7 +126,8 @@ sections:
   - section_id: lorem-ipsum
     bulletpoints:
       - title: Terms & Conditions
-        description: AGREEMENT TO TERMS<br /><br />These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and Büt Camp, Inc., doing business as BCI ("BCI", “we”, “us”, or “our”), concerning your access to and use of the [](https://xn--btcamp-3ya.com/)! website as well as any other media
+        description: >
+        AGREEMENT TO TERMS<br /><br />These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and Büt Camp, Inc., doing business as BCI ("BCI", “we”, “us”, or “our”), concerning your access to and use of the [](https://xn--btcamp-3ya.com/)! website as well as any other media
         form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”). We are registered in
         Virginia, United States and have our registered office at 357 Fannypack Dr., Blacksburg, VA 24061. You agree that by accessing the Site, you have read,
         understood, and agreed to be bound by all of these Terms of Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM
