@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: support
 page_css_class: lorem-ipsum
 white_header: false
 sections:
@@ -16,21 +16,21 @@ sections:
     questions:
       - question: How do I contact the BCI team?
         answer: >
-          You can reach us multiple ways!
+          You can reach us multiple ways!<br />
 
 
 
 
           Call our customer support at +1-555-288-2267 or email us at
-          info@bütcamp.com.
+          info@bütcamp.com.<br /><br />
 
 
 
 
-          If you're in the area, you can even stop by our offices at:
+          If you're in the area, you can even stop by our offices at:<br />
 
 
-          357 Fannypack Dr. 
+          357 Fannypack Dr.<br />
 
 
           Blacksburg, VA 24061
