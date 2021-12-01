@@ -49,7 +49,7 @@ sections:
   - section_id: lorem-ipsum
     bulletpoints:
       - title: Terms & Conditions
-      - title: lorem-ipsum
+      - title: Privacy Policy
         description: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
           efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
