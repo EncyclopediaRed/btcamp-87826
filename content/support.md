@@ -16,7 +16,7 @@ sections:
     questions:
       - question: How do I contact the BCI team?
         answer: >
-          You can reach us multiple ways!<br />
+          You can reach us multiple ways!<br /><br />
 
 
 
@@ -39,21 +39,21 @@ sections:
           We’ll accept return requests for items that are unopened, unused, with
           the original tags still intact. The product(s) must be in their
           original packaging, if applicable, in the same condition it was
-          received.
+          received.<br /><br />
 
 
-          We do not accept opened items.
+          We do not accept opened items.<br /><br />
 
 
           If you wish to return your item, we must receive your request within
-          **30 days** of the date you received your item.
+          **30 days** of the date you received your item.<br /><br />
 
 
           Once we receive your returned item, our team will review your request
           and inspect the item. We will send you an email to confirm that we’ve
           received your item and are processing your request. We’ll follow up
           with another email once the request has been processed to let you know
-          if your return was approved.
+          if your return was approved.<br /><br />
 
 
           If approved, the money will be refunded to your original method of
@@ -64,7 +64,7 @@ sections:
       - question: How long will my tent last?
         answer: >
           Unopened, the BütCamp tent will last 5-10 years depending on exposure
-          to air and light. Store this item in a cool, dark space.
+          to air and light. Store this item in a cool, dark space.<br /><br />
 
 
           Once opened, the BütCamp tent will last approximately 7 days or less.
@@ -73,7 +73,7 @@ sections:
           and biodegradeable. 
       - question: Is this product harmful to the environment?
         answer: >+
-          Absolutely not!
+          Absolutely not!<br /><br />
 
 
 
@@ -83,10 +83,10 @@ sections:
 
       - question: What are your shipping options?
         answer: >
-          We offer various options for shipping based on your needs.
+          We offer various options for shipping based on your needs.<br /><br />
 
 
-          In the US we offer standard, expedited, one-day, and economy shipping.
+          In the US we offer standard, expedited, one-day, and economy shipping.<br /><br />
 
 
           Outside of the US we offer standard and expedited international
@@ -94,7 +94,7 @@ sections:
       - question: When will I receive my order?
         answer: >
           Domestic orders take 2-3 business days to process and 5-7 business
-          days to ship, depending on your shipping choice.
+          days to ship, depending on your shipping choice.<br /><br />
 
 
 
@@ -127,7 +127,7 @@ sections:
     bulletpoints:
       - title: Terms & Conditions
         description: >+
-          "AGREEMENT TO TERMS<br /><br />These Terms of Use constitute a legally
+          "1. AGREEMENT TO TERMS<br /><br />These Terms of Use constitute a legally
           binding agreement made between you, whether personally or on behalf of
           an entity (“you”) and Büt Camp, Inc., doing business as BCI (\"BCI\",
           “we”, “us”, or “our”), concerning your access to and use of the
@@ -138,23 +138,22 @@ sections:
           at 357 Fannypack Dr., Blacksburg, VA 24061. You agree that by
           accessing the Site, you have read, understood, and agreed to be bound
           by all of these Terms of Use. IF YOU DO NOT AGREE WITH ALL OF THESE
-          TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM\n\n\_ \_ \_ \_
+          TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM
           USING THE SITE AND YOU MUST DISCONTINUE USE IMMEDIATELY.<br /><br
           />Supplemental terms and conditions or documents that may be posted on
           the Site from time to time are hereby expressly incorporated herein by
-          reference. We\n\n\_ \_ \_ \_ reserve the right, in our sole
+          reference. We reserve the right, in our sole
           discretion, to make changes or modifications to these Terms of Use
-          from time to time. We will alert you about any changes by\n\n\_ \_ \_
-          \_ updating the “Last updated” date of these Terms of Use, and you
+          from time to time. We will alert you about any changes by updating the “Last updated” date of these Terms of Use, and you
           waive any right to receive specific notice of each such change. Please
-          ensure that you\n\n\_ \_ \_ \_ check the applicable Terms every time
+          ensure that you check the applicable Terms every time
           you use our Site so that you understand which Terms apply. You will be
-          subject to, and will be deemed to have been\n\n\_ \_ \_ \_ made aware
+          subject to, and will be deemed to have been made aware
           of and to have accepted, the changes in any revised Terms of Use by
           your continued use of the Site after the date such revised Terms of
-          Use are\n\n\_ \_ \_ \_ posted.The information provided on the Site is
+          Use are posted.The information provided on the Site is
           not intended for distribution to or use by any person or entity in any
-          jurisdiction or country where such\n\n\_ \_ \_ \_ distribution or use
+          jurisdiction or country where such distribution or use
           would be contrary to law or regulation or which would subject us to
           any registration requirement within such jurisdiction or country.
           Accordingly, those persons who choose to access the Site from other
@@ -165,10 +164,10 @@ sections:
           methods (ISO Standard No. 72895)., ASTM Standard D6400 - 19, “Standard
           Specification for Labeling of Plastics Designed to be Aerobically
           Composted in Municipal or Industrial Facilities.\" and GDPR
-          certification.<br /><br />\n\n\_ \_ \_ \_ The Site is intended for
+          certification.<br /><br /> The Site is intended for
           users who are at least 18 years old. Persons under the age of 18 are
           not permitted to use or register for the Site.<br /><br
-          />\n\n2.\_INTELLECTUAL PROPERTY RIGHTS<br /><br />\n\nUnless otherwise
+          />2. INTELLECTUAL PROPERTY RIGHTS<br /><br />Unless otherwise
           indicated, the Site is our proprietary property and all source code,
           databases, functionality, software, website designs, audio, video,
           text, photographs, and graphics on the Site (collectively, the
@@ -184,18 +183,18 @@ sections:
           publicly displayed, encoded, translated, transmitted, distributed,
           sold, licensed, or otherwise exploited for any commercial purpose
           whatsoever, without our express prior written permission.<br /><br
-          />\n\nProvided that you are eligible to use the Site, you are granted
+          />Provided that you are eligible to use the Site, you are granted
           a limited license to access and use the Site and to download or print
           a copy of any portion of the Content to which you have properly gained
           access solely for your personal, non-commercial use. We reserve all
           rights not expressly granted to you in and to the Site, the Content
-          and the Marks.<br /><br />\n\n3.\_USER REPRESENTATIONS<br /><br
-          />\n\nBy using the Site, you represent and warrant that: (1) all
+          and the Marks.<br /><br />3. USER REPRESENTATIONS<br /><br
+          />By using the Site, you represent and warrant that: (1) all
           registration information you submit will be true, accurate, current,
           and complete; (2) you will maintain the accuracy of such information
-          and promptly update such registration information as necessary;\_(3)
+          and promptly update such registration information as necessary; (3)
           you have the legal capacity and you agree to comply with these Terms
-          of Use;\_(4) you are not a minor in the jurisdiction in which you
+          of Use; (4) you are not a minor in the jurisdiction in which you
           reside; (5) you will not access the Site through automated or
           non-human means, whether through a bot, script or otherwise; (6) you
           will not use the Site for any illegal or unauthorized purpose; and (7)
@@ -203,33 +202,33 @@ sections:
           regulation.If you provide any information that is untrue, inaccurate,
           not current, or incomplete, we have the right to suspend or terminate
           your account and refuse any and all current or future use of the Site
-          (or any portion thereof).<br /><br />\n\n4.\_USER REGISTRATION<br
-          /><br />\n\nYou may be required to register with the Site. You agree
+          (or any portion thereof).<br /><br />4. USER REGISTRATION<br
+          /><br />You may be required to register with the Site. You agree
           to keep your password confidential and will be responsible for all use
           of your account and password. We reserve the right to remove, reclaim,
           or change a username you select if we determine, in our sole
           discretion, that such username is inappropriate, obscene, or otherwise
-          objectionable.<br /><br />\n\n6.\_PRODUCTS<br /><br />\n\nWe make
+          objectionable.<br /><br />5. PRODUCTS<br /><br />We make
           every effort to display as accurately as possible the colors,
           features, specifications, and details of the products available on the
           Site. However, we do not guarantee that the colors, features,
           specifications, and details of the products will be accurate,
           complete, reliable, current, or free of other errors, and your
           electronic display may not accurately reflect the actual colors and
-          details of the products.\_All products are subject to availability,
+          details of the products.All products are subject to availability,
           and we cannot guarantee that items will be in stock. We reserve the
           right to discontinue any products at any time for any reason. Prices
-          for all products are subject to change.<br /><br />\n\n6.\_PURCHASES
-          AND PAYMENT<br /><br />\n\nWe accept the following forms of
-          payment:\n\n- Visa\n\n- Mastercard\n\n- American Express\_\n\n-
-          Discover \_\n\n- PayPal\n\n<br /><br />\n\nYou agree to provide
+          for all products are subject to change.<br /><br />6. PURCHASES
+          AND PAYMENT<br /><br />We accept the following forms of
+          payment:- Visa - Mastercard - American Express -
+          Discover - PayPal<br /><br />You agree to provide
           current, complete, and accurate purchase and account information for
           all purchases made via the Site. You further agree to promptly update
           account and payment information, including email address, payment
           method, and payment card expiration date, so that we can complete your
           transactions and contact you as needed. Sales tax will be added to the
           price of purchases as deemed required by us. We may change prices at
-          any time. All payments shall be\_in U.S. dollars.You agree to pay all
+          any time. All payments shall bein U.S. dollars.You agree to pay all
           charges at the prices then in effect for your purchases and any
           applicable shipping fees, and you authorize us to charge your chosen
           payment provider for any such amounts upon placing your order. We
@@ -242,50 +241,50 @@ sections:
           orders that use the same billing or shipping address. We reserve the
           right to limit or prohibit orders that, in our sole judgment, appear
           to be placed by dealers, resellers, or distributors.<br /><br
-          />\n\n7.\_RETURN\_POLICY\n\n<br /><br />\n\nPlease review our Return
+          />7. RETURN POLICY<br /><br />Please review our Return
           Policy posted on the Site prior to making any purchases.<br /><br
-          />\_\n\n8.\_PROHIBITED ACTIVITIES<br /><br />\n\nYou may not access or
+          />8. PROHIBITED ACTIVITIES<br /><br />You may not access or
           use the Site for any purpose other than that for which we make the
           Site available. The Site may not be used in connection with any
           commercial endeavors except those that are specifically endorsed or
-          approved by us.As a user of the Site, you agree not to:Systematically
+          approved by us.As a user of the Site, you agree not to: - Systematically
           retrieve data or other content from the Site to create or compile,
           directly or indirectly, a collection, compilation, database, or
-          directory without written permission from us.Trick, defraud, or
+          directory without written permission from us. - Trick, defraud, or
           mislead us and other users, especially in any attempt to learn
           sensitive account information such as user passwords.<br /><br
-          />\n\nCircumvent, disable, or otherwise interfere with
+          /> - Circumvent, disable, or otherwise interfere with
           security-related features of the Site, including features that prevent
           or restrict the use or copying of any Content or enforce limitations
-          on the use of the Site and/or the Content contained therein.Disparage,
-          tarnish, or otherwise harm, in our opinion, us and/or the Site.Use any
+          on the use of the Site and/or the Content contained therein. - Disparage,
+          tarnish, or otherwise harm, in our opinion, us and/or the Site. - Use any
           information obtained from the Site in order to harass, abuse, or harm
-          another person.Make improper use of our support services or submit
+          another person. - Make improper use of our support services or submit
           false reports of abuse or misconduct.Use the Site in a manner
           inconsistent with any applicable laws or regulations.Engage in
-          unauthorized framing of or linking to the Site.Upload or transmit (or
+          unauthorized framing of or linking to the Site. - Upload or transmit (or
           attempt to upload or to transmit) viruses, Trojan horses, or other
           material, including excessive use of capital letters and spamming
           (continuous posting of repetitive text), that interferes with any
           party’s uninterrupted use and enjoyment of the Site or modifies,
           impairs, disrupts, alters, or interferes with the use, features,
-          functions, operation, or maintenance of the Site.Engage in any
+          functions, operation, or maintenance of the Site. - Engage in any
           automated use of the system, such as using scripts to send comments or
           messages, or using any data mining, robots, or similar data gathering
           and extraction tools.Delete the copyright or other proprietary rights
-          notice from any Content.<br /><br />\n\nAttempt to impersonate another
+          notice from any Content.<br /><br /> - Attempt to impersonate another
           user or person or use the username of another user.Upload or transmit
           (or attempt to upload or to transmit) any material that acts as a
           passive or active information collection or transmission mechanism,
           including without limitation, clear graphics interchange formats
           (“gifs”), 1×1 pixels, web bugs, cookies, or other similar devices
           (sometimes referred to as “spyware” or “passive collection mechanisms”
-          or “pcms”).Interfere with, disrupt, or create an undue burden on the
-          Site or the networks or services connected to the Site.Harass, annoy,
+          or “pcms”). - Interfere with, disrupt, or create an undue burden on the
+          Site or the networks or services connected to the Site. - Harass, annoy,
           intimidate, or threaten any of our employees or agents engaged in
-          providing any portion of the Site to you.Attempt to bypass any
+          providing any portion of the Site to you. - Attempt to bypass any
           measures of the Site designed to prevent or restrict access to the
-          Site, or any portion of the Site.<br /><br />\n\nCopy or adapt the
+          Site, or any portion of the Site.<br /><br />- Copy or adapt the
           Site’s software, including but not limited to Flash, PHP, HTML,
           JavaScript, or other code.Except as permitted by applicable law,
           decipher, decompile, disassemble, or reverse engineer any of the
@@ -295,16 +294,16 @@ sections:
           including without limitation, any spider, robot, cheat utility,
           scraper, or offline reader that accesses the Site, or using or
           launching any unauthorized script or other software.Use a buying agent
-          or purchasing agent to make purchases on the Site.Make any
+          or purchasing agent to make purchases on the Site. - Make any
           unauthorized use of the Site, including collecting usernames and/or
           email addresses of users by electronic or other means for the purpose
           of sending unsolicited email, or creating user accounts by automated
-          means or under false pretenses.<br /><br />\n\n\n\n\nUse the Site as
+          means or under false pretenses.<br /><br /> - Use the Site as
           part of any effort to compete with us or otherwise use the Site and/or
           the Content for any revenue-generating endeavor or commercial
           enterprise.Use the Site to advertise or offer to sell goods and
-          services.<br /><br />\n\nSell or otherwise transfer your profile.<br
-          /><br />\n\n9.\_USER GENERATED CONTRIBUTIONS<br /><br />\n\nThe Site
+          services.<br /><br /> - Sell or otherwise transfer your profile.<br
+          /><br />9. USER GENERATED CONTRIBUTIONS<br /><br />The Site
           does not offer users to submit or post content. We may provide you
           with the opportunity to create, submit, post, display, transmit,
           perform, publish, distribute, or broadcast content and materials to us
@@ -315,11 +314,11 @@ sections:
           third-party websites. As such, any Contributions you transmit may be
           treated in accordance with the Site Privacy Policy. When you create or
           make available any Contributions, you thereby represent and warrant
-          that:\_\_\_The creation, distribution, transmission, public display,
+          that: - The creation, distribution, transmission, public display,
           or performance, and the accessing, downloading, or copying of your
           Contributions do not and will not infringe the proprietary rights,
           including but not limited to the copyright, patent, trademark, trade
-          secret, or moral rights of any third party.<br /><br />\n\nYou are the
+          secret, or moral rights of any third party.<br /><br /> - You are the
           creator and owner of or have the necessary licenses, rights, consents,
           releases, and permissions to use and to authorize us, the Site, and
           other users of the Site to use your Contributions in any manner
@@ -328,22 +327,22 @@ sections:
           individual person in your Contributions to use the name or likeness of
           each and every such identifiable individual person to enable inclusion
           and use of your Contributions in any manner contemplated by the Site
-          and these Terms of Use.Your Contributions are not false, inaccurate,
-          or misleading.Your Contributions are not unsolicited or unauthorized
+          and these Terms of Use. - Your Contributions are not false, inaccurate,
+          or misleading. - Your Contributions are not unsolicited or unauthorized
           advertising, promotional materials, pyramid schemes, chain letters,
           spam, mass mailings, or other forms of solicitation.<br /><br
-          />\n\nYour Contributions are not obscene, lewd, lascivious, filthy,
+          /> - Your Contributions are not obscene, lewd, lascivious, filthy,
           violent, harassing, libelous, slanderous, or otherwise objectionable
-          (as determined by us).Your Contributions do not ridicule, mock,
-          disparage, intimidate, or abuse anyone.<br /><br />\n\nYour
+          (as determined by us). - Your Contributions do not ridicule, mock,
+          disparage, intimidate, or abuse anyone.<br /><br /> - Your
           Contributions are not used to harass or threaten (in the legal sense
           of those terms) any other person and to promote violence against a
-          specific person or class of people.Your Contributions do not violate
-          any applicable law, regulation, or rule.Your Contributions do not
+          specific person or class of people. - Your Contributions do not violate
+          any applicable law, regulation, or rule. - Your Contributions do not
           violate the privacy or publicity rights of any third party.<br /><br
-          />\n\nYour Contributions do not violate any applicable law concerning
+          /> - Your Contributions do not violate any applicable law concerning
           child pornography, or otherwise intended to protect the health or
-          well-being of minors;<br /><br />\n\nYour Contributions do not include
+          well-being of minors;<br /><br /> - Your Contributions do not include
           any offensive comments that are connected to race, national origin,
           gender, sexual preference, or physical handicap.Your Contributions do
           not otherwise violate, or link to material that violates, any
@@ -352,7 +351,7 @@ sections:
           violation of the foregoing violates these Terms of Use and may result
           in, among other things, termination or suspension of your rights to
           use the Site and the Marketplace Offerings.<br /><br
-          />\n\n10.\_CONTRIBUTION LICENSE<br /><br />\n\nYou and Site agree that
+          />10. CONTRIBUTION LICENSE<br /><br />You and Site agree that
           we may access, store, process, and use any information and personal
           data that you provide following the terms of the Privacy Policy and
           your choices (including settings).By submitting suggestions or other
@@ -366,7 +365,7 @@ sections:
           for your Contributions to the Site and you expressly agree to
           exonerate us from any and all responsibility and to refrain from any
           legal action against us regarding your Contributions.<br /><br
-          />\n\n11.\_GUIDELINES FOR REVIEWS<br /><br />\n\nWe may provide you
+          />11.GUIDELINES FOR REVIEWS<br /><br />We may provide you
           areas on the Site to leave reviews or ratings. When posting a review,
           you must comply with the following criteria: (1) you should have
           firsthand experience with the person/entity being reviewed; (2) your
@@ -390,7 +389,7 @@ sections:
           worldwide, royalty-free, fully-paid, assignable, and sublicensable
           right and license to reproduce, modify, translate, transmit by any
           means, display, perform, and/or distribute all content relating to
-          review.\_\_<br /><br />\n\n12.\_SUBMISSIONS<br /><br />\n\nYou
+          review.<br /><br />12. SUBMISSIONS<br /><br />You
           acknowledge and agree that any questions, comments, suggestions,
           ideas, feedback, or other information regarding the Site or the
           Marketplace Offerings (\"Submissions\") provided by you to us are
@@ -403,8 +402,8 @@ sections:
           Submissions are original with you or that you have the right to submit
           such Submissions. You agree there shall be no recourse against us for
           any alleged or actual infringement or misappropriation of any
-          proprietary right in your Submissions.\n\n<br /><br />13.\_SITE
-          MANAGEMENT<br /><br />\n\nWe reserve the right, but not the
+          proprietary right in your Submissions.<br /><br />13. SITE
+          MANAGEMENT<br /><br />We reserve the right, but not the
           obligation, to: (1) monitor the Site for violations of these Terms of
           Use; (2) take appropriate legal action against anyone who, in our sole
           discretion, violates the law or these Terms of Use, including without
@@ -418,9 +417,9 @@ sections:
           systems; and (5) otherwise manage the Site in a manner designed to
           protect our rights and property and to facilitate the proper
           functioning of the Site and the Marketplace Offerings.<br /><br
-          />\n\n14.\_PRIVACY POLICY<br /><br />\n\nWe care about data privacy
+          />14. PRIVACY POLICY<br /><br />We care about data privacy
           and security. Please review our Privacy
-          Policy:\_https://xn--btcamp-3ya.com/support/ (below). By using the
+          Policy: https://xn--btcamp-3ya.com/support/ (below). By using the
           Site or the Marketplace Offerings, you agree to be bound by our
           Privacy Policy, which is incorporated into these Terms of Use. Please
           be advised the Site and the Marketplace Offerings are hosted in the
@@ -430,8 +429,8 @@ sections:
           from applicable laws in the United States, then through your continued
           use of the Site, you are transferring your data to the United States,
           and you expressly consent to have your data transferred to and
-          processed in the United States.<br /><br />\n\n15.\_TERM AND
-          TERMINATION<br /><br />\n\nThese Terms of Use shall remain in full
+          processed in the United States.<br /><br />15. TERM AND
+          TERMINATION<br /><br />These Terms of Use shall remain in full
           force and effect while you use the Site. WITHOUT LIMITING ANY OTHER
           PROVISION OF THESE TERMS OF USE, WE RESERVE THE RIGHT TO, IN OUR SOLE
           DISCRETION AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF
@@ -440,16 +439,16 @@ sections:
           WITHOUT LIMITATION FOR BREACH OF ANY REPRESENTATION, WARRANTY, OR
           COVENANT CONTAINED IN THESE TERMS OF USE OR OF ANY APPLICABLE LAW OR
           REGULATION. WE MAY TERMINATE YOUR USE OR PARTICIPATION IN THE SITE AND
-          THE MARKETPLACE OFFERINGS OR DELETE YOUR ACCOUNT AND\_ANY CONTENT OR
+          THE MARKETPLACE OFFERINGS OR DELETE YOUR ACCOUNT AND ANY CONTENT OR
           INFORMATION THAT YOU POSTED AT ANY TIME, WITHOUT WARNING, IN OUR SOLE
-          DISCRETION.<br /><br />\n\nIf we terminate or suspend your account for
+          DISCRETION.<br /><br />If we terminate or suspend your account for
           any reason, you are prohibited from registering and creating a new
           account under your name, a fake or borrowed name, or the name of any
           third party, even if you may be acting on behalf of the third party.
           In addition to terminating or suspending your account, we reserve the
           right to take appropriate legal action, including without limitation
           pursuing civil, criminal, and injunctive redress.<br /><br
-          />\n\n16.\_MODIFICATIONS AND INTERRUPTIONS<br /><br />\n\nWe reserve
+          />16. MODIFICATIONS AND INTERRUPTIONS<br /><br />We reserve
           the right to change, modify, or remove the contents of the Site at any
           time or for any reason at our sole discretion without notice. However,
           we have no obligation to update any information on our Site. We also
@@ -470,13 +469,13 @@ sections:
           Nothing in these Terms of Use will be construed to obligate us to
           maintain and support the Site or the Marketplace Offerings or to
           supply any corrections, updates, or releases in connection
-          therewith.<br /><br />\n\n17.\_GOVERNING LAW<br /><br />\n\nThese
+          therewith.<br /><br />17. GOVERNING LAW<br /><br />These
           Terms of Use and your use of the Site and the Marketplace Offerings
           are governed by and construed in accordance with the laws of the
           Commonwealth of Virginia applicable to agreements made and to be
           entirely performed within\_the Commonwealth of Virginia,\_without
-          regard to its conflict of law principles. <br /><br />\n\n18.\_DISPUTE
-          RESOLUTION<br /><br />\n\nInformal NegotiationsTo expedite resolution
+          regard to its conflict of law principles. <br /><br />18. DISPUTE
+          RESOLUTION<br /><br />Informal NegotiationsTo expedite resolution
           and control the cost of any dispute, controversy, or claim related to
           these Terms of Use (each \"Dispute\" and collectively, the “Disputes”)
           brought by either you or us (individually, a “Party” and collectively,
@@ -503,13 +502,13 @@ sections:
           must follow applicable law, and any award may be challenged if the
           arbitrator fails to do so. Except where otherwise required by the
           applicable AAA rules or applicable law, the arbitration will take
-          place in\_ United States, Virginia. Except as otherwise provided
+          place in United States, Virginia. Except as otherwise provided
           herein, the Parties may litigate in court to compel arbitration, stay
           proceedings pending arbitration, or to confirm, modify, vacate, or
           enter judgment on the award entered by the arbitrator.If for any
           reason, a Dispute proceeds in court rather than arbitration, the
-          Dispute shall be commenced or prosecuted in the\_state and federal
-          courts\_located in Virginia, and the Parties hereby consent to, and
+          Dispute shall be commenced or prosecuted in the state and federal
+          courts located in Virginia, and the Parties hereby consent to, and
           waive all defenses of lack of personal jurisdiction, and forum non
           conveniens with respect to venue and jurisdiction in such state and
           federal courts. Application of the United Nations Convention on
@@ -544,14 +543,14 @@ sections:
           shall be decided by a court of competent jurisdiction within the
           courts listed for jurisdiction above, and the Parties agree to submit
           to the personal jurisdiction of that court.<br /><br
-          />\n\n19.\_CORRECTIONS<br /><br />\n\nThere may be information on the
+          />19. CORRECTIONS<br /><br />There may be information on the
           Site that contains typographical errors, inaccuracies, or omissions
           that may relate to the Marketplace Offerings, including descriptions,
           pricing, availability, and various other information. We reserve the
           right to correct any errors, inaccuracies, or omissions and to change
           or update the information on the Site at any time, without prior
-          notice.<br /><br />\n\n20.\_DISCLAIMERTHE SITE IS PROVIDED<br /><br
-          />\n\n\n\n\nON AN AS-IS AND AS-AVAILABLE BASIS. YOU AGREE THAT YOUR
+          notice.<br /><br />20. DISCLAIMERTHE SITE IS PROVIDED<br /><br
+          />ON AN AS-IS AND AS-AVAILABLE BASIS. YOU AGREE THAT YOUR
           USE OF THE SITE SERVICES WILL BE AT YOUR SOLE RISK. TO THE FULLEST
           EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR
           IMPLIED, IN CONNECTION WITH THE SITE AND YOUR USE THEREOF, INCLUDING,
@@ -579,7 +578,7 @@ sections:
           THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES. AS WITH THE PURCHASE OF
           A PRODUCT OR SERVICE THROUGH ANY MEDIUM OR IN ANY ENVIRONMENT, YOU
           SHOULD USE YOUR BEST JUDGMENT AND EXERCISE CAUTION WHERE
-          APPROPRIATE.<br /><br />\n\n\n\n\n21.\_LIMITATIONS OF LIABILITYIN NO
+          APPROPRIATE.<br /><br />21. LIMITATIONS OF LIABILITYIN NO
           EVENT WILL WE OR OUR DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU
           OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, EXEMPLARY,
           INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT, LOST
@@ -588,13 +587,13 @@ sections:
           NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, OUR
           LIABILITY TO YOU FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE FORM
           OF THE ACTION, WILL AT ALL TIMES BE LIMITED TO THE AMOUNT PAID, IF
-          ANY, BY YOU TO US\_DURING THE six (6) mONTH PERIOD PRIOR TO ANY CAUSE
-          OF ACTION ARISING\_.\_CERTAIN US STATE LAWS AND INTERNATIONAL LAWS DO
+          ANY, BY YOU TO US DURING THE six (6) mONTH PERIOD PRIOR TO ANY CAUSE
+          OF ACTION ARISING CERTAIN US STATE LAWS AND INTERNATIONAL LAWS DO
           NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR
           LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL
           OF THE ABOVE DISCLAIMERS OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU
-          MAY HAVE ADDITIONAL RIGHTS.<br /><br />22.\_INDEMNIFICATION<br /><br
-          />\n\nYou agree to defend, indemnify, and hold us harmless, including
+          MAY HAVE ADDITIONAL RIGHTS.<br /><br />22. INDEMNIFICATION<br /><br
+          />You agree to defend, indemnify, and hold us harmless, including
           our subsidiaries, affiliates, and all of our respective officers,
           agents, partners, and employees, from and against any loss, damage,
           liability, claim, or demand, including reasonable attorneys’ fees and
@@ -610,7 +609,7 @@ sections:
           your expense, with our defense of such claims. We will use reasonable
           efforts to notify you of any such claim, action, or proceeding which
           is subject to this indemnification upon becoming aware of it.<br /><br
-          />\n\n23.\_USER DATA<br /><br />\n\nWe will maintain certain data that
+          />23. USER DATA<br /><br />We will maintain certain data that
           you transmit to the Site for the purpose of managing the performance
           of the Site, as well as data relating to your use of the Site.
           Although we perform regular routine backups of data, you are solely
@@ -618,8 +617,8 @@ sections:
           activity you have undertaken using the Site. You agree that we shall
           have no liability to you for any loss or corruption of any such data,
           and you hereby waive any right of action against us arising from any
-          such loss or corruption of such data.<br /><br />\n\n24.\_ELECTRONIC
-          COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES<br /><br />\n\nVisiting
+          such loss or corruption of such data.<br /><br />24. ELECTRONIC
+          COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES<br /><br />Visiting
           the Site, sending us emails, and completing online forms constitute
           electronic communications. You consent to receive electronic
           communications, and you agree that all agreements, notices,
@@ -633,13 +632,13 @@ sections:
           regulations, rules, ordinances, or other laws in any jurisdiction
           which require an original signature or delivery or retention of
           non-electronic records, or to payments or the granting of credits by
-          any means other than electronic means.<br /><br />\n\n25.\_CALIFORNIA
-          USERS AND RESIDENTS<br /><br />\n\nIf any complaint with us is not
+          any means other than electronic means.<br /><br />25. CALIFORNIA
+          USERS AND RESIDENTS<br /><br />If any complaint with us is not
           satisfactorily resolved, you can contact the Complaint Assistance Unit
           of the Division of Consumer Services of the California Department of
           Consumer Affairs in writing at 1625 North Market Blvd., Suite N 112,
           Sacramento, California 95834 or by telephone at (800) 952-5210 or
-          (916) 445-1254.26.\_<br /><br />\n\nMISCELLANEOUS<br /><br />\n\nThese
+          (916) 445-1254.26.<br /><br />MISCELLANEOUS<br /><br />These
           Terms of Use and any policies or operating rules posted by us on the
           Site or in respect to the Site constitute the entire agreement and
           understanding between you and us. Our failure to exercise or enforce
@@ -659,16 +658,16 @@ sections:
           construed against us by virtue of having drafted them. You hereby
           waive any and all defenses you may have based on the electronic form
           of these Terms of Use and the lack of signing by the parties hereto to
-          execute these Terms of Use.27.\_<br /><br />\n\nCONTACT US<br /><br
-          />\n\nIn order to resolve a complaint regarding the Site or to receive
+          execute these Terms of Use.27.<br /><br />CONTACT US<br /><br
+          />In order to resolve a complaint regarding the Site or to receive
           further information regarding use of the Site, please contact us
-          at:Büt Camp, Inc.357 Fannypack Dr.<br /><br />Blacksburg, VA 24061<br
-          /><br />United States<br /><br />Phone: +1-555-288-2267\_<br /><br
+          at:<br /><br />Büt Camp, Inc.357 Fannypack Dr.<br /><br />Blacksburg, VA 24061<br
+          /><br />United States<br /><br />Phone: +1-555-288-2267<br /><br
           />Email:info@bütcamp.com\n"
 
 
       - title: Privacy Policy
-        description: "Privacy Policy\r\n\_\r\nProtecting your private information is our priority. This Statement of Privacy applies to https://xn--btcamp-3ya.com/, and Büt Camp, Inc. and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Büt Camp, Inc. include https://xn--btcamp-3ya.com/ and BCI. The BCI website is a ecommerce site. By using the BCI website, you consent to the data practices described in this statement.\r\n\_\r\nPrivacy Compliance Certification\r\nBCI has B Corporation, International Organizations of Standards. (2020). 5912:2020 Camping tents — Requirements and test methods (ISO Standard No. 72895)., ASTM Standard D6400 - 19, “Standard Specification for Labeling of Plastics Designed to be Aerobically Composted in Municipal or Industrial Facilities.\" and GDPR certification.\r\n\_\r\nCollection of your Personal Information\r\nIn order to better provide you with products and services offered, BCI may collect personally identifiable information, such as your:\r\n\_\r\n\_-\tFirst and Last Name\r\n\_-\tMailing Address\r\n\_-\tE-mail Address\r\n\_\r\nIf you purchase BCI's products and services, we collect billing and credit card information. This information is used to complete the purchase transaction.\r\n\_\r\nWe do not collect any personal information about you unless you voluntarily provide it to us. However, you may be required to provide certain personal information to us when you elect to use certain products or services. These may include: (a) registering for an account; (b) entering a sweepstakes or contest sponsored by us or one of our partners; (c) signing up for special offers from selected third parties; (d) sending us an email message; (e) submitting your credit card or other payment information when ordering and purchasing products and services. To wit, we will use your information for, but not limited to, communicating with you in relation to services and/or products you have requested from us. We also may gather additional personal or non-personal information in the future.\r\n\_\r\nUse of your Personal Information\r\nBCI collects and uses your personal information to operate and deliver the services you have requested.\r\n\_\r\nBCI may also use your personally identifiable information to inform you of other products or services available from BCI and its affiliates.\r\n\_\r\nSharing Information with Third Parties\r\nBCI does not sell, rent or lease its customer lists to third parties.\r\n\_\r\nBCI may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to BCI, and they are required to maintain the confidentiality of your information.\r\n\_\r\nBCI may disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on BCI or the site; (b) protect and defend the rights or property of BCI; and/or (c) act under exigent circumstances to protect the personal safety of users of BCI, or the public.\r\n\_\r\nTracking User Behavior\r\nBCI may keep track of the websites and pages our users visit within BCI, in order to determine what BCI services are the most popular. This data is used to deliver customized content and advertising within BCI to customers whose behavior indicates that they are interested in a particular subject area.\r\n\_\r\nAutomatically Collected Information\r\nInformation about your computer hardware and software may be automatically collected by BCI. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the BCI website.\r\n\_\r\nUse of Cookies\r\nThe BCI website may use \"cookies\" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.\r\n\_\r\nOne of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize BCI pages, or register with BCI site or services, a cookie helps BCI to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same BCI website, the information you previously provided can be retrieved, so you can easily use the BCI features that you customized.\r\n\_\r\nYou have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the BCI services or websites you visit.\r\n\_\r\nSecurity of your Personal Information\r\nBCI secures your personal information from unauthorized access, use, or disclosure. BCI uses the following methods for this purpose:\r\n\_\r\n\_-\tSSL Protocol\r\n\_-\tData Trust\r\n\_\r\nWhen personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol.\r\n\_\r\nWe strive to take appropriate security measures to protect against unauthorized access to or alteration of your personal information. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, you acknowledge that: (a) there are security and privacy limitations inherent to the Internet which are beyond our control; and (b) security, integrity, and privacy of any and all information and data exchanged between you and us through this Site cannot be guaranteed.\r\n\_\r\nRight to Deletion\r\nSubject to certain exceptions set out below, on receipt of a verifiable request from you, we will:\r\n•\tDelete your personal information from our records; and\r\n•\tDirect any service providers to delete your personal information from their records.\r\n\_\r\nPlease note that we may not be able to comply with requests to delete your personal information if it is necessary to:\r\n•\tComplete the transaction for which the personal information was collected, fulfill the terms of a written warranty or product recall conducted in accordance with federal law, provide a good or service requested by you, or reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform a contract between you and us;\r\n•\tDetect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity; or prosecute those responsible for that activity;\r\n•\tDebug to identify and repair errors that impair existing intended functionality;\r\n•\tExercise free speech, ensure the right of another consumer to exercise his or her right of free speech, or exercise another right provided for by law;\r\n•\tComply with the California Electronic Communications Privacy Act;\r\n•\tEngage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when our deletion of the information is likely to render impossible or seriously impair the achievement of such research, provided we have obtained your informed consent;\r\n•\tEnable solely internal uses that are reasonably aligned with your expectations based on your relationship with us;\r\n•\tComply with an existing legal obligation; or\r\n•\tOtherwise use your personal information, internally, in a lawful manner that is compatible with the context in which you provided the information.\r\n\_\r\nChildren Under Thirteen\r\nBCI does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.\r\n\_\r\nE-mail Communications\r\nFrom time to time, BCI may contact you via email for the purpose of providing announcements, promotional offers, alerts, confirmations, surveys, and/or other general communication.\r\n\_\r\nIf you would like to stop receiving marketing or promotional communications via email from BCI, you may opt out of such communications by emailing us at info@bütcamp.com.\r\n\_\r\nExternal Data Storage Sites\r\nWe may store your data on servers provided by third party hosting vendors with whom we have contracted.\r\n\_\r\nChanges to this Statement\r\nBCI reserves the right to change this Privacy Policy from time to time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account, by placing a prominent notice on our website, and/or by updating any privacy information. Your continued use of the website and/or Services available after such modifications will constitute your: (a) acknowledgment of the modified Privacy Policy; and (b) agreement to abide and be bound by that Policy.\r\n\_\r\nContact Information\r\nBCI welcomes your questions or comments regarding this Statement of Privacy. If you believe that BCI has not adhered to this Statement, please contact BCI at:\r\n\_\r\nBüt Camp, Inc.\r\n357 Fannypack Dr.\r\nBlacksburg, Virginia 24061\r\n\_\r\nEmail Address:\r\ninfo@bütcamp.com\r\n\_\r\nTelephone number:\r\n\\+1-555-288-2267\r\n\_\r\nEffective as of December 01, 2021\n"
+        description: "Privacy Policy<br /><br />Protecting your private information is our priority. This Statement of Privacy applies to https://xn--btcamp-3ya.com/, and Büt Camp, Inc. and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Büt Camp, Inc. include https://xn--btcamp-3ya.com/ and BCI. The BCI website is a ecommerce site. By using the BCI website, you consent to the data practices described in this statement.<br /><br />Privacy Compliance Certification<br /><br />BCI has B Corporation, International Organizations of Standards. (2020). 5912:2020 Camping tents — Requirements and test methods (ISO Standard No. 72895)., ASTM Standard D6400 - 19, “Standard Specification for Labeling of Plastics Designed to be Aerobically Composted in Municipal or Industrial Facilities.\" and GDPR certification.<br /><br />Collection of your Personal Information<br /><br />In order to better provide you with products and services offered, BCI may collect personally identifiable information, such as your:<br /><br /> - First and Last Name -Mailing Address -E-mail Address<br /><br />If you purchase BCI's products and services, we collect billing and credit card information. This information is used to complete the purchase transaction.<br /><br />We do not collect any personal information about you unless you voluntarily provide it to us. However, you may be required to provide certain personal information to us when you elect to use certain products or services. These may include: (a) registering for an account; (b) entering a sweepstakes or contest sponsored by us or one of our partners; (c) signing up for special offers from selected third parties; (d) sending us an email message; (e) submitting your credit card or other payment information when ordering and purchasing products and services. To wit, we will use your information for, but not limited to, communicating with you in relation to services and/or products you have requested from us. We also may gather additional personal or non-personal information in the future.<br /><br />Use of your Personal Information<br /><br />BCI collects and uses your personal information to operate and deliver the services you have requested.<br /><br />BCI may also use your personally identifiable information to inform you of other products or services available from BCI and its affiliates.<br /><br />Sharing Information with Third Parties<br /><br />BCI does not sell, rent or lease its customer lists to third parties.<br /><br />BCI may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to BCI, and they are required to maintain the confidentiality of your information.<br /><br />BCI may disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on BCI or the site; (b) protect and defend the rights or property of BCI; and/or (c) act under exigent circumstances to protect the personal safety of users of BCI, or the public.<br /><br />Tracking User Behavior<br /><br />BCI may keep track of the websites and pages our users visit within BCI, in order to determine what BCI services are the most popular. This data is used to deliver customized content and advertising within BCI to customers whose behavior indicates that they are interested in a particular subject area.<br /><br />Automatically Collected Information<br /><br />Information about your computer hardware and software may be automatically collected by BCI. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the BCI website.<br /><br />Use of Cookies<br /><br />The BCI website may use \"cookies\" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.<br /><br />One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize BCI pages, or register with BCI site or services, a cookie helps BCI to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same BCI website, the information you previously provided can be retrieved, so you can easily use the BCI features that you customized.<br /><br />You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the BCI services or websites you visit.<br /><br />Security of your Personal Information<br /><br />BCI secures your personal information from unauthorized access, use, or disclosure. BCI uses the following methods for this purpose:\r\n\_\r\n\_-\tSSL Protocol\r\n\_-\tData Trust\r\n\_\r\nWhen personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol.\r\n\_\r\nWe strive to take appropriate security measures to protect against unauthorized access to or alteration of your personal information. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, you acknowledge that: (a) there are security and privacy limitations inherent to the Internet which are beyond our control; and (b) security, integrity, and privacy of any and all information and data exchanged between you and us through this Site cannot be guaranteed.\r\n\_\r\nRight to Deletion\r\nSubject to certain exceptions set out below, on receipt of a verifiable request from you, we will:\r\n•\tDelete your personal information from our records; and\r\n•\tDirect any service providers to delete your personal information from their records.\r\n\_\r\nPlease note that we may not be able to comply with requests to delete your personal information if it is necessary to:\r\n•\tComplete the transaction for which the personal information was collected, fulfill the terms of a written warranty or product recall conducted in accordance with federal law, provide a good or service requested by you, or reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform a contract between you and us;\r\n•\tDetect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity; or prosecute those responsible for that activity;\r\n•\tDebug to identify and repair errors that impair existing intended functionality;\r\n•\tExercise free speech, ensure the right of another consumer to exercise his or her right of free speech, or exercise another right provided for by law;\r\n•\tComply with the California Electronic Communications Privacy Act;\r\n•\tEngage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when our deletion of the information is likely to render impossible or seriously impair the achievement of such research, provided we have obtained your informed consent;\r\n•\tEnable solely internal uses that are reasonably aligned with your expectations based on your relationship with us;\r\n•\tComply with an existing legal obligation; or\r\n•\tOtherwise use your personal information, internally, in a lawful manner that is compatible with the context in which you provided the information.\r\n\_\r\nChildren Under Thirteen\r\nBCI does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.\r\n\_\r\nE-mail Communications\r\nFrom time to time, BCI may contact you via email for the purpose of providing announcements, promotional offers, alerts, confirmations, surveys, and/or other general communication.\r\n\_\r\nIf you would like to stop receiving marketing or promotional communications via email from BCI, you may opt out of such communications by emailing us at info@bütcamp.com.\r\n\_\r\nExternal Data Storage Sites\r\nWe may store your data on servers provided by third party hosting vendors with whom we have contracted.\r\n\_\r\nChanges to this Statement\r\nBCI reserves the right to change this Privacy Policy from time to time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account, by placing a prominent notice on our website, and/or by updating any privacy information. Your continued use of the website and/or Services available after such modifications will constitute your: (a) acknowledgment of the modified Privacy Policy; and (b) agreement to abide and be bound by that Policy.\r\n\_\r\nContact Information\r\nBCI welcomes your questions or comments regarding this Statement of Privacy. If you believe that BCI has not adhered to this Statement, please contact BCI at:\r\n\_\r\nBüt Camp, Inc.\r\n357 Fannypack Dr.\r\nBlacksburg, Virginia 24061\r\n\_\r\nEmail Address:\r\ninfo@bütcamp.com\r\n\_\r\nTelephone number:\r\n\\+1-555-288-2267\r\n\_\r\nEffective as of December 01, 2021\n"
     type: bulletpoints_section
   - section_id: lorem-ipsum
     address: '357 Fannypack Dr. Blacksburg, VA 24061'
