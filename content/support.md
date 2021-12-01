@@ -182,7 +182,7 @@ sections:
           ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida
           diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis
           justo.
-      - question: lorem-ipsum
+      - question: Can I make changes on a placed order?
         answer: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
           efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
