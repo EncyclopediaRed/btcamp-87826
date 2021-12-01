@@ -8,6 +8,9 @@ sections:
     subtitle: |
       Answers to all of your Büt needs
     type: header_section
+  - section_id: lorem-ipsum
+    questions: []
+    type: faq_section
 seo:
   title: ''
   description: ''
