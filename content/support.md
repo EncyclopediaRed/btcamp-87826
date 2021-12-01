@@ -11,7 +11,7 @@ sections:
   - section_id: lorem-ipsum
     questions:
       - question: How do I contact the BCI team?
-      - question: lorem-ipsum
+      - question: What is your return policy?
         answer: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
           efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
