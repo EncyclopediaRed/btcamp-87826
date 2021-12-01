@@ -31,6 +31,32 @@ sections:
 
           Blacksburg, VA 24061
       - question: What is your return policy?
+        answer: >
+          We’ll accept return requests for items that are unopened, unused, with
+          the original tags still intact. The product(s) must be in their
+          original packaging, if applicable, in the same condition it was
+          received.
+
+
+          We do not accept opened items.
+
+
+          If you wish to return your item, we must receive your request within
+          **30 days** of the date you received your item.
+
+
+          Once we receive your returned item, our team will review your request
+          and inspect the item. We will send you an email to confirm that we’ve
+          received your item and are processing your request. We’ll follow up
+          with another email once the request has been processed to let you know
+          if your return was approved.
+
+
+          If approved, the money will be refunded to your original method of
+          payment within two weeks. All payment companies are different in the
+          amount of time it takes to confirm a payment, so it will likely take a
+          minimum of a few days for the refund to show up in your bank
+          statement.
       - question: How long will my tent last?
         answer: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
