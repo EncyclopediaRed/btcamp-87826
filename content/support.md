@@ -11,6 +11,25 @@ sections:
   - section_id: lorem-ipsum
     questions:
       - question: How do I contact the BCI team?
+        answer: >
+          You can reach us multiple ways!
+
+
+
+
+          Call our customer support at +1-555-288-2267 or email us at
+          info@bütcamp.com.
+
+
+
+
+          If you're in the area, you can even stop by our offices at:
+
+
+          357 Fannypack Dr. 
+
+
+          Blacksburg, VA 24061
       - question: What is your return policy?
       - question: How long will my tent last?
         answer: >-
