@@ -48,7 +48,7 @@ sections:
     type: faq_section
   - section_id: lorem-ipsum
     bulletpoints:
-      - title: lorem-ipsum
+      - title: Terms & Conditions
         description: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
           efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
