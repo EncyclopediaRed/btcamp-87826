@@ -84,6 +84,12 @@ sections:
           diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis
           justo.
     type: bulletpoints_section
+  - section_id: lorem-ipsum
+    address: lorem-ipsum
+    phone: lorem-ipsum
+    email: lorem-ipsum
+    mapUrl: lorem-ipsum
+    type: contact_section
 seo:
   title: ''
   description: ''
