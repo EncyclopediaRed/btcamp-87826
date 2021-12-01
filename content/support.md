@@ -6,7 +6,11 @@ sections:
   - section_id: lorem-ipsum
     headline: Büt Support
     subtitle: |
-      Answers to all of your Büt needs
+      Answers to all of your Büt needs.
+
+
+
+      Please scroll to see our FAQ, Terms of Condition, and Privacy Policy.
     type: header_section
   - section_id: lorem-ipsum
     questions:
