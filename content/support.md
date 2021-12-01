@@ -129,7 +129,7 @@ sections:
       - title: Privacy Policy
     type: bulletpoints_section
   - section_id: lorem-ipsum
-    address: lorem-ipsum
+    address: '357 Fannypack Dr. Blacksburg, VA 24061'
     phone: lorem-ipsum
     email: lorem-ipsum
     mapUrl: lorem-ipsum
