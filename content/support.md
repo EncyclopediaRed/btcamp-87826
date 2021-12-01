@@ -5,18 +5,330 @@ white_header: false
 sections:
   - section_id: lorem-ipsum
     headline: Büt Support
-    subtitle: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    subtitle: |
+      Answers to all of your Büt needs
     type: header_section
+  - section_id: lorem-ipsum
+    questions:
+      - question: How do I contact the BCI team?
+      - question: What is your return policy?
+      - question: How long will my tent last?
+        answer: >-
+          Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
+          efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
+          pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque
+          imperdiet venenatis.
+                  
+          > Vestibulum ullamcorper risus auctor eleifend consequat.
+
+
+          ![Placeholder
+          Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+
+
+          In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet
+          nisl elementum fringilla. Pellentesque dapibus suscipit faucibus.
+          Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id
+          maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan
+          blandit consequat. Phasellus quis posuere quam.
+
+
+          Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum
+          ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna
+          leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo,
+          volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa
+          scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque.
+          In volutpat efficitur nulla, aliquam ornare lectus ultricies ac.
+          Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum
+          pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor
+          enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam.
+          Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam
+          ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida
+          diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis
+          justo.
+      - question: Is this product harmful to the environment?
+        answer: >-
+          Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
+          efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
+          pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque
+          imperdiet venenatis.
+                  
+          > Vestibulum ullamcorper risus auctor eleifend consequat.
+
+
+          ![Placeholder
+          Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+
+
+          In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet
+          nisl elementum fringilla. Pellentesque dapibus suscipit faucibus.
+          Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id
+          maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan
+          blandit consequat. Phasellus quis posuere quam.
+
+
+          Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum
+          ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna
+          leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo,
+          volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa
+          scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque.
+          In volutpat efficitur nulla, aliquam ornare lectus ultricies ac.
+          Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum
+          pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor
+          enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam.
+          Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam
+          ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida
+          diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis
+          justo.
+      - question: What are your shipping options?
+        answer: >-
+          Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
+          efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
+          pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque
+          imperdiet venenatis.
+                  
+          > Vestibulum ullamcorper risus auctor eleifend consequat.
+
+
+          ![Placeholder
+          Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+
+
+          In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet
+          nisl elementum fringilla. Pellentesque dapibus suscipit faucibus.
+          Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id
+          maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan
+          blandit consequat. Phasellus quis posuere quam.
+
+
+          Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum
+          ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna
+          leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo,
+          volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa
+          scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque.
+          In volutpat efficitur nulla, aliquam ornare lectus ultricies ac.
+          Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum
+          pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor
+          enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam.
+          Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam
+          ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida
+          diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis
+          justo.
+      - question: When will I receive my order?
+        answer: >-
+          Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
+          efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
+          pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque
+          imperdiet venenatis.
+                  
+          > Vestibulum ullamcorper risus auctor eleifend consequat.
+
+
+          ![Placeholder
+          Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+
+
+          In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet
+          nisl elementum fringilla. Pellentesque dapibus suscipit faucibus.
+          Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id
+          maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan
+          blandit consequat. Phasellus quis posuere quam.
+
+
+          Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum
+          ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna
+          leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo,
+          volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa
+          scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque.
+          In volutpat efficitur nulla, aliquam ornare lectus ultricies ac.
+          Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum
+          pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor
+          enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam.
+          Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam
+          ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida
+          diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis
+          justo.
+      - question: What do I do if I never receive my order?
+        answer: >-
+          Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
+          efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
+          pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque
+          imperdiet venenatis.
+                  
+          > Vestibulum ullamcorper risus auctor eleifend consequat.
+
+
+          ![Placeholder
+          Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+
+
+          In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet
+          nisl elementum fringilla. Pellentesque dapibus suscipit faucibus.
+          Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id
+          maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan
+          blandit consequat. Phasellus quis posuere quam.
+
+
+          Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum
+          ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna
+          leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo,
+          volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa
+          scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque.
+          In volutpat efficitur nulla, aliquam ornare lectus ultricies ac.
+          Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum
+          pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor
+          enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam.
+          Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam
+          ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida
+          diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis
+          justo.
+      - question: Can I make changes on a placed order?
+        answer: >-
+          Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
+          efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
+          pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque
+          imperdiet venenatis.
+                  
+          > Vestibulum ullamcorper risus auctor eleifend consequat.
+
+
+          ![Placeholder
+          Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+
+
+          In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet
+          nisl elementum fringilla. Pellentesque dapibus suscipit faucibus.
+          Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id
+          maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan
+          blandit consequat. Phasellus quis posuere quam.
+
+
+          Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum
+          ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna
+          leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo,
+          volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa
+          scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque.
+          In volutpat efficitur nulla, aliquam ornare lectus ultricies ac.
+          Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum
+          pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor
+          enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam.
+          Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam
+          ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida
+          diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis
+          justo.
+      - question: 'I forgot my password, what do I do?'
+        answer: >-
+          Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
+          efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
+          pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque
+          imperdiet venenatis.
+                  
+          > Vestibulum ullamcorper risus auctor eleifend consequat.
+
+
+          ![Placeholder
+          Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+
+
+          In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet
+          nisl elementum fringilla. Pellentesque dapibus suscipit faucibus.
+          Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id
+          maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan
+          blandit consequat. Phasellus quis posuere quam.
+
+
+          Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum
+          ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna
+          leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo,
+          volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa
+          scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque.
+          In volutpat efficitur nulla, aliquam ornare lectus ultricies ac.
+          Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum
+          pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor
+          enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam.
+          Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam
+          ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida
+          diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis
+          justo.
+      - question: lorem-ipsum
+        answer: >-
+          Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
+          efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
+          pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque
+          imperdiet venenatis.
+                  
+          > Vestibulum ullamcorper risus auctor eleifend consequat.
+
+
+          ![Placeholder
+          Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+
+
+          In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet
+          nisl elementum fringilla. Pellentesque dapibus suscipit faucibus.
+          Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id
+          maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan
+          blandit consequat. Phasellus quis posuere quam.
+
+
+          Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum
+          ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna
+          leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo,
+          volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa
+          scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque.
+          In volutpat efficitur nulla, aliquam ornare lectus ultricies ac.
+          Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum
+          pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor
+          enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam.
+          Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam
+          ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida
+          diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis
+          justo.
+    type: faq_section
+  - section_id: lorem-ipsum
+    bulletpoints:
+      - title: Terms & Conditions
+      - title: Privacy Policy
+        description: >-
+          Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
+          efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
+          pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque
+          imperdiet venenatis.
+                  
+          > Vestibulum ullamcorper risus auctor eleifend consequat.
+
+
+          ![Placeholder
+          Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+
+
+          In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet
+          nisl elementum fringilla. Pellentesque dapibus suscipit faucibus.
+          Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id
+          maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan
+          blandit consequat. Phasellus quis posuere quam.
+
+
+          Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum
+          ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna
+          leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo,
+          volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa
+          scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque.
+          In volutpat efficitur nulla, aliquam ornare lectus ultricies ac.
+          Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum
+          pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor
+          enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam.
+          Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam
+          ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida
+          diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis
+          justo.
+    type: bulletpoints_section
+  - section_id: lorem-ipsum
+    address: lorem-ipsum
+    phone: lorem-ipsum
+    email: lorem-ipsum
+    mapUrl: lorem-ipsum
+    type: contact_section
 seo:
   title: ''
   description: ''
