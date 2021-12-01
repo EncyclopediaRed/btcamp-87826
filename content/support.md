@@ -216,7 +216,7 @@ sections:
           ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida
           diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis
           justo.
-      - question: lorem-ipsum
+      - question: 'I forgot my password, what do I do?'
         answer: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
           efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
