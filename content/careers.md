@@ -10,6 +10,7 @@ sections:
     subtitle: >
      We are in the historic downtown of Blacksburg in southwest Virginia.  The town is rated among the best place to live, study and work in the country, adjacent to a world-class university and research institue.  In the middle of the New River valley, it is between the Blue Ridge and the Alleghany mountains, surrounded by many national parks.  Outdoor activities are countless and year-round.  The town has a mix of urban and country living.  
      </br> </br> <h2><b> Benefit </b></h2>  We offer Medical and Dental insurance, Paid Time Off and Holidays, Flexible Schedule, and Training Benefits. <br />
+     
 
   - type: header_section
     section_id: header_section
