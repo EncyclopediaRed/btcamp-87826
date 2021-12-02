@@ -97,7 +97,7 @@ sections:
         description: |
           And here's Quan! Quan enjoys cats, but not as much as his daughter.<br /><br />
 
-          For 20 years, he has woQuan is our computer engineer!
+          For 20 years, he has worked as a Quan is our computer engineer!
         image: images/Quan.jpg
       - title: Structure & Advisors
         description: >
