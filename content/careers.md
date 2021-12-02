@@ -60,8 +60,8 @@ sections:
          <li> Strong influencing skills and strong communications skills </li>
          <li> Local and federal government relations experience is a plus </li>
          </ul> <br />
-         <h4><b>Salary</b></h4> 60,000.00 - 70,000.00 per year </br>
-         
+         <h4><b>Salary</b></h4> 60,000.00 - 70,000.00 per year </br></br>
+         <h4><b>Hiring Time</b></h4> This position will be filled as soon as possible to speed up the creation of our Marketing Department </br>
       - title: Warehouse Operations Manager (immediate hiring)
         description: > 
          <h4><b>Responsibilies </b></h4>
