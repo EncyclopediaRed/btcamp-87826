@@ -76,7 +76,7 @@ sections:
          <li> Effective communications skills with customers and coworkers </li>
          </ul> <br />
          <h4><b>Salary</b></h4> 50,000.00 - 70,000.00 per year </br>
-      - title: Customer Support Specialist - full time or part time
+      - title: Customer Support Specialist - full time or part time (immediate hiring)
         description: > 
          <h4><b>Responsibilies </b></h4>
          <ul>
