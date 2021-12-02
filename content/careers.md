@@ -20,7 +20,7 @@ sections:
     section_id: bulletpoints_section
     headLine: Current Openings
     bulletpoints:
-      - title: Marketing Manager (immediate hiring)
+      - title: Marketing Manager 
         description: >
          <h4><b> Responsibilies </b></h4>
          <ul> 
