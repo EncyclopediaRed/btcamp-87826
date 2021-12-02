@@ -77,7 +77,7 @@ sections:
          <li> Computer experience using warehouse management software </li>
          <li> Effective communications skills with customers and coworkers </li>
          </ul> <br />
-         <h4><b>Salary</b></h4> 50,000.00 - 70,000.00 per year </br>
+         <h4><b>Salary</b></h4> 50,000.00 - 70,000.00 per year </br></br>
          <h4><b>Hiring Time</b></h4> This position will be filled as soon as possible </br>
       - title: Customer Support Specialist - full time or part time (immediate hiring)
         description: > 
