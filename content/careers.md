@@ -61,7 +61,7 @@ sections:
          <li> Local and federal government relations experience is a plus </li>
          </ul> <br />
          <h4><b>Salary</b></h4> 60,000.00 - 70,000.00 per year </br></br>
-         <h4><b>Hiring Time</b></h4> This position will be filled in  </br>
+         <h4><b>Hiring Time</b></h4> This position will be filled in one month  </br>
       - title: Warehouse Operations Manager (immediate hiring)
         description: > 
          <h4><b>Responsibilies </b></h4>
