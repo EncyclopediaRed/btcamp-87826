@@ -44,7 +44,7 @@ sections:
          </ul> <br />
          <h4><b>Salary</b></h4> 65,000.00 - 80,000.00 per year </br></br>
          <h4><b>Hiring Time</b></h4> This position will be filled as soon as possible to speed up the creation of our Marketing Department </br>
-      - title: Government Relations/Sales Manager (hiring in one month)
+      - title: Government Relations/Sales Manager
         description: > 
          <h4><b>Responsibilies </b></h4>
          <ul>
