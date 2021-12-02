@@ -97,7 +97,7 @@ sections:
         description: |
           And here's Quan! Quan enjoys cats, but not as much as his daughter.<br /><br />
 
-          For 20 years, he has worked as a network administrator, a Quan is our computer engineer!
+          For more than 20 years, he has worked as a network administrator, a Quan is our computer engineer!
         image: images/Quan.jpg
       - title: Structure & Advisors
         description: >
