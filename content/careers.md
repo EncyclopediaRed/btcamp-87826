@@ -43,7 +43,7 @@ sections:
          <li> Local and federal government relations experience is a plus </li>
          </ul> <br />
          <h4><b>Salary</b></h4> 65,000.00 - 80,000.00 per year </br></br>
-         <h4><b>Hiring Timeline</b></h4> This position will be  </br>
+         <h4><b>Hiring Timeline</b></h4> This position will be hired as quick as possible  </br>
       - title: Government Relations/Sales Manager (hiring in one month)
         description: > 
          <h4><b>Responsibilies </b></h4>
