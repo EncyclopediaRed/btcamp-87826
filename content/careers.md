@@ -79,7 +79,7 @@ sections:
          </ul> <br />
          <h4><b>Salary</b></h4> 50,000.00 - 70,000.00 per year </br></br>
          <h4><b>Hiring Time</b></h4> This position will be filled as soon as possible </br>
-      - title: Customer Support Specialist - full time or part time (immediate hiring)
+      - title: Customer Support Specialist - full time or part time
         description: > 
          <h4><b>Responsibilies </b></h4>
          <ul>
