@@ -96,7 +96,7 @@ sections:
          <li> Exellent communication skills, both orally and in writting </li>
          </ul> <br />
          <h4><b>Salary</b></h4> 30,000.00 - 45,000.00 per year </br></br>
-         
+         <h4><b>Hiring Time</b></h4> This position will be filled in one month </br>
 
 
 seo:
