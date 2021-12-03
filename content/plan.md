@@ -94,7 +94,7 @@ sections:
           increase preparation measures.<br /><br />
 
 
-          ![](/images/mordor-diaster.png)![](images/accordian-ae023624.png)
+          ![](/images/mordor-diaster.png)![](/images/accordian-ae023624.png)
 
 
           ![](images/grainger.png)<br /><br />
