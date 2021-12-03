@@ -97,7 +97,7 @@ sections:
         description: |
           And here's Quan! Quan enjoys cats, but not as much as his daughter.<br /><br />
 
-          For more than 20 years, he has worked as a network administrator, software engineer for start-up companies, a non-profit organization and the federal government.  Currently he is a senior software developer for the Bureau of Labl noa Quan is our computer engineer!
+          For more than 20 years, he has worked as a network administrator, software engineer for start-up companies, a non-profit organization and the federal government.  Currently he is a senior software developer for the Bureau of Lablor  noa Quan is our computer engineer!
         image: images/Quan.jpg
       - title: Structure & Advisors
         description: >
