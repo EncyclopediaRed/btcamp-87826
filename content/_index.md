@@ -7,10 +7,12 @@ sections:
     section_id: hero_section
     background_image: images/AdobeStock_114985546_edited2.jpg
     background_image_opacity: 65
-    content: |
+    content: >
       # Büt Camp Temporary Emergency Shelters
 
-      Biodegradable and lightweight. Piece of mind is sheltered here.
+
+      Our shelter is biodegradable and lightweight. Piece of mind is sheltered
+      here.
     actions:
       - title: See all items
         url: /store
