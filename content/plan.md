@@ -170,7 +170,7 @@ sections:
           # Pricing<br /><br />
 
 
-          ![](images/pricing.png)<br /><br />
+          ![](/images/pricing.png)<br /><br />
 
 
           # Expenses and Operating Capital<br /><br />
