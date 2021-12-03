@@ -182,7 +182,7 @@ sections:
           # Financial Plan<br /><br />
 
 
-          ![](images/financialplan.png)<br /><br />
+          ![](/images/financialplan.png)<br /><br />
 
 
           ### Notes<br /><br />
