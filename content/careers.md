@@ -10,6 +10,7 @@ sections:
     subtitle: >
      We are in the historic downtown of Blacksburg in southwest Virginia.  The town is rated among the best place to live, study and work in the country, adjacent to a world-class university and research institue.  In the middle of the New River valley, it is between the Blue Ridge and the Alleghany mountains, surrounded by many national parks.  Outdoor activities are countless and year-round.  The town has a mix of urban and country living.  
      </br> </br> <h2><b> Benefit </b></h2>  We offer Medical and Dental insurance, Paid Time Off and Holidays, Flexible Schedule, and Training Benefits. <br />
+     </br> </br> <h2><b> How to apply </b></h2>  Please send your resume to careers@bütcamp.com. <br />
 
   - type: header_section
     section_id: header_section
@@ -41,7 +42,8 @@ sections:
          <li> Strong analytical skills </li>
          <li> Local and federal government relations experience is a plus </li>
          </ul> <br />
-         <h4><b>Salary</b></h4> 65,000.00 - 80,000.00 per year </br>
+         <h4><b>Salary</b></h4> 65,000.00 - 80,000.00 per year </br></br>
+         <h4><b>Hiring Time</b></h4> This position will be filled as soon as possible to speed up the creation of our Marketing Department </br>
       - title: Government Relations/Sales Manager
         description: > 
          <h4><b>Responsibilies </b></h4>
@@ -58,7 +60,8 @@ sections:
          <li> Strong influencing skills and strong communications skills </li>
          <li> Local and federal government relations experience is a plus </li>
          </ul> <br />
-         <h4><b>Salary</b></h4> 60,000.00 - 70,000.00 per year </br>
+         <h4><b>Salary</b></h4> 60,000.00 - 70,000.00 per year </br></br>
+         <h4><b>Hiring Time</b></h4> This position will be filled in one month </br>
       - title: Warehouse Operations Manager
         description: > 
          <h4><b>Responsibilies </b></h4>
@@ -74,7 +77,8 @@ sections:
          <li> Computer experience using warehouse management software </li>
          <li> Effective communications skills with customers and coworkers </li>
          </ul> <br />
-         <h4><b>Salary</b></h4> 50,000.00 - 70,000.00 per year </br>
+         <h4><b>Salary</b></h4> 50,000.00 - 70,000.00 per year </br></br>
+         <h4><b>Hiring Time</b></h4> This position will be filled as soon as possible </br>
       - title: Customer Support Specialist - full time or part time
         description: > 
          <h4><b>Responsibilies </b></h4>
@@ -88,10 +92,13 @@ sections:
          <ul>
          <li> High School diploma or equivalent </li>
          <li> Computer experience using customer services software </li>
+         <li> Knowledge of social media channels like YouTube, Facebook, Twitter, etc. 
+         </li>
          <li> Ability to work independently </li>
          <li> Exellent communication skills, both orally and in writting </li>
          </ul> <br />
-         <h4><b>Salary</b></h4> 30,000.00 - 45,000.00 per year </br>
+         <h4><b>Salary</b></h4> 30,000.00 - 45,000.00 per year </br></br>
+         <h4><b>Hiring Time</b></h4> This position will be filled as soon as possible </br>
 
 
 seo:
