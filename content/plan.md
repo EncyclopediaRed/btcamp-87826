@@ -164,7 +164,7 @@ sections:
           # Material Costs<br /><br />
 
 
-          ![](images/materialcost.png)<br /><br />
+          ![](/images/materialcost.png)<br /><br />
 
 
           # Pricing<br /><br />
