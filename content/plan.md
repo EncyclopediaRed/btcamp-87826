@@ -71,7 +71,7 @@ sections:
 
 
 <<<<<<< HEAD
-          ![](/images/targetcustomer.png) <br /><br />
+          ![](/images/targetcustomer.png) <br /><br />                        
 =======
           ![target customer table](btcamp-87826/static/images/targetcustomer.png) <br /><br />
 >>>>>>> 6544af79fbef1fe26fd0abf2879480262f0aeb97
