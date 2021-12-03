@@ -27,7 +27,7 @@ sections:
           well as how the final product can be recycled too!
 
 
-          <br /><br /> ![](images/PLA-lifecycle.png) <br /><br />Zhang, Y.
+          <br /><br /> ![PLA lifecycle](static/images/PLA-lifecycle.png) <br /><br />Zhang, Y.
           (2021). “[Eight advantages and Four disadvantages of the polylactic
           acid
           (PLA).](https://www.linkedin.com/pulse/eight-advantages-four-disadvantages-polylactic-acid-pla-yewtree-zhang)”
