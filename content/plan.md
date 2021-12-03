@@ -116,7 +116,7 @@ sections:
           that come with the product.<br /><br />
 
 
-          ![](/images/mordor-camping.png)![](/images/bivy-4bb78fd8.png)![](images/sheltersneakers-eabfaa96.png)
+          ![](/images/mordor-camping.png)![](/images/bivy-4bb78fd8.png)![](/images/sheltersneakers-eabfaa96.png)
       - title: Operations
         description: "**Production**<br /><br />Compost Bag China (CBC) is our manufacturer and expert in PLA film.\n\nCBC creates several sheets of PLA film. The top of which is two sheets heat-stamped together in a pattern to create an air channel to allow for inflation of the tent. <br /><br />Ascreen and floor are also produced with the same material. The floor is heat-sealed to the top portion of the tent, and the screen is kept separate until the customer constructs it in the field. The screen adheres to the tent's opening via a mild tacky glue strip on one side of the opening and two ties on the other side. The ties are strips of PLA hardened to allow for tying and untying.<br /><br />
         The cost per tent to manufacture is $8.50/unit.<br /><br />
