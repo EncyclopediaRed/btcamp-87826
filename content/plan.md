@@ -176,7 +176,7 @@ sections:
           # Expenses and Operating Capital<br /><br />
 
 
-          ![](images/expenses-67f98254.png)<br /><br />
+          ![](/images/expenses-67f98254.png)<br /><br />
 
 
           # Financial Plan<br /><br />
