@@ -97,7 +97,7 @@ sections:
           ![](/images/mordor-diaster.png)![](/images/accordian-ae023624.png)
 
 
-          ![](images/grainger.png)<br /><br />
+          ![](/images/grainger.png)<br /><br />
 
 
           ## Camping Equipment<br /><br />
