@@ -97,7 +97,7 @@ sections:
         description: |
           And here's Quan! Quan enjoys cats, but not as much as his daughter.<br /><br />
 
-          For more than 20 years, he has worked as a network and system administrator, a software engineer for start-up companies, a non-profit organization and the federal government.Currently he is a senior software developer at the Bureau of Lablor Statistics. <br /><br />
+          For more than 20 years, he has worked as a network and system administrator, a software engineer for start-up companies, a non-profit organization and the federal government. Currently he is a senior software developer at the Bureau of Lablor Statistics. <br /><br />
           
           Quan is our computer engineer!
         image: images/Quan.jpg
