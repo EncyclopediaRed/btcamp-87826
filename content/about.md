@@ -44,7 +44,7 @@ sections:
     section_id: bulletpoints_section
     headLine: Meet the Team
     bulletpoints:
-      - title: [Rob Barrowclift](https://www.linkedin.com/in/robertbarrowclift/)
+      - title: Rob Barrowclift
         description: >
           Meet Rob! Our lead web developer and financial pro, Rob is essential
           to our success. Just look at that rampant enthusiasm!<br /><br />
@@ -56,7 +56,7 @@ sections:
           For the last six years Rob has been an IT, Business Planning, and
           Graphics Design Consultant in RVA. He enjoys helping small businesses
           reach their potential while saving money and planning for the future.
-        image: images/ROB_TXB_opt.png
+        [image: images/ROB_TXB_opt.png](https://www.linkedin.com/in/robertbarrowclift/)
       - title: Alex Kinnaman
         description: >
           This is Alex! Alex is the PLA expert and designs many of our products
