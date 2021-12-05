@@ -282,6 +282,40 @@ sections:
           ![](images/butcampdatatrust.png)
       - title: References
         description: "*   Ada Lovelace Institute and AI Council. (2021). “Data trusts.” Exploring legal mechanisms for data stewardship. Retrieved from <https://www.adalovelaceinstitute.org/feature/data-trusts/>\_\n\n*   Artyushina, A. (2020). “The EU is launching a market for personal data. Here’s what that means for privacy.” MIT Technology Review. Retrieved from <https://www.technologyreview.com/2020/08/11/1006555/eu-data-trust-trusts-project-privacy-policy-opinion/>\_\n\n*   Balkan, J., and Zittrain, J. (2016). “A Grand Bargain to Make Tech Companies Trustworthy.” The Atlantic. Retrieved from2 <https://www.theatlantic.com/technology/archive/2016/10/information-fiduciary/502346/>\_\n\n*   Delacroix, S and Lawrence, N. (2019). “Bottom-up data Trusts: disturbing the ‘one size fits all’ approach to data governance.” \\*International Data Privacy Law, \\*9(4) pp. 236–252. DOI <https://doi.org/10.1093/idpl/ipz014>\_\n\n*   Desmond, J. (2021). “Data trusts forming as alternate model of protecting data privacy.” AI Trends. Retrieved from <https://www.aitrends.com/data-privacy-and-security/data-trusts-forming-as-alternate-model-of-protecting-data-privacy/>\_\n\n*   Diaz, J. (2020). “Amazon, TikTok, Facebook, Others Ordered To Explain What They Do With User Data.” NPR Radio. Retrieved from \_<https://www.npr.org/2020/12/15/946583479/amazon-tiktok-facebook-others-ordered-to-explain-what-they-do-with-user-data>\_\n\n*   Emanuel, R. (2020). “Why eCommerce Data Matters (and how to use it).” Parkfield Commerce. Retrieved from <https://www.parkfieldcommerce.com/post/why-ecommerce-data-matters>\_\n\n*   Gold, R., Ambrosini, S., London, R., and Lauck, M. (2019). “Silicon Valley Regional Data Trust: A Scalable Model for Improving Educational Outcomes and Well-Being for Children and Families.” National Interoperability Collaborative. Retrieved from <https://nic-us.org/wp-content/uploads/2019/03/NIC-CA-SVRDT-AScalableModel.pdf>\_\n\n*   H.R.4240 - 117th Congress (2021-2022): User Data Protection Act. (2021, June 29). <https://www.congress.gov/bill/117th-congress/house-bill/4240>\_\n\n*   Hardings, J. (2020). “Data trusts in 2020.” Open Data Institute. Retrieved from <https://theodi.org/article/data-trusts-in-2020/>\n\n*   Janiszewska-Kiewra, E., Podlesny, J., and Soller, H. (2020). “Ethical data usage in an era of digital technology and regulation.” McKinsey Digital. Retrieved from <https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-forward/warp-speed-how-gpus-can-enable-large-scale-healthcare-enterprise-applications>\n\n*   Kemp, R. (2019). “Data trusts and frameworks are gaining traction and on the cusp of widespread adoption.” Kemp IT Law. Retrieved from <https://www.kempitlaw.com/data-trusts-and-frameworks-are-gaining-traction-and-on-the-cusp-of-widespread-adoption/>\_\_Zarkadakis, G. (2020). “”Data trusts” could be the key to better AI.” Harvard Business Review. Retrieved from <https://hbr.org/2020/11/data-trusts-could-be-the-key-to-better-ai>\n\n*   McNealy, J. (n.d.). “A framework for data trusts.” Stanford PACS. Retrieved from <https://pacscenter.stanford.edu/research/digital-civil-society-lab/a-framework-for-data-trusts/>\_\n\n*   Purtova, N. (2017). “Do property rights in personal data make sense after the Big Data turn: Individual control and transparency.” Journal of Law and Economic Regulation, 10(2). <https://ssrn.com/abstract=3070228>\n\n*   Ruhaak, A. (2019). “Data trusts: why, what and how.” Anouk Ruhaak. \\[personal blog]. Retrieved from <https://medium.com/@anoukruhaak/data-trusts-why-what-and-how-a8b53b53d34>\_\n\n*   Scassa, T. (2019). “ Enforcement powers key to PIPEDA reform: Reforms to the Personal Information Protection and Electronic Documents Act must give the privacy commissioner real enforcement powers.” Policy Options Politiques. Retrieved from <https://policyoptions.irpp.org/magazines/june-2018/enforcement-powers-key-pipeda-reform/>\_\n\n*   Voznick, N. (2019). “UK: The first data trust pilot projects.” One Trust Data Guidance. Retrieved from <https://www.dataguidance.com/opinion/uk-first-data-trust-pilot-projects>\n\n*   Wylie, B., and McDonald, S. (2018). “What is a data trust?” Centre for International Governance Innovation. Retrieved from <https://www.cigionline.org/articles/what-data-trust/>\n"
+      - title: lorem-ipsum
+        description: >-
+          Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
+          efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
+          pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque
+          imperdiet venenatis.
+                  
+          > Vestibulum ullamcorper risus auctor eleifend consequat.
+
+
+          ![Placeholder
+          Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+
+
+          In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet
+          nisl elementum fringilla. Pellentesque dapibus suscipit faucibus.
+          Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id
+          maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan
+          blandit consequat. Phasellus quis posuere quam.
+
+
+          Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum
+          ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna
+          leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo,
+          volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa
+          scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque.
+          In volutpat efficitur nulla, aliquam ornare lectus ultricies ac.
+          Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum
+          pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor
+          enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam.
+          Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam
+          ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida
+          diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis
+          justo.
     type: bulletpoints_section
 seo:
   title: ''
