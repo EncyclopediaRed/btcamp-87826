@@ -9,7 +9,7 @@ sections:
     headline: Join Büt Camp
     subtitle: >
      We are in the historic downtown of Blacksburg in southwest Virginia.  The town is rated among the best places to live, study and work in the country, adjacent to a world-class university and research institue.  In the middle of the New River valley, it is between the Blue Ridge and the Alleghany mountains, surrounded by many national parks.  Outdoor activities are countless and year-round.  The town has a mix of urban and country living.  
-     </br> </br> <h2><b> Benefits </b></h2>  We offer Medical and Dental insurance, Paid Time Off and Holidays, Flexible Schedule, and Training Benefits. <br />
+     </br> </br> <h2><b> Benefits </b></h2>  We offer exciting work opportunities since we have small cross functional teams, flexible work schedule with liberal Remote Work policy, Paid Health Insurance for Employees and their loved ones, 401k with employer matching from Day 1, fitness allowance to subsidize your Gym fees, Long term and short term disability insurance, as well as Paid Time Off and Holidays. <br />
      </br> </br> <h2><b> How to apply </b></h2>  Please send your resume to careers@bütcamp.com. <br />
 
   - type: header_section
