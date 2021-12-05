@@ -107,7 +107,7 @@ sections:
 
           Quan is our computer engineer!
         image: images/Quan.jpg
-      - title: Structure & Advisors
+      - title: Structure
         description: >
           We are a [**Certified B Corporation**](https://bcorporation.net)
           registered in Virginia.
