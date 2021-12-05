@@ -14,7 +14,7 @@ sections:
       emergency using simple, easily dispensed, highly mobile, inflatable
       cornstarch-based tents stored in a waist bag (fanny pack) or a similar
       small vessel. &#xA; <br /><br /> 
-      
+
       **Vision** <br /><br />
 
       We envision the Büt Camp biodegradable cornstarch-based polylactic acid
@@ -94,25 +94,28 @@ sections:
           and system architecture. 
         image: images/pat.jpg
       - title: Quan Nguyen
-        description: |
-          And here's Quan! Quan enjoys cats, but not as much as his daughter.<br /><br />
+        description: >
+          And here's Quan! Quan enjoys cats, but not as much as his daughter.<br
+          /><br />
 
-          For more than 20 years, he has worked as a network and system engineer, a software engineer for start-up companies, a non-profit organization and the federal government.  Currently he is a senior software developer at the Bureau of Labor Statistics. <br /><br />
-          
+
+          For more than 20 years, he has worked as a network and system
+          engineer, a software engineer for start-up companies, a non-profit
+          organization and the federal government.  Currently he is a senior
+          software developer at the Bureau of Labor Statistics. <br /><br />
+
+
           Quan is our computer engineer!
         image: images/Quan.jpg
       - title: Structure & Advisors
         description: >
           We are a [**Certified B Corporation**](https://bcorporation.net)
-          registered in Virginia.<br /><br />
+          registered in Virginia.
 
           Büt Camp, Inc. has passed its B Certification exam with an overall
-          score of 92.<br /><br />
+          score of 92.
 
-          Our four-member team shares an equal 25% Ownership.<br /><br />
-
-          We are advised by our Partners, featured below, as well as a
-          \*\*\*\*\*
+          Our four-member team shares an equal 25% Ownership.
 
           A near-future vision of 10-15 employees to assist with inventory,
           bookkeeping, sales, support and returns, and government liaison.
