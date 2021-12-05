@@ -75,7 +75,7 @@ sections:
           # Competitors<br /><br />
 
 
-          ## Emergency and Disaster Response<br /><br />
+          ## Competitor 1: Emergency and Disaster Response<br /><br />
 
 
           Companies selling disaster recovery and emergency preparedness
@@ -100,7 +100,7 @@ sections:
           ![](/images/grainger.png)<br /><br />
 
 
-          ## Camping Equipment<br /><br />
+          ## Competitor 2: Camping Equipment<br /><br />
 
 
           Companies selling camping equipment are another primary competitor for
@@ -120,10 +120,10 @@ sections:
       - title: Operations
         description: "**Production**<br /><br />[Compost Bag China (CBC)](https://compostbagchina.com) is our manufacturer and expert in PLA film.\n\nCBC creates several sheets of PLA film. The top of which is two sheets heat-stamped together in a pattern to create an air channel to allow for inflation of the tent. <br /><br />Ascreen and floor are also produced with the same material. The floor is heat-sealed to the top portion of the tent, and the screen is kept separate until the customer constructs it in the field. The screen adheres to the tent's opening via a mild tacky glue strip on one side of the opening and two ties on the other side. The ties are strips of PLA hardened to allow for tying and untying.<br /><br />The cost per tent to manufacture is **$8.50/unit.**<br /><br />
         **Quality Control**<br /><br /> <br /><br />
-        QC is performed by our Chinese liaison [ODM Group](https://www.odm-pro.com) as part of our contract with them. ODM works directly with the manufacturer to hold to ISO Standards1 and ASTM Standards (2) for durability, functionality as a tent, and biodegradability of the PLA film and finished product. <br /><br />ODM Group is our direct contact for:<li>Representative office in Zhuha</li><li>Product sourcing</li><li>QC reporting <br /><br />**Inventory**<br /><br /> No raw materials are kept on hand. All material is sourced through ODM Group and sent directly to the manufacturer in China, Compost Bag China.\n\n$85,000 (10,000 units) are kept on hand in a rented storage facility.<br /><br />We keep roughly two (2) months of inventory on hand.<br /><br />Though there is no seasonal activity at the moment, we anticipate future seasonal bumps in sales during:<li>Hurricane season on the East Coast of the U.S</li><li>June 1 - November 303</li><li>Fire season in California</li><li>June-April (2 Seasons overlapping)4</li)<br /><br />The lead time for ordering more inventory is 45 days.<br /><br />
+        QC is performed by our Chinese liaison [ODM Group](https://www.odm-pro.com) as part of our contract with them. ODM works directly with the manufacturer to hold to ISO Standards1 and ASTM Standards (2) for durability, functionality as a tent, and biodegradability of the PLA film and finished product. <br /><br />ODM Group is our direct contact for:<li>Representative office in Zhuha</li><li>Product sourcing</li><li>QC reporting <br /><br />**Inventory**<br /><br /> No raw materials are kept on hand. All material is sourced through ODM Group and sent directly to the manufacturer in China, Compost Bag China.\n\n$85,000 (10,000 units) are kept on hand in a rented storage facility.<br /><br />We keep roughly two (2) months of inventory on hand.<br /><br />Though there is no seasonal activity at the moment, we anticipate future seasonal bumps in sales during:<li>Hurricane season on the East Coast of the U.S - June 1 - November 303</li><li>Fire season in California - June-April (2 Seasons overlapping)</li><br /><br />The lead time for ordering more inventory is 45 days.<br /><br />
         **Suppliers & Partners**<br /><br /> 
         **[ODM Group](https://www.odm-pro.com)**<br />Hung Chu Bldg, Jida Jiuzhou Avenue<br />Shuhai 519015, China<br /><br />
-        **Chinese Manufacturer Liaison [Compost Bag China (CBC)](https://compostbagchina.com)**<br /><br /> Shandong Province, China<br /><br />
+        **Chinese Manufacturer Liaison [Compost Bag China (CBC)](https://compostbagchina.com)**<br />Shandong Province, China<br /><br />
         CBC requires payment upfront for order volumes of our size, and delivery is made after inspection via shipping container.<br /><br /> Due to COVID-19, customs has been slower to receive shipments, but we don’t foresee significant delays in time to receipt, except in the months of January/February during the Chinese Lunar New Year. <br /><br />
         **Notes:**<br /><br />
         International Organizations of Standards. (2020). 5912:2020 Camping tents — Requirements and test methods (ISO Standard No. 72895). Retrieved from https://www.iso.org/standard/72895.html\n\n2.  ASTM Standard D6400 - 19, “Standard Specification for Labeling of Plastics Designed to be Aerobically Composted in Municipal or Industrial Facilities. “ ASTM International, West. Conshohocken, PA,.2019, DOI: 10.1520/D6400-19. Retrieved from https://www.astm.org/Standards/D6400.htm\n\n3.  National Oceanic and Atmospheric Administration. (n.d.) “Tropical Cyclone Climatology.” National Hurricane Center and Central Pacific Hurricane Center. Retrieved from https://www.nhc.noaa.gov/climo/\n\n4.  Yufang, J. et. al.(2015). “Identification of two distinct fire regimes in Southern California: implications for economic impact and future change.” Environmental Research Letters, 10(9). Retrieved from https://iopscience.iop.org/article/10.1088/1748-9326/10/9/094005\n"
