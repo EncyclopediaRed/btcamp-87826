@@ -100,12 +100,13 @@ sections:
          <h4><b>Salary</b></h4> 30,000.00 - 45,000.00 per year </br></br>
          <h4><b>Hiring Time</b></h4> This position will be filled as soon as possible </br>
 
-- section_id: lorem-ipsum
+- type: contact_section
+    section_id: lorem-ipsum
     address: '357 Fannypack Dr. Blacksburg, VA 24061'
     phone: +1-555-288-2267
     email: info@bütcamp.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
-    type: contact_section
+    
 seo:
   title: ''
   description: ''
