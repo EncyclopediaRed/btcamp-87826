@@ -166,7 +166,7 @@ sections:
             <li>QC reporting</li>
           </ul>
         image: images/odmgroup.jpeg
-      - title: lorem-ipsum
+      - title: Advisors
         description: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
           efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
