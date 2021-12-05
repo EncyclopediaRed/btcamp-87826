@@ -13,72 +13,14 @@ sections:
     bulletpoints:
       - title: Find Us Anywhere!
         description: >-
-          Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
-          efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
-          pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque
-          imperdiet venenatis.
-                  
-          > Vestibulum ullamcorper risus auctor eleifend consequat.
-
-
-          ![Placeholder
-          Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
-
-
-          In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet
-          nisl elementum fringilla. Pellentesque dapibus suscipit faucibus.
-          Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id
-          maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan
-          blandit consequat. Phasellus quis posuere quam.
-
-
-          Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum
-          ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna
-          leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo,
-          volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa
-          scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque.
-          In volutpat efficitur nulla, aliquam ornare lectus ultricies ac.
-          Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum
-          pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor
-          enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam.
-          Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam
-          ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida
-          diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis
-          justo.
+          Call Us! +1-555-288-2267<br />
+          Email Us! info.butcamp.com<br />
+          Apply to Work with Us! careers@butcamp.com<br />
+          Visit our Offices! 357 Fannypack Dr. Blacksburg, VA 24061<br />
+          Provide Feedback! <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScqyfJpyYEMwDUy81ZctaZYGe6IZ7yDZdkz7p-g8d5vf5pXQQ/viewform?embedded=true" width="640" height="1406" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
       - title: Follow Us on Twitter!
         description: >-
-          Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
-          efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
-          pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque
-          imperdiet venenatis.
-                  
-          > Vestibulum ullamcorper risus auctor eleifend consequat.
-
-
-          ![Placeholder
-          Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
-
-
-          In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet
-          nisl elementum fringilla. Pellentesque dapibus suscipit faucibus.
-          Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id
-          maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan
-          blandit consequat. Phasellus quis posuere quam.
-
-
-          Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum
-          ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna
-          leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo,
-          volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa
-          scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque.
-          In volutpat efficitur nulla, aliquam ornare lectus ultricies ac.
-          Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum
-          pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor
-          enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam.
-          Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam
-          ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida
-          diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis
-          justo.
+          <a class="twitter-timeline" href="https://twitter.com/ButcampInc?ref_src=twsrc%5Etfw">Tweets by ButcampInc</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     type: bulletpoints_section
 seo:
   title: ''
