@@ -119,6 +119,8 @@ sections:
 
           A near-future vision of 10-15 employees to assist with inventory,
           bookkeeping, sales, support and returns, and government liaison.
+      - title: Advisors
+        description: "\nIn addition to support from our Partners, featured below, BCI currently enlists two advisors.\n\n**Advisor Shakira Ross, E-Commerce Customer Success, and Digital Advertising **\n\nShakira joined our small group of advisors. She is an independent, highly motivated professional with a proven track record. She assists with E-Commerce Marketing strategies to advise us on cost-effective social media partnerships, and to help enlist celebrity product influencers. She is currently on the boards of many successful startups such as Pinterest and Twitter.\n\n\_\n\n**Advisor Tony Pearson, Fundraising **\n\nTony has been advising the But Camp team in establishing connections with venture capitalists, private high net worth investors in our company to raise funds for the company's growth, and to build additional capabilities in distribution logistics\n\n\n\nIn the future, we envision having a full advisory board to increase our partnerships with government entities, corporations, and international groups.\n"
       - title: 'Partner: Compost Bag China'
         description: >
           Website: <https://compostbagchina.com><br /><br />  Location: Shandong
@@ -166,8 +168,6 @@ sections:
             <li>QC reporting</li>
           </ul>
         image: images/odmgroup.jpeg
-      - title: Advisors
-        description: "\nIn addition to support from our Partners, featured below, BCI currently enlists two advisors.\n\n**Advisor Shakira Ross, E-Commerce Customer Success, and Digital Advertising **\n\nShakira joined our small group of advisors. She is an independent, highly motivated professional with a proven track record. She assists with E-Commerce Marketing strategies to advise us on cost-effective social media partnerships, and to help enlist celebrity product influencers. She is currently on the boards of many successful startups such as Pinterest and Twitter.\n\n\_\n\n**Advisor Tony Pearson, Fundraising **\n\nTony has been advising the But Camp team in establishing connections with venture capitalists, private high net worth investors in our company to raise funds for the company's growth, and to build additional capabilities in distribution logistics\n\n\n\nIn the future, we envision having a full advisory board to increase our partnerships with government entities, corporations, and international groups.\n"
   - type: promotion_section
     section_id: promotion_section
     title: A new alternative for temporary shelter
