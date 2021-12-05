@@ -22,7 +22,7 @@ sections:
         description: >-
           <a class="twitter-timeline" href="https://twitter.com/ButcampInc?ref_src=twsrc%5Etfw">Tweets by ButcampInc</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     type: bulletpoints_section
-    - section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     address: '357 Fannypack Dr. Blacksburg, VA 24061'
     phone: +1-555-288-2267
     email: info@bütcamp.com
