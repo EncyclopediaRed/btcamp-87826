@@ -11,8 +11,6 @@ sections:
       All right, friends. Let’s do this. This section will cover basic,
       frequently asked questions about polylactic acid (PLA), and why it's
       essential to the future of temporary products.
-
-
   - type: faq_section
     section_id: faq_section
     questions:
@@ -26,33 +24,21 @@ sections:
           well as how the final product can be recycled too!
 
 
-          <br /><br /> ![PLA lifecycle](static/images/PLA-lifecycle.png) <br /><br />Zhang, Y.
-          (2021). “[Eight advantages and Four disadvantages of the polylactic
-          acid
-          (PLA).](https://www.linkedin.com/pulse/eight-advantages-four-disadvantages-polylactic-acid-pla-yewtree-zhang)”
-          LinkedIn.
+          <br /><br /><br /><br />
       - question: How is PLA different from other plastics?
         answer: >
           Most plastics are derived from the distillation and polymerization of
           nonrenewable petroleum reserves. Plastics that are derived from
           biomass (e.g., PLA) are known as “bioplastics.¹”
       - question: What are the primary features of PLA?
-        answer: >
-          *   Non-petroleum-based
-          plastic
-
+        answer: |
+          *   Non-petroleum-based plastic
           *   Derived from vegetable products
-
           *   Naturally degrades when exposed to the environment
-
           *   Can be produced from pre-existing manufacturing equipment
-
           *   Lower melting temperature (cannot hold a hot liquid)
-
           *   High permeability (not for long-term storage)
-
           *   Non-toxic (and therefore safe for food) <br /><br />
-
           ![](/images/PLA-biodegradation-63b2625d.png)
       - question: What is PLA used for (other than awesome tents)?
         answer: >+
