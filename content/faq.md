@@ -13,7 +13,6 @@ sections:
       essential to the future of temporary products.
 
 
-      [Chemical makeup diagram of PLA](/images/PLA-chem-32827030.png)
   - type: faq_section
     section_id: faq_section
     questions:
