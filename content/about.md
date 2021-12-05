@@ -59,7 +59,7 @@ sections:
         image: images/ROB_TXB_opt.png
       - title: Alex Kinnaman
         description: >
-          This is Alex! Alex is the PLA expert and designs many of our products
+          [This is Alex!](https://www.linkedin.com/in/alex-kinnaman-140097104/) Alex is the PLA expert and designs many of our products
           and has a passion for preservation. She is also an expert in digital
           preservation and ensures our research and impact last far longer than
           our biodegradable products!<br /><br />
@@ -79,7 +79,7 @@ sections:
         image: images/alex.jpg
       - title: Pat Bonipally
         description: >
-          And this is Pat! Pat is the resident Scrum Master and leader of all
+          [And this is Pat!](https://www.linkedin.com/in/pat-boinpally-08218a5/) Pat is the resident Scrum Master and leader of all
           things planning. We would be a mess without him!<br /><br />
 
 
@@ -95,7 +95,7 @@ sections:
         image: images/pat.jpg
       - title: Quan Nguyen
         description: >
-          And here's Quan! Quan enjoys cats, but not as much as his daughter.<br
+          [And here's Quan!](https://canvas.vt.edu/courses/135026/users/70514) Quan enjoys cats, but not as much as his daughter.<br
           /><br />
 
 
