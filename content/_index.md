@@ -67,7 +67,7 @@ sections:
 
           [Learn more about our 3-year roadmap!](/roadmap)
       - title: Find Us On Twitter
-        description: <a href="https://twitter.com/ButcampInc?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ButcampInc</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        description: <a class="twitter-timeline" href="https://twitter.com/ButcampInc?ref_src=twsrc%5Etfw">Tweets by ButcampInc</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     type: bulletpoints_section
     section_id: features
   - type: testimonials_section
