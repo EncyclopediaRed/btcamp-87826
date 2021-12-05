@@ -15,7 +15,7 @@ sections:
       cornstarch-based tents stored in a waist bag (fanny pack) or a similar
       small vessel. &#xA; <br /><br /> 
 
-      **Vision** <br /><br />
+      **Vision** <br />
 
       We envision the Büt Camp biodegradable cornstarch-based polylactic acid
       (PLA)¹ shelters being available in every first responder, search and
@@ -110,17 +110,18 @@ sections:
       - title: Structure
         description: >
           We are a [**Certified B Corporation**](https://bcorporation.net)
-          registered in Virginia.
+          registered in Virginia.<br /><br />
 
           Büt Camp, Inc. has passed its B Certification exam with an overall
-          score of 92.
+          score of 92.<br /><br />
 
-          Our four-member team shares an equal 25% Ownership.
+          Our four-member team shares an equal 25% Ownership.<br /><br />
 
           A near-future vision of 10-15 employees to assist with inventory,
           bookkeeping, sales, support and returns, and government liaison.
       - title: Advisors
-        description: "\nIn addition to support from our Partners, featured below, BCI currently enlists two advisors.\n\n**Advisor Shakira Ross, E-Commerce Customer Success, and Digital Advertising **\n\nShakira joined our small group of advisors. She is an independent, highly motivated professional with a proven track record. She assists with E-Commerce Marketing strategies to advise us on cost-effective social media partnerships, and to help enlist celebrity product influencers. She is currently on the boards of many successful startups such as Pinterest and Twitter.\n\n\_\n\n**Advisor Tony Pearson, Fundraising **\n\nTony has been advising the But Camp team in establishing connections with venture capitalists, private high net worth investors in our company to raise funds for the company's growth, and to build additional capabilities in distribution logistics\n\n\n\nIn the future, we envision having a full advisory board to increase our partnerships with government entities, corporations, and international groups.\n"
+        description: >
+        "In addition to support from our Partners, featured below, BCI currently enlists two advisors. <br /><br />**Advisor Shakira Ross, E-Commerce Customer Success, and Digital Advertising ** Shakira joined our small group of advisors. She is an independent, highly motivated professional with a proven track record. She assists with E-Commerce Marketing strategies to advise us on cost-effective social media partnerships, and to help enlist celebrity product influencers. She is currently on the boards of many successful startups such as Pinterest and Twitter. <br /><br />**Advisor Tony Pearson, Fundraising ** <br /><br />Tony has been advising the But Camp team in establishing connections with venture capitalists, private high net worth investors in our company to raise funds for the company's growth, and to build additional capabilities in distribution logistics.<br /><br />In the future, we envision having a full advisory board to increase our partnerships with government entities, corporations, and international groups."
       - title: 'Partner: Compost Bag China'
         description: >
           Website: <https://compostbagchina.com><br /><br />  Location: Shandong
