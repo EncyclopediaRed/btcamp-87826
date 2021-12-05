@@ -56,7 +56,7 @@ sections:
           For the last six years Rob has been an IT, Business Planning, and
           Graphics Design Consultant in RVA. He enjoys helping small businesses
           reach their potential while saving money and planning for the future.
-        [image: images/ROB_TXB_opt.png](https://www.linkedin.com/in/robertbarrowclift/)
+        image: [images/ROB_TXB_opt.png](https://www.linkedin.com/in/robertbarrowclift/)
       - title: Alex Kinnaman
         description: >
           This is Alex! Alex is the PLA expert and designs many of our products
