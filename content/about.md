@@ -205,15 +205,6 @@ sections:
     email: info@bütcamp.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
     type: contact_section
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    cta:
-      title: lorem-ipsum
-      url: '#'
-      style: primary
-      arrow: false
-    type: promotion_section
 seo:
   title: About
   description: This is the about page
