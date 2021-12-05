@@ -66,7 +66,7 @@ sections:
 
 
           [Learn more about our 3-year roadmap!](/roadmap)
-      - title: lorem-ipsum
+      - title: Find Us On Twitter
         description: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
           efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
