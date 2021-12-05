@@ -1,6 +1,6 @@
 ---
 id: '1'
-title: Single (1) - Büt Camp Emergency Shelter
+title: Single (1) - Büt Camp Emergency Shelter - (Find Me Orange)
 description: One shelter to rule them all.
 price: '11.99'
 order: 1
@@ -34,7 +34,7 @@ seo:
 layout: product
 default_thumbnail_image: images/tent_01.png
 default_original_image: images/tent_01.png
-category:
+category: null
 ---
 
 # Nulla suscipit
