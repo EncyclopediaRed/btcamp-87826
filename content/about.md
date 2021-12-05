@@ -44,7 +44,7 @@ sections:
     section_id: bulletpoints_section
     headLine: Meet the Team
     bulletpoints:
-      - title: Rob Barrowclift
+      - title: [Rob Barrowclift](https://www.linkedin.com/in/robertbarrowclift/)
         description: >
           Meet Rob! Our lead web developer and financial pro, Rob is essential
           to our success. Just look at that rampant enthusiasm!<br /><br />
@@ -115,12 +115,12 @@ sections:
           Büt Camp, Inc. has passed its B Certification exam with an overall
           score of 92.<br /><br />
 
-          Our four-member team shares an equal 25% Ownership.<br /><br />
+          Our four-member team shares an equal 22.5% Ownership with the remaining 10% to our advisors.<br /><br />
 
           A near-future vision of 10-15 employees to assist with inventory,
           bookkeeping, sales, support and returns, and government liaison.
       - title: Advisors
-        description: "In addition to support from our Partners, featured below, BCI currently enlists two advisors. <br /><br />**Advisor Shakira Ross, E-Commerce Customer Success, and Digital Advertising ** Shakira joined our small group of advisors. She is an independent, highly motivated professional with a proven track record. She assists with E-Commerce Marketing strategies to advise us on cost-effective social media partnerships, and to help enlist celebrity product influencers. She is currently on the boards of many successful startups such as Pinterest and Twitter. <br /><br />**Advisor Tony Pearson, Fundraising ** <br /><br />Tony has been advising the But Camp team in establishing connections with venture capitalists, private high net worth investors in our company to raise funds for the company's growth, and to build additional capabilities in distribution logistics.<br /><br />In the future, we envision having a full advisory board to increase our partnerships with government entities, corporations, and international groups."
+        description: "In addition to support from our Partners, featured below, BCI currently enlists two advisors. <br /><br /> **Advisor Shakira Ross, E-Commerce Customer Success, and Digital Advertising** <br /><br />Shakira joined our small group of advisors. She is an independent, highly motivated professional with a proven track record. She assists with E-Commerce Marketing strategies to advise us on cost-effective social media partnerships, and to help enlist celebrity product influencers. She is currently on the boards of many successful startups such as Pinterest and Twitter. <br /><br />**Advisor Tony Pearson, Fundraising** <br /><br />Tony has been advising the But Camp team in establishing connections with venture capitalists, private high net worth investors in our company to raise funds for the company's growth, and to build additional capabilities in distribution logistics.<br /><br />In the future, we envision having a full advisory board to increase our partnerships with government entities, corporations, and international groups."
       - title: 'Partner: Compost Bag China'
         description: >
           Website: <https://compostbagchina.com><br /><br />  Location: Shandong
