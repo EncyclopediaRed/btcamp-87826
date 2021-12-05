@@ -3,7 +3,7 @@
   outline: none;
   padding: 0;
 
-  @include smaller-than-tablet { 
+  @include smaller-than-tablet {
     display: block;
   }
 
@@ -25,7 +25,7 @@
     background-position: center;
     transition: left .3s ease-in-out;
 
-    @include smaller-than-tablet { 
+    @include smaller-than-tablet {
       .nav--opened & {
         left: 0;
       }
@@ -55,12 +55,16 @@
   &__nav-item {
     margin-bottom: 25px;
     font-weight: bold;
+    list-style: none;
+    text-decoration: none;
   }
- 
+
   &__nav-link {
     text-align: center;
     font-family: $font_family_primary;
     font-size: $font_size_large;
+    text-decoration: none;
+    color: $color_dark;
   }
 }
 
