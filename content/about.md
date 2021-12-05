@@ -167,39 +167,7 @@ sections:
           </ul>
         image: images/odmgroup.jpeg
       - title: Advisors
-        description: >-
-          Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
-          efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
-          pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque
-          imperdiet venenatis.
-                  
-          > Vestibulum ullamcorper risus auctor eleifend consequat.
-
-
-          ![Placeholder
-          Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
-
-
-          In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet
-          nisl elementum fringilla. Pellentesque dapibus suscipit faucibus.
-          Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id
-          maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan
-          blandit consequat. Phasellus quis posuere quam.
-
-
-          Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum
-          ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna
-          leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo,
-          volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa
-          scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque.
-          In volutpat efficitur nulla, aliquam ornare lectus ultricies ac.
-          Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum
-          pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor
-          enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam.
-          Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam
-          ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida
-          diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis
-          justo.
+        description: "\nIn addition to support from our Partners, featured below, BCI currently enlists two advisors.\n\n**Advisor Shakira Ross, E-Commerce Customer Success, and Digital Advertising **\n\nShakira joined our small group of advisors. She is an independent, highly motivated professional with a proven track record. She assists with E-Commerce Marketing strategies to advise us on cost-effective social media partnerships, and to help enlist celebrity product influencers. She is currently on the boards of many successful startups such as Pinterest and Twitter.\n\n\_\n\n**Advisor Tony Pearson, Fundraising **\n\nTony has been advising the But Camp team in establishing connections with venture capitalists, private high net worth investors in our company to raise funds for the company's growth, and to build additional capabilities in distribution logistics\n\n\n\nIn the future, we envision having a full advisory board to increase our partnerships with government entities, corporations, and international groups.\n"
   - type: promotion_section
     section_id: promotion_section
     title: A new alternative for temporary shelter
