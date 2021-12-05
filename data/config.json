@@ -59,7 +59,7 @@
         },
         {
             "title": "Contact",
-            "url": "#",
+            "url": "/contact",
             "style": "primary",
             "arrow": false
         }
