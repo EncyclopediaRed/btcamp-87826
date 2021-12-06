@@ -30,9 +30,13 @@ sections:
   - bulletpoints:
       - title: BütCamp. It's better than sitting (directly) on the ground!
         description: >
-          A Biodegradable Temporary Emergency Shelter for individuals and disaster and emergency responders. The BütCamp tent fits in your hand and uses no poles or extra equipment.<br /><br />
+          A Biodegradable Temporary Emergency Shelter for individuals and
+          disaster and emergency responders. The BütCamp tent fits in your hand
+          and uses no poles or extra equipment.
 
-          Simply unfold and blow to inflate. Use for up-to 7 days and then discard. BütCamp tent are made of biodegradable plastic made from cornstarch.
+          Simply unfold and blow to inflate. Use for up-to 7 days and then
+          discard. BütCamp tents are made of biodegradable plastic made from
+          cornstarch.
         image: images/tent_dim.png
       - title: Eco-Friendly
         description: >
@@ -73,7 +77,12 @@ sections:
 
           [Learn more about our 3-year roadmap!](/roadmap)
       - title: Find Us On Twitter
-        description: <a href="https://twitter.com/ButcampInc?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ButcampInc</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        description: >-
+          <a href="https://twitter.com/ButcampInc?ref_src=twsrc%5Etfw"
+          class="twitter-follow-button" data-show-count="false">Follow
+          @ButcampInc</a><script async
+          src="https://platform.twitter.com/widgets.js"
+          charset="utf-8"></script>
     type: bulletpoints_section
     section_id: features
   - type: testimonials_section
