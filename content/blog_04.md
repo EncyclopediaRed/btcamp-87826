@@ -35,7 +35,7 @@ sections:
           to our processor for their records.<br /><br />
     type: bulletpoints_section
   - section_id: lorem-ipsum
-    headline: lorem-ipsum
+    headline: Snipcart & Büt Camp
     subtitle: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
       efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
