@@ -6,7 +6,7 @@ price: '11.99'
 order: 4
 featured: true
 seo:
-  title: Nulla suscipit
+  title: "(1) Red Shelter"
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
     - name: 'og:type'

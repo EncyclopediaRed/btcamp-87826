@@ -6,7 +6,7 @@ price: '54.95'
 order: 10
 featured: true
 seo:
-  title: Nulla suscipit
+  title: "(5) Green Shelter"
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
     - name: 'og:type'

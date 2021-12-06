@@ -6,7 +6,7 @@ price: '499.50'
 order: 3
 featured: true
 seo:
-  title: Nulla suscipit
+  title: "(50) Orange Shelter"
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
     - name: 'og:type'
