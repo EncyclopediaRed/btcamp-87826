@@ -38,7 +38,7 @@ sections:
 
           ## [Click here to continue...](/blog\_03)
         image: images/AdobeStock_4026930932.jpeg
-      - title: 'Blog Post #4'
+      - title: 'Blog Post 4: Snipcart'
         description: >
           What plugin(s) would help your website/business and why? This can be a
           WordPress or Ecwid or some other plugin.  No need to purchase or
