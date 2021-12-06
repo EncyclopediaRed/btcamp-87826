@@ -6,7 +6,7 @@ sections:
   - section_id: blog-2
     headline: 'Blog 2: Data Trusts & E-Commerce'
     subtitle: >
-      How does BütCamp, Inc. use Data Trusts as part of an e-commerce solution
+      How does Büt Camp, Inc. use Data Trusts as part of an e-commerce solution
       and why?
     type: header_section
     background_image: images/leaf-light-grey.svg
@@ -119,11 +119,11 @@ sections:
           *   **Shared Data Goals**: Understanding of and agreement of
               beneficiaries on how data is shared, to whom it is shared, why it is shared, and compliance with these parameters<br /><br />
 
-          Below is a lifecycle for how a data trust works with BütCamp, Inc.
+          Below is a lifecycle for how a data trust works with Büt Camp, Inc.
           built into the model. Essentially, we provide a clear, concise
           statement to all users describing their data rights before they enter
           any personal information. We keep only the data necessary to complete
-          an order successfully, and data is put into a data trust that BütCamp
+          an order successfully, and data is put into a data trust that Büt Camp
           uses for ethical research.
 
 
@@ -171,7 +171,7 @@ sections:
           through the use of a Data Trust. This step is one of many on the long
           road to becoming a company known for being ethical and honest with the
           data we're given.
-      - title: 'How BütCamp, Inc. Employs Data Trusts'
+      - title: 'How Büt Camp, Inc. Employs Data Trusts'
         description: >
           Büt Camp. Inc. (BCI), an e-commerce certified B-Corp, selling
           single-person temporary shelter directly to emergency responders,
@@ -190,7 +190,7 @@ sections:
           PLA technology and ethical data sharing.<br /><br />
 
 
-          **Data BütCamp, Inc. Collects**<br /><br />
+          **Data Büt Camp, Inc. Collects**<br /><br />
 
 
           Customers order from Büt Camp, Inc.’s online store via the web or

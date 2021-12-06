@@ -8,8 +8,13 @@ sections:
     background_image: /images/leaf-light-grey.svg
     headline: Join Büt Camp
     subtitle: >
-     We are in the historic downtown of Blacksburg in southwest Virginia.  The town is rated among the best places to live, study and work in the country, adjacent to a world-class university and research institue.  In the middle of the New River valley, it is between the Blue Ridge and the Alleghany mountains, surrounded by many national parks.  Outdoor activities are countless and year-round.  The town has a mix of urban and country living.  
-     </br> </br> <h2><b> Benefits </b></h2>  We offer exciting work opportunities since we have small cross functional teams, flexible work schedule with liberal Remote Work policy, Paid Health Insurance for Employees and their loved ones, 401k with employer matching from Day 1, fitness allowance to subsidize your Gym fees, Long term and short term disability insurance, as well as Paid Time Off and Holidays. <br />
+     Büt Camp is nestled in the historic downtown of Blacksburg in southwest Virginia. Blacksburg is an Appalachian jewel, rated among the best places to live, study, and work in the country, and adjacent to a world-class university and research institute. Outdoor activities are countless and year-round with a mix of urban and rural living.
+     </br> </br>
+     <h2><b> Benefits </b></h2>
+     100% paid Health/Dental/Eye insurance on day one<br />
+     100% Matched 401k<br />
+     Fitness/Gym subsidy<br />
+     Four (4) weeks paid-time-off (PTO) in the first year <br />
      </br> </br> <h2><b> How to apply </b></h2>  Please send your resume to careers@bütcamp.com. <br />
 
   - type: header_section
@@ -20,50 +25,49 @@ sections:
     section_id: bulletpoints_section
     headLine: Current Openings
     bulletpoints:
-      - title: Marketing Manager
+      - title: Marketing Manager - Full Time
         description: >
          <h4><b> Responsibilies </b></h4>
-         <ul> 
-         <li> Develop and execute the company's marketing strategies including our e-commerce presence, email and social marketing and advertising </li>
-         <li> Write, create, and edit content for the company's website, blogs, Facebook, Twitter and other social media channels </li>
-         <li> Track website users and customers, reporting and analyzing the results from the company's marketing solutions </li>
+         <ul>
+         <li>Develop and execute the company's marketing strategies, including our e-commerce presence, email, and social marketing, and advertising </li>
+         <li>Write, create, and edit content for the company's website, blogs, Facebook, Twitter, and other social media channels </li>
+         <li>Track website users and customers, reporting and analyzing the company's marketing solutions results. </li>
          <li> Manage the marketing budget </li>
          <li> Manage and coordinate local and national events </li>
          </ul> <br />
          <h4><b>Requirements </b></h4>
          <ul>
-         <li> Bachelor's degree in Marketing, Communications, Advertising or Enghlish 
+         <li> Bachelor's degree in Marketing, Communications, Advertising, or English
          </li>
-         <li> 5 years' experience of marketing </li>
-         <li> 3 - 5 years' experience in digital marketing </li>
-         <li> Knowledge of social media channels like YouTube, Facebook, Twitter, etc. 
+         <li> Five (5) years of marketing experience </li>
+         <li> Three (3) - Five (5) years experience in digital marketing </li>
+         <li> Knowledge of social media channels like YouTube, Facebook, Twitter, etc.
          </li>
          <li> Strong presentation skills and written/verbal communication </li>
          <li> Strong analytical skills </li>
          <li> Local and federal government relations experience is a plus </li>
          </ul> <br />
-         <h4><b>Salary</b></h4> 65,000.00 - 80,000.00 per year </br></br>
-         <h4><b>Hiring Time</b></h4> This position will be filled as soon as possible to speed up the creation of our Marketing Department </br>
-      - title: Government Relations/Sales Manager
-        description: > 
+         <h4><b>Yearly Salary</b></h4> $65,000 - $80,000</br></br>
+         <h4><b>Closing Date</b></h4> Applications are accepted until January 1, 2022</br>
+      - title: Government Relations/Sales Manager - Full Time
+        description: >
          <h4><b>Responsibilies </b></h4>
          <ul>
-         <li> Develop sales plan for general puplic, local, state and federal emergency management agencies</li>
+         <li> Develop sales plans for the general public, local, state, and federal emergency management agencies</li>
          <li> Develop and maintain strong relationships with government emergency management agencies </li>
          <li> Manage and coordinate local and national trade shows and conferences </li>
          </ul> <br />
          <h4><b>Requirements </b></h4>
          <ul>
-         <li> Barchelor's degree in Business, Public Policy, Communications </li>
-         <li> 5 years of experience </li>
-         <li> Knowledge of local, state and federal government procurement methods and processes </li>
-         <li> Strong influencing skills and strong communications skills </li>
-         <li> Local and federal government relations experience is a plus </li>
+         <li> Bachelor's degree in Business, Public Policy, Communications </li>
+         <li> Five (5) years of experience in goverment procurment practices</li>
+         <li> Knowledge of local, state, and federal government procurement methods and processes </li>
+         <li> Strong communications skills </li>
          </ul> <br />
-         <h4><b>Salary</b></h4> 60,000.00 - 70,000.00 per year </br></br>
-         <h4><b>Hiring Time</b></h4> This position will be filled in one month </br>
-      - title: Warehouse Operations Manager
-        description: > 
+         <h4><b>Yearly Salary</b></h4> $60,000 - $70,000 </br></br>
+         <h4><b>Closing Date</b></h4> Applications are accepted until February 1, 2022</br>
+      - title: Warehouse Operations Manager - Full Time
+        description: >
          <h4><b>Responsibilies </b></h4>
          <ul>
          <li> Ensure a safe, clean, and efficient operation of the warehouse </li>
@@ -73,32 +77,31 @@ sections:
          </ul> <br />
          <h4><b>Requirements </b></h4>
          <ul>
-         <li> Barchelor's degree in Logistics or at least 5 years of experience in warehouse or  distribution management </li>
+         <li> Bachelor's degree in Logistics or at least five (5) years of experience in warehouse/distribution management or logistics </li>
          <li> Computer experience using warehouse management software </li>
          <li> Effective communications skills with customers and coworkers </li>
          </ul> <br />
-         <h4><b>Salary</b></h4> 50,000.00 - 70,000.00 per year </br></br>
-         <h4><b>Hiring Time</b></h4> This position will be filled as soon as possible </br>
-      - title: Customer Support Specialist - full time or part time
-        description: > 
+         <h4><b>Yearly Salary</b></h4> $50,000 - $70,000</br></br>
+         <h4><b>Closing Date</b></h4> Applications are accepted until January 1, 2022</br>
+      - title: Customer Support Specialist - Full Time
+        description: >
          <h4><b>Responsibilies </b></h4>
          <ul>
-         <li> Know our products well </li>
-         <li> Monitor and document customer complains </li>
-         <li> Response to customers' need in a timely fashion </li>
-         <li> Handle customer service usning telephone, email, online chat and other social channels </li>
+         <li> Monitor and document customer complaints </li>
+         <li> Response to customer's needs in a timely fashion </li>
+         <li> Handle customer service using telephone, email, online chat and social media </li>
          </ul> <br />
          <h4><b>Requirements </b></h4>
          <ul>
          <li> High School diploma or equivalent </li>
          <li> Computer experience using customer services software </li>
-         <li> Knowledge of social media channels like YouTube, Facebook, Twitter, etc. 
+         <li> Knowledge of social media channels like YouTube, Facebook, Twitter, etc.
          </li>
          <li> Ability to work independently </li>
-         <li> Exellent communication skills, both orally and in writting </li>
+         <li> Excellent communication skills </li>
          </ul> <br />
-         <h4><b>Salary</b></h4> 30,000.00 - 45,000.00 per year </br></br>
-         <h4><b>Hiring Time</b></h4> This position will be filled as soon as possible </br>
+         <h4><b>Yearly Salary</b></h4> $30,000 - $45,000</br></br>
+         <h4><b>Closing Date</b></h4> Applications are accepted until January 1, 2022</br>
 
   - type: contact_section
     section_id: lorem-ipsum

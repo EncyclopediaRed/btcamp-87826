@@ -24,7 +24,7 @@ sections:
         image: images/np_feedback_1429971_000000.png
       - title: Follow Us on Twitter!
         description: >-
-          <a class="twitter-timeline" href="https://twitter.com/ButcampInc?ref_src=twsrc%5Etfw" width="800" >Tweets by ButcampInc</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+          <a class="twitter-timeline" href="https://twitter.com/ButcampInc?ref_src=twsrc%5Etfw" width="800" >Tweets by Büt Camp, Inc.</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     type: bulletpoints_section
   - section_id: lorem-ipsum
     address: '357 Fannypack Dr. Blacksburg, VA 24061'

@@ -62,14 +62,14 @@ sections:
           statement.
       - question: How long will my tent last?
         answer: >
-          Unopened, the BütCamp tent will last 5-10 years depending on exposure
+          Unopened, the Büt Camp tent will last 5-10 years depending on exposure
           to air and light. Store this item in a cool, dark space.<br /><br />
 
 
-          Once opened, the BütCamp tent will last approximately 7 days or less.
+          Once opened, the Büt Camp tent will last approximately 7 days or less.
           You will begin to see degradation around that time, and significant
           degradation after 30 days. This product is designed to be temporary
-          and biodegradeable. 
+          and biodegradeable.
       - question: Is this product harmful to the environment?
         answer: >+
           Absolutely not!<br /><br />

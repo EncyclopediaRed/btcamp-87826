@@ -28,14 +28,14 @@ sections:
       - content/products/tent_06.md
     title: Büt Camp Best Sellers
   - bulletpoints:
-      - title: BütCamp. It's better than sitting (directly) on the ground!
+      - title: Büt Camp. It's better than sitting (directly) on the ground!
         description: >
           A Biodegradable Temporary Emergency Shelter for individuals and
-          disaster and emergency responders. The BütCamp tent fits in your hand
+          disaster and emergency responders. The Büt Camp tent fits in your hand
           and uses no poles or extra equipment.<br /><br />
 
           Simply unfold and blow to inflate. Use for up-to 7 days and then
-          discard. BütCamp tents are made of biodegradable plastic made from
+          discard. Büt Camp tents are made of biodegradable plastic made from
           cornstarch.
         image: images/tent_dim.png
       - title: Eco-Friendly

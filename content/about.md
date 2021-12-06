@@ -13,7 +13,7 @@ sections:
       Büt Camp, Inc. strives to help provide shelter and privacy to those in any
       emergency using simple, easily dispensed, highly mobile, inflatable
       cornstarch-based tents stored in a waist bag (fanny pack) or a similar
-      small vessel. &#xA; <br /><br /> 
+      small vessel. &#xA; <br /><br />
 
       **Vision** <br />
 
@@ -92,9 +92,9 @@ sections:
           technology management.<br /><br />
 
 
-          At BütCamp, Inc., Pat manages the entire backend of technology
+          At Büt Camp, Inc., Pat manages the entire backend of technology
           planning, project development and implementation, business processes,
-          and system architecture. 
+          and system architecture.
         image: images/pat.jpg
       - title: Quan Nguyen
         description: >

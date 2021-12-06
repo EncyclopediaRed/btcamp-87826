@@ -29,7 +29,7 @@ sections:
           Learning from the past, many countries have increased the necessary
           disaster response equipment at disposal.”<br /> --Mordor Intelligence
           on the Emergency Disaster and Response Market"
-      - title: 'The Solution: BütCamp'
+      - title: 'The Solution: Büt Camp'
         description: >
           Made from biodegradable cornstarch-based polylactic acid (PLA), Büt
           Camp offers a simple-to-use single-person temporary shelter to provide
@@ -121,7 +121,7 @@ sections:
         description: "**Production**<br /><br />[Compost Bag China (CBC)](https://compostbagchina.com) is our manufacturer and expert in PLA film.\n\nCBC creates several sheets of PLA film. The top of which is two sheets heat-stamped together in a pattern to create an air channel to allow for inflation of the tent. <br /><br />Ascreen and floor are also produced with the same material. The floor is heat-sealed to the top portion of the tent, and the screen is kept separate until the customer constructs it in the field. The screen adheres to the tent's opening via a mild tacky glue strip on one side of the opening and two ties on the other side. The ties are strips of PLA hardened to allow for tying and untying.<br /><br />The cost per tent to manufacture is **$8.50/unit.**<br /><br />
         **Quality Control**<br /><br />
         QC is performed by our Chinese liaison [ODM Group](https://www.odm-pro.com) as part of our contract with them. ODM works directly with the manufacturer to hold to ISO Standards1 and ASTM Standards (2) for durability, functionality as a tent, and biodegradability of the PLA film and finished product. <br /><br />ODM Group is our direct contact for:<li>Representative office in Zhuha</li><li>Product sourcing</li><li>QC reporting <br /><br />**Inventory**<br /><br /> No raw materials are kept on hand. All material is sourced through ODM Group and sent directly to the manufacturer in China, Compost Bag China.\n\n$85,000 (10,000 units) are kept on hand in a rented storage facility.<br /><br />We keep roughly two (2) months of inventory on hand.<br /><br />Though there is no seasonal activity at the moment, we anticipate future seasonal bumps in sales during:<li>Hurricane season on the East Coast of the U.S - June 1 - November 303</li><li>Fire season in California - June-April</li><li>(2 Seasons overlapping)</li><br />The lead time for ordering more inventory is 45 days.<br /><br />
-        **Suppliers & Partners**<br /><br /> 
+        **Suppliers & Partners**<br /><br />
         **[ODM Group](https://www.odm-pro.com)**<br />Hung Chu Bldg, Jida Jiuzhou Avenue<br />Shuhai 519015, China<br /><br />
         **Chinese Manufacturer Liaison [Compost Bag China (CBC)](https://compostbagchina.com)**<br />Shandong Province, China<br /><br />
         CBC requires payment upfront for order volumes of our size, and delivery is made after inspection via shipping container.<br /><br /> Due to COVID-19, customs has been slower to receive shipments, but we don’t foresee significant delays in time to receipt, except in the months of January/February during the Chinese Lunar New Year. <br /><br />

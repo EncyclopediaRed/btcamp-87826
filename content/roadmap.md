@@ -25,7 +25,7 @@ sections:
           for purchase with a credit card on our website.<br /><br />
 
 
-          **Single Primary Product:** BütCamp is offering a single product in
+          **Single Primary Product:** Büt Camp is offering a single product in
           various package sizes.<br /><br />
       - title: Büt Advantages
         description: >
