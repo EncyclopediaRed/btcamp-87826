@@ -30,7 +30,7 @@ sections:
 
           ## [Click here to continue...](/blog\_02)
         image: images/AdobeStock_136542286.jpeg
-      - title: 'Blog Post #3'
+      - title: 'Blog Post 3: Technology Preview'
         description: >
           What additional technology are you currently or planning on
           incorporating into the business/service/product?
