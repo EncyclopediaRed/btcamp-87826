@@ -27,7 +27,6 @@
                 <h1 class="product__title">
                     {{ .Title }}
                 </h1>
-
                 {{ if .Params.category }}
                     {{ $category_page := $.Site.GetPage "page" ( $.Params.category | strings.TrimPrefix "content/" ) }}
                     <h2 class="product__category">

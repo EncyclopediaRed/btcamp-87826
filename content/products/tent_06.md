@@ -1,9 +1,9 @@
 ---
-id: '4'
-title: Bulk (1000) Shelters
-description: Find Me Orange. Bulk purchase shelter pack. A HUGE 20% bulk discount!
-price: '9500'
-order: 4
+id: '6'
+title: Five (5) Shelters
+description: Rally Red. Five shelter pack. 8% Volume discount!
+price: '54.95'
+order: 6
 featured: true
 seo:
   title: Nulla suscipit
@@ -19,7 +19,7 @@ seo:
       value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
       keyName: property
     - name: 'og:image'
-      value: images/tent_01.png
+      value: images/tent_02_red.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -29,12 +29,12 @@ seo:
     - name: 'twitter:description'
       value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
     - name: 'twitter:image'
-      value: images/tent_01.png
+      value: images/tent_02_red.png
       relativeUrl: true
 layout: product
-default_thumbnail_image: images/tent_01.png
-default_original_image: images/tent_01.png
-category: null
+default_thumbnail_image: images/tent_02_red.png
+default_original_image: images/tent_02_red.png
+category:
 ---
 
 # Nulla suscipit

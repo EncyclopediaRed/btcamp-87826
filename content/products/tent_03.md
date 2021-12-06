@@ -1,7 +1,7 @@
 ---
 id: '3'
-title: Fifty (50) - Büt Camp Emergency Shelters
-description: Fifty shelter pack. A 16% volume discount!
+title: Fifty (50) Shelters
+description: Find Me Orange. Fifty shelter pack. A 16% volume discount!
 price: '499.50'
 order: 3
 featured: true

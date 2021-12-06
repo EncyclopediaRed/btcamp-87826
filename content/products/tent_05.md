@@ -1,8 +1,8 @@
 ---
 id: '4'
-title: Bulk (1000) Shelters
-description: Find Me Orange. Bulk purchase shelter pack. A HUGE 20% bulk discount!
-price: '9500'
+title: Single (1) Shelter
+description: Rally Red. One shelter to rule them all.
+price: '11.99'
 order: 4
 featured: true
 seo:
@@ -19,7 +19,7 @@ seo:
       value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
       keyName: property
     - name: 'og:image'
-      value: images/tent_01.png
+      value: images/tent_02_red.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -29,11 +29,11 @@ seo:
     - name: 'twitter:description'
       value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
     - name: 'twitter:image'
-      value: images/tent_01.png
+      value: images/tent_02_red.png
       relativeUrl: true
 layout: product
-default_thumbnail_image: images/tent_01.png
-default_original_image: images/tent_01.png
+default_thumbnail_image: images/tent_02_red.png
+default_original_image: images/tent_02_red.png
 category: null
 ---
 

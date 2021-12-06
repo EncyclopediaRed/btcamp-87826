@@ -24,8 +24,8 @@ sections:
     light_title: true
     featured_products:
       - content/products/tent_01.md
-      - content/products/tent_02.md
-      - content/products/tent_03.md
+      - content/products/tent_09.md
+      - content/products/tent_06.md
     title: Büt Camp Best Sellers
   - bulletpoints:
       - title: Eco-Friendly

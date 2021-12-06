@@ -1,9 +1,9 @@
 ---
-id: '4'
-title: Bulk (1000) Shelters
-description: Find Me Orange. Bulk purchase shelter pack. A HUGE 20% bulk discount!
-price: '9500'
-order: 4
+id: '11'
+title: Fifty (50) Shelters
+description: Greeny McGreenface. Fifty shelter pack. A 16% volume discount!
+price: '499.50'
+order: 11
 featured: true
 seo:
   title: Nulla suscipit
@@ -19,7 +19,7 @@ seo:
       value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
       keyName: property
     - name: 'og:image'
-      value: images/tent_01.png
+      value: images/tent_02_green.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -29,12 +29,12 @@ seo:
     - name: 'twitter:description'
       value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
     - name: 'twitter:image'
-      value: images/tent_01.png
+      value: images/tent_02_green.png
       relativeUrl: true
 layout: product
-default_thumbnail_image: images/tent_01.png
-default_original_image: images/tent_01.png
-category: null
+default_thumbnail_image: images/tent_02_green.png
+default_original_image: images/tent_02_green.png
+category:
 ---
 
 # Nulla suscipit
