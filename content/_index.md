@@ -32,7 +32,7 @@ sections:
         description: >
           A Biodegradable Temporary Emergency Shelter for individuals and
           disaster and emergency responders. The BütCamp tent fits in your hand
-          and uses no poles or extra equipment.
+          and uses no poles or extra equipment.<br /><br />
 
           Simply unfold and blow to inflate. Use for up-to 7 days and then
           discard. BütCamp tents are made of biodegradable plastic made from
