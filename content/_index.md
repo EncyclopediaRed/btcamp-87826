@@ -36,7 +36,11 @@ sections:
 
           Simply unfold and blow to inflate. Use for up-to 7 days and then
           discard. Büt Camp tents are made of biodegradable plastic derived from
-          cornstarch.
+          cornstarch.<br /><br />
+
+          Simply add the tents in the colors you prefer to your cart and pay with a credit card on our super fast and easy to use e-commerce store.<br /><br />
+
+          The store isn't just for individuals either! Governments and resue organizations can also purchase in bulk right up to 1000 units at a time for quick purchasing with a volume discount.
         image: images/tent_dim.png
       - title: Eco-Friendly
         description: >
