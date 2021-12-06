@@ -10,7 +10,7 @@ sections:
     type: header_section
   - section_id: lorem-ipsum
     bulletpoints:
-      - title: 'Blog Post #4: Snipcart'
+      - title: About Snipcart
         description: >
           Büt Camp, Inc. selected Snipcart as their primary shopping cart
           platform. We appreciated that it was merchant agnostic, and could
