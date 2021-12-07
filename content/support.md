@@ -69,7 +69,7 @@ sections:
           Once opened, the Büt Camp tent will last approximately 7 days or less.
           You will begin to see degradation around that time, and significant
           degradation after 30 days. This product is designed to be temporary
-          and biodegradeable.
+          and biodegradable.
       - question: Is this product harmful to the environment?
         answer: >+
           Absolutely not!<br /><br />
@@ -78,7 +78,7 @@ sections:
 
 
           The material we use is called polylactic acid (PLA) and is 100%
-          biodegradeable. See our[ PLA FAQ](/faq) page for more information!
+          biodegradable. See our[ PLA FAQ](/faq) page for more information!
 
       - question: What are your shipping options?
         answer: >
@@ -384,7 +384,7 @@ sections:
           partners. We do not assume liability for any review or for any claims,
           liabilities, or losses resulting from any review. By posting a review,
           you hereby grant to us a perpetual, non-exclusive, worldwide,
-          royalty-free, fully-paid, assignable, and sublicensable right and
+          royalty-free, fully-paid, assignable, and sub-licensable right and
           license to reproduce, modify, translate, transmit by any means,
           display, perform, and/or distribute all content relating to review.<br
           /><br />12. SUBMISSIONS<br /><br />You acknowledge and agree that any
@@ -545,7 +545,7 @@ sections:
           availability, and various other information. We reserve the right to
           correct any errors, inaccuracies, or omissions and to change or update
           the information on the Site at any time, without prior notice.<br
-          /><br />20. DISCLAIMERTHE SITE IS PROVIDED<br /><br />ON AN AS-IS AND
+          /><br />20. DISCLAIMER THE SITE IS PROVIDED<br /><br />ON AN AS-IS AND
           AS-AVAILABLE BASIS. YOU AGREE THAT YOUR USE OF THE SITE SERVICES WILL
           BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, WE
           DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH THE
@@ -666,7 +666,7 @@ sections:
           governs data collection and usage. For the purposes of this Privacy
           Policy, unless otherwise noted, all references to Büt Camp, Inc.
           include https://xn--btcamp-3ya.com/ and BCI. The BCI website is a
-          ecommerce site. By using the BCI website, you consent to the data
+          e-commerce site. By using the BCI website, you consent to the data
           practices described in this statement.<br /><br />**Privacy Compliance
           Certification**<br /><br />BCI has B Corporation, International
           Organizations of Standards. (2020). 5912:2020 Camping tents —
