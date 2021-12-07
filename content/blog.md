@@ -49,7 +49,7 @@ sections:
         image: images/AdobeStock_2385483742.jpg
   - type: promotion_section
     section_id: promotion_section
-    title: Büt Camp Emegency Shelter
+    title: Büt Camp Emergency Shelter
     subtitle: from $11.99
     image: images/use_cases2.jpg
     background_image: images/logo_large_black_transparent.png

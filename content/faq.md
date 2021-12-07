@@ -56,7 +56,7 @@ sections:
           *   Water bottles
 
 
-          *   Utensils/cutlery/dishware
+          *   Utensils/cutlery/dish ware
 
 
           *   Short-term packaging (e.g. tea, cups, fruits and vegetables)

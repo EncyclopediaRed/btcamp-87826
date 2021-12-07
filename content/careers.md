@@ -27,7 +27,7 @@ sections:
     bulletpoints:
       - title: Marketing Manager - Full Time
         description: >
-         <h4><b> Responsibilies </b></h4>
+         <h4><b> Responsibilities </b></h4>
          <ul>
          <li>Develop and execute the company's marketing strategies, including our e-commerce presence, email, and social marketing, and advertising </li>
          <li>Write, create, and edit content for the company's website, blogs, Facebook, Twitter, and other social media channels </li>
@@ -51,7 +51,7 @@ sections:
          <h4><b>Closing Date</b></h4> Applications are accepted until January 1, 2022</br>
       - title: Government Relations/Sales Manager - Full Time
         description: >
-         <h4><b>Responsibilies </b></h4>
+         <h4><b>Responsibilities </b></h4>
          <ul>
          <li> Develop sales plans for the general public, local, state, and federal emergency management agencies</li>
          <li> Develop and maintain strong relationships with government emergency management agencies </li>
@@ -60,7 +60,7 @@ sections:
          <h4><b>Requirements </b></h4>
          <ul>
          <li> Bachelor's degree in Business, Public Policy, Communications </li>
-         <li> Five (5) years of experience in goverment procurment practices</li>
+         <li> Five (5) years of experience in government procurement practices</li>
          <li> Knowledge of local, state, and federal government procurement methods and processes </li>
          <li> Strong communications skills </li>
          </ul> <br />
@@ -68,7 +68,7 @@ sections:
          <h4><b>Closing Date</b></h4> Applications are accepted until February 1, 2022</br>
       - title: Warehouse Operations Manager - Full Time
         description: >
-         <h4><b>Responsibilies </b></h4>
+         <h4><b>Responsibilities </b></h4>
          <ul>
          <li> Ensure a safe, clean, and efficient operation of the warehouse </li>
          <li> Oversee all inbound and outbound shipments to ensure they are correct and carried out in a timely fashion </li>
@@ -85,7 +85,7 @@ sections:
          <h4><b>Closing Date</b></h4> Applications are accepted until January 1, 2022</br>
       - title: Customer Support Specialist - Full Time
         description: >
-         <h4><b>Responsibilies </b></h4>
+         <h4><b>Responsibilities </b></h4>
          <ul>
          <li> Monitor and document customer complaints </li>
          <li> Response to customer's needs in a timely fashion </li>

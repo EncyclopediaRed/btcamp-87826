@@ -76,7 +76,7 @@ sections:
         image: images/icon_butcamp_tent.png
         description: >
           Büt Camp is just beginning to make an impact on emergency planning and
-          biodegradeable product.
+          biodegradable product.
 
 
           [Learn more about our 3-year roadmap!](/roadmap)

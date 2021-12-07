@@ -122,7 +122,7 @@ sections:
       - title: References
         description: >
           Ries, E. (2011). *The Lean Startup: How Today's Entrepreneurs Use
-          Continous Innovation to Create Radically Successful Businesses.* Crown
+          Continuous Innovation to Create Radically Successful Businesses.* Crown
           Publishing Group, New York. ISBN 9780307887894
     type: bulletpoints_section
   - section_id: lorem-ipsum

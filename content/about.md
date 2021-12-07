@@ -51,7 +51,7 @@ sections:
           look at that rampant enthusiasm!<br /><br />
 
           Rob is an IT Generalist. If it plugs in, works on a computer, or
-          traverses the interent he's likely worked on it. Rob resides in
+          traverses the internet he's likely worked on it. Rob resides in
           Richmond, VA with wife and rescue animals.<br /><br />
 
           For the last six years Rob has been an IT, Business Planning, and
