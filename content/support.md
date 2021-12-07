@@ -657,8 +657,7 @@ sections:
           the Site, please contact us at:<br /><br />Büt Camp, Inc.357 Fannypack
           Dr.<br /><br />Blacksburg, VA 24061<br /><br />United States<br /><br
           />Phone: +1-555-288-2267<br /><br />Email:info@bütcamp.com\n"
-
-
+        image: images/terms.png
       - title: Privacy Policy
         description: >-
           Protecting your private information is our priority. This Statement of
@@ -813,6 +812,7 @@ sections:
           Inc.<br />357 Fannypack Dr.<br />Blacksburg, Virginia 24061<br /><br
           />Email Address:<br />info@bütcamp.com<br /><br />Telephone number:<br
           />+1-555-288-2267<br /><br />**Effective as of December 01, 2021**
+        image: images/privacy.png
     type: bulletpoints_section
   - section_id: lorem-ipsum
     address: '357 Fannypack Dr. Blacksburg, VA 24061'
