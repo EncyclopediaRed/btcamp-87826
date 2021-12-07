@@ -46,7 +46,7 @@ sections:
 
 
           ## [Click here to continue...](/blog\_04)
-        image: images/AdobeStock_2385483742.jpg
+        image: images/plugins.jpg
   - type: promotion_section
     section_id: promotion_section
     title: Büt Camp Emergency Shelter
