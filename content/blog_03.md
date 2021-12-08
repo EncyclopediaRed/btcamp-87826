@@ -27,7 +27,7 @@ sections:
           speaker and mic, push notifications, and easy updating (2). One of the
           best features is data storage for quick retrieval of data and the
           added benefit of caching that data in case of a loss of network signal
-          (3).
+          (3).<br /><br />
 
           Because the PWA can be designed to look like any native app the user
           enjoys a recognizable experience that is as rich as a native app.
@@ -52,12 +52,12 @@ sections:
           emergency shelters and offer up an expanding array of temporary PLA 3D
           printed goods and services. As PLA filament is easily printed with,
           the nature of PLA makes the durability and heat resistance less than a
-          traditional plastic like ABS or PET. But better for the environment.
+          traditional plastic like ABS or PET. But better for the environment.<br />
 
 
           First, BCI plans to expand it's storefront by introducing a free
           marketplace for users to share 3D plans that will work with PLA
-          filaments. Allowing users to share their designs with others.
+          filaments. Allowing users to share their designs with others.<br />
 
 
           Second, BCI hopes to enter the professionally PLA 3D printed space by
