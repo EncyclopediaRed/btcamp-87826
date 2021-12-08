@@ -14,7 +14,7 @@ sections:
       - title: Find Us Anywhere!
         description: >-
           **Call Us!** +1-555-288-2267<br /><br /> **Email Us!**
-          info.butcamp.com<br /><br /> **Apply to Work with Us!**
+          info@butcamp.com<br /><br /> **Apply to Work with Us!**
           careers@butcamp.com<br /><br /> **Visit our Offices!** 357 Fannypack
           Dr. Blacksburg, VA 24061<br /><br />
           **@ Us on Twitter!** [ButCampInc](https://twitter.com/ButcampInc)
