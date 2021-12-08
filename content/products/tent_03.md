@@ -1,12 +1,14 @@
 ---
 id: '3'
 title: Fifty (50) Shelters
-description: Find Me Orange. Fifty shelter pack. A 16% volume discount!
+description: >-
+  Find Me Orange. Fifty shelter pack. Best for medium-sized organizations
+  looking to A 16% volume discount!
 price: '499.50'
 order: 3
 featured: true
 seo:
-  title: "(50) Orange Shelter"
+  title: (50) Orange Shelter
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
     - name: 'og:type'
@@ -34,7 +36,7 @@ seo:
 layout: product
 default_thumbnail_image: images/tent_01.png
 default_original_image: images/tent_01.png
-category:
+category: null
 ---
 
 # Nulla suscipit
