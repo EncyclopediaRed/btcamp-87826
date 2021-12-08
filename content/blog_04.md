@@ -4,7 +4,7 @@ page_css_class: Blog 4
 white_header: false
 sections:
   - section_id: lorem-ipsum
-    headline: Blog 4: Snipcart & Büt Camp
+    headline: "Blog 4: Snipcart & Büt Camp"
     subtitle: |
       How the Snipcart plugin has advanced the Büt Camp e-commerce site
     type: header_section
