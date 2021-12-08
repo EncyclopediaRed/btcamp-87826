@@ -77,7 +77,7 @@ sections:
 
 
           There are 3 primary concepts involved in a data trust (Ada Lovelace
-          Institute and AI Council 2021):<br />
+          Institute and AI Council 2021):<br /><br />
           
           1. There is a clear intention to establish a trust
           2. The subject matter or property of the Trust is defined
