@@ -1,12 +1,12 @@
 ---
 id: '1'
 title: Single (1) Shelter
-description: Find Me Orange. One shelter to rule them all.
+description: Find Me Orange. One shelter to rule them all. One orange shelter pack.
 price: '11.99'
 order: 1
 featured: true
 seo:
-  title: "(1) Orange Shelter"
+  title: (1) Orange Shelter
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
     - name: 'og:type'
