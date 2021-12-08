@@ -23,7 +23,7 @@ sections:
           processing merchant did.<br /><br />
 
           Snipcart is chiefly a payment gateway. This means Snipcart acts as
-          like a point-of-sale terminal. The credit card information entered os
+          like a point-of-sale terminal. The credit card information entered is
           never stored by Snipcart, and more importantly never stored by Büt
           Camp, Inc. A payment processor, for example Braintree, does store the
           credit card information in a vault. But Braintree like other

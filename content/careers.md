@@ -65,7 +65,7 @@ sections:
          <li> Strong communications skills </li>
          </ul> <br />
          <h4><b>Yearly Salary</b></h4> $60,000 - $70,000 </br></br>
-         <h4><b>Closing Date</b></h4> Applications are accepted until February 1, 2022. We'd like to fill this position later in the first quarter, to allow for individual sales to stabilize for manufacturing forecasting prior to creating partnerships with larger government entities and departments.</br>
+         <h4><b>Closing Date</b></h4> Applications are accepted until February 1, 2022. We want to fill this position later in the first quarter to stabilize individual sales for manufacturing forecasting before creating partnerships with larger government entities and departments.</br>
       - title: Warehouse Operations Manager - Full Time
         description: >
          <h4><b>Responsibilities </b></h4>
