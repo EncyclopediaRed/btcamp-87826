@@ -1,12 +1,12 @@
 ---
 id: '9'
 title: Single (1) Shelter
-description: Greeny McGreenface. One shelter to rule them all.
+description: "Greeny McGreenface. One shelter to rule them all.\_One green shelter pack perfect for day hikers and travelers' emergency planning."
 price: '11.99'
 order: 9
 featured: true
 seo:
-  title: "(1) Green Shelter"
+  title: (1) Green Shelter
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
     - name: 'og:type'
