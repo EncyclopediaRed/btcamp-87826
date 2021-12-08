@@ -1,7 +1,9 @@
 ---
 id: '1'
 title: Single (1) Shelter
-description: Find Me Orange. One shelter to rule them all. One orange shelter pack.
+description: >-
+  Find Me Orange. One shelter to rule them all. One orange shelter pack perfect
+  for day hikers and travelers' emergency planning.
 price: '11.99'
 order: 1
 featured: true
