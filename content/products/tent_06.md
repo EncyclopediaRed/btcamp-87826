@@ -1,12 +1,12 @@
 ---
 id: '6'
 title: Five (5) Shelters
-description: Rally Red. Five shelter pack. 8% Volume discount!
+description: "Rally Red. Five shelter pack.\_Great for emergency supplies for a family or small group.\_8% Volume discount!"
 price: '54.95'
 order: 6
 featured: true
 seo:
-  title: "(5) Red Shelter"
+  title: (5) Red Shelter
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
     - name: 'og:type'
@@ -34,7 +34,7 @@ seo:
 layout: product
 default_thumbnail_image: images/tent_02_red.png
 default_original_image: images/tent_02_red.png
-category:
+category: null
 ---
 
 # Nulla suscipit
