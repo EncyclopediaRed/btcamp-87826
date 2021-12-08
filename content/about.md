@@ -39,7 +39,7 @@ sections:
   - type: header_section
     section_id: header_section
     background_image: /images/leaf-light-greay.svg
-    headline: Meat the Team
+    headline: Meet the Team
   - type: bulletpoints_section
     section_id: bulletpoints_section
     headLine: Meet the Team
