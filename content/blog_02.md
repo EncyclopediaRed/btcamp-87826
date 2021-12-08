@@ -83,8 +83,7 @@ sections:
          
           2. The subject matter or property of the Trust is defined<br />
           
-          3. The beneficiaries of the Trust are specified (including as a
-          conceptual category rather than nominally)
+          3. The beneficiaries of the Trust are specified (including as a conceptual category rather than nominally)<br />
 
 
           Data Trusts are used in several fields, including social media,
