@@ -3,7 +3,8 @@ id: '3'
 title: Fifty (50) Shelters
 description: >-
   Find Me Orange. Fifty shelter pack. Best for medium-sized organizations
-  looking to A 16% volume discount!
+  looking to prepare for emergencies and disaster recovery. A 16% volume
+  discount!
 price: '499.50'
 order: 3
 featured: true
