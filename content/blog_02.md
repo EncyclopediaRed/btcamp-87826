@@ -30,7 +30,7 @@ sections:
           US they are only just being introduced in Congress (for example, see
           H.R.4240 - 117th Congress (2021-2022): User Data Protection Act.
           (2021, June 29).
-          <https://www.congress.gov/bill/117th-congress/house-bill/4240).>
+          (<https://www.congress.gov/bill/117th-congress/house-bill/4240).>
 
           General Data Protection Regulation (<https://gdpr-info.eu/>) do exist,
           as well as the Personal Data Protection Bill, however, current data
@@ -43,11 +43,10 @@ sections:
           much to manage, and often the way it is presented to consumers makes
           it difficult for them to make informed choices. In this context,
           clicking “I agree” without reading privacy policies is an act of
-          surrender, not of consent” (Scassa 2018).<br /><br />
+          surrender, not of consent” (Scassa 2018).
 
 
           We hear you, Teresa.<br /><br />
-
 
 
           Recently there have been calls for companies to answer for how they
