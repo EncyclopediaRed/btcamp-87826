@@ -1,12 +1,14 @@
 ---
 id: '4'
 title: Bulk (1000) Shelters
-description: Find Me Orange. Bulk purchase shelter pack. A HUGE 20% bulk discount!
+description: >-
+  Find Me Orange. Bulk purchase shelter pack. Perfect for large-organization
+  emergency planning and disaster recovery. A HUGE 20% bulk discount!
 price: '9500'
 order: 4
 featured: true
 seo:
-  title: "(1000) Orange Shelter"
+  title: (1000) Orange Shelter
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
     - name: 'og:type'

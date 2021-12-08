@@ -1,12 +1,12 @@
 ---
 id: '8'
 title: Bulk (1000) Shelters
-description: Rally Red. Bulk purchase shelter pack. A HUGE 20% bulk discount!
+description: "Rally Red. Bulk purchase shelter pack.\_Perfect for large-organization emergency planning and disaster recovery.\_A HUGE 20% bulk discount!"
 price: '9500'
 order: 8
 featured: true
 seo:
-  title: "(1000) Red Shelter"
+  title: (1000) Red Shelter
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
     - name: 'og:type'

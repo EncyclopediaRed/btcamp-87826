@@ -1,12 +1,12 @@
 ---
 id: '11'
 title: Fifty (50) Shelters
-description: Greeny McGreenface. Fifty shelter pack. A 16% volume discount!
+description: "Greeny McGreenface. Fifty shelter pack.\_Best for medium-sized organizations looking to prepare for emergencies and disaster recovery.\_A 16% volume discount!"
 price: '499.50'
 order: 11
 featured: true
 seo:
-  title: "(50) Green Shelter"
+  title: (50) Green Shelter
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
     - name: 'og:type'
@@ -34,7 +34,7 @@ seo:
 layout: product
 default_thumbnail_image: images/tent_02_green.png
 default_original_image: images/tent_02_green.png
-category:
+category: null
 ---
 
 # Nulla suscipit

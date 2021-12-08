@@ -1,12 +1,14 @@
 ---
 id: '2'
 title: Five (5) Shelters
-description: Find Me Orange. Five shelter pack. 8% Volume discount!
+description: >-
+  Find Me Orange. Five shelter pack. Great for emergency supplies for a family
+  or small group. 8% Volume discount!
 price: '54.95'
 order: 2
 featured: true
 seo:
-  title: "(5) Orange Shelter"
+  title: (5) Orange Shelter
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
     - name: 'og:type'
@@ -34,7 +36,7 @@ seo:
 layout: product
 default_thumbnail_image: images/tent_01.png
 default_original_image: images/tent_01.png
-category:
+category: null
 ---
 
 # Nulla suscipit
