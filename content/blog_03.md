@@ -40,7 +40,9 @@ sections:
           web developers can make their content more "accessible to people with
           disabilities" and achieve a A11Y friendly site (4) The A11Y Project is
           a "living example of how to create beautiful, accessible, and
-          inclusive digital experiences."5 Büt Camp, Inc. wishes to participate
+          inclusive digital experiences (5)." <br /><br />
+          
+          Büt Camp, Inc. wishes to participate
           and plans to identify deficiencies in their web code base to make
           their shopping experience as inclusive as possible. We hope to
           complete the work in the beginning of 2022 and prior to launching a
@@ -52,12 +54,12 @@ sections:
           emergency shelters and offer up an expanding array of temporary PLA 3D
           printed goods and services. As PLA filament is easily printed with,
           the nature of PLA makes the durability and heat resistance less than a
-          traditional plastic like ABS or PET. But better for the environment.<br />
+          traditional plastic like ABS or PET. But better for the environment.<br /><br />
 
 
           First, BCI plans to expand it's storefront by introducing a free
           marketplace for users to share 3D plans that will work with PLA
-          filaments. Allowing users to share their designs with others.<br />
+          filaments. Allowing users to share their designs with others.<br /><br />
 
 
           Second, BCI hopes to enter the professionally PLA 3D printed space by
