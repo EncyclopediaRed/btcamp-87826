@@ -1,12 +1,12 @@
 ---
 id: '4'
 title: Single (1) Shelter
-description: Rally Red. One shelter to rule them all.
+description: "Rally Red. One shelter to rule them all.\_One red shelter pack perfect for day hikers and travelers' emergency planning."
 price: '11.99'
 order: 4
 featured: true
 seo:
-  title: "(1) Red Shelter"
+  title: (1) Red Shelter
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
     - name: 'og:type'
