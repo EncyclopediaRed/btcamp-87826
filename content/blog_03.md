@@ -19,15 +19,15 @@ sections:
       - title: Progressive Web App (PWA)
         description: >
           A PWA uses "service workers, manifests, and other web-platform
-          features in combination with progressive enhancement"1 to achieve an
-          app-like experience across multiple platforms including but not
+          features in combination with progressive enhancement" (1) to achieve
+          an app-like experience across multiple platforms including but not
           limited to Mac, Windows, Linux, Android, and iOS devices. PWAs run in
           browsers but use the features above to deliver functions like
           installation on the device, address hardware like the camera or
-          speaker and mic, push notifications, and easy updating.2 One of the
+          speaker and mic, push notifications, and easy updating (2). One of the
           best features is data storage for quick retrieval of data and the
-          added benefit of caching that data in case of a loss of network
-          signal.3
+          added benefit of caching that data in case of a loss of network signal
+          (3).
 
           Because the PWA can be designed to look like any native app the user
           enjoys a recognizable experience that is as rich as a native app.
