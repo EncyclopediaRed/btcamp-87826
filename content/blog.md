@@ -40,9 +40,8 @@ sections:
         image: images/AdobeStock_4026930932.jpeg
       - title: 'Blog Post 4: Snipcart'
         description: >
-          What plugin(s) would help your website/business and why? This can be a
-          WordPress or Ecwid or some other plugin.  No need to purchase or
-          install the plugin – research only.
+          What plugin would help our website and business, and why do we want
+          it? 
 
 
           ## [Click here to continue...](/blog\_04)
