@@ -48,7 +48,7 @@ sections:
          <li> Local and federal government relations experience is a plus </li>
          </ul> <br />
          <h4><b>Yearly Salary</b></h4> $65,000 - $80,000</br></br>
-         <h4><b>Closing Date</b></h4> Applications are accepted until January 1, 2022</br>
+         <h4><b>Closing Date</b></h4> Applications are accepted until January 1, 2022. We'd like to fill this position immediately, to begin formulating, implementing, and measuring bold new marketing strategies</br>
       - title: Government Relations/Sales Manager - Full Time
         description: >
          <h4><b>Responsibilities </b></h4>
@@ -65,7 +65,7 @@ sections:
          <li> Strong communications skills </li>
          </ul> <br />
          <h4><b>Yearly Salary</b></h4> $60,000 - $70,000 </br></br>
-         <h4><b>Closing Date</b></h4> Applications are accepted until February 1, 2022</br>
+         <h4><b>Closing Date</b></h4> Applications are accepted until February 1, 2022. We'd like to fill this position later in the first quarter, to allow for individual sales to stabilize for manufacturing forecasting prior to creating partnerships with larger government entities and departments.</br>
       - title: Warehouse Operations Manager - Full Time
         description: >
          <h4><b>Responsibilities </b></h4>
@@ -82,7 +82,7 @@ sections:
          <li> Effective communications skills with customers and coworkers </li>
          </ul> <br />
          <h4><b>Yearly Salary</b></h4> $50,000 - $70,000</br></br>
-         <h4><b>Closing Date</b></h4> Applications are accepted until January 1, 2022</br>
+         <h4><b>Closing Date</b></h4> Applications are accepted until January 1, 2022. We'd like to fill this position immediately, as we are actively shipping and receiving units and need a manager to oversee the purchasing and forecasting as soon as possible.</br>
       - title: Customer Support Specialist - Full Time
         description: >
          <h4><b>Responsibilities </b></h4>
@@ -101,7 +101,7 @@ sections:
          <li> Excellent communication skills </li>
          </ul> <br />
          <h4><b>Yearly Salary</b></h4> $30,000 - $45,000</br></br>
-         <h4><b>Closing Date</b></h4> Applications are accepted until January 1, 2022</br>
+         <h4><b>Closing Date</b></h4> Applications are accepted until January 1, 2022. We'd like to fill this position immediately, to begin supporting our individual customers as soon as possible.</br>
 
   - type: contact_section
     section_id: lorem-ipsum
