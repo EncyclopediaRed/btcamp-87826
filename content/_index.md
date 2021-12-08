@@ -34,12 +34,12 @@ sections:
           disaster and emergency responders. The Büt Camp tent fits in your hand
           and uses no poles or extra equipment.
 
-          Simply unfold and blow to inflate. Use for up to 7 days and then
+          Simply unfold and blow to inflate. Use for up-to 7 days and then
           discard. Büt Camp tents are made of biodegradable plastic derived from
           cornstarch.
 
           Simply add the tents in the colors you prefer to your cart and pay
-          with a credit card on our super fast and easy-to-use e-commerce store.
+          with a credit card on our super fast and easy to use e-commerce store.
 
           The store isn't just for individuals either! Governments and rescue
           organizations can also purchase in bulk right up to 1000 units at a
