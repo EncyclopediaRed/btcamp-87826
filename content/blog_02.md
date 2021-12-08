@@ -43,7 +43,7 @@ sections:
           much to manage, and often the way it is presented to consumers makes
           it difficult for them to make informed choices. In this context,
           clicking “I agree” without reading privacy policies is an act of
-          surrender, not of consent” (Scassa 2018).
+          surrender, not of consent” (Scassa 2018).\<br />\<br />
 
 
           We hear you, Teresa.<br /><br />
