@@ -38,12 +38,13 @@ sections:
           "a" and "y". By creating web code that adheres to the guidelines set
           forth by the Web Content Accessibility Guidelines (WCAG) of the W3C
           web developers can make their content more "accessible to people with
-          disabilities" and achieve a A11Y friendly site.4 The A11Y Project is a
-          "living example of how to create beautiful, accessible, and inclusive
-          digital experiences."5 Büt Camp, Inc. wishes to participate and plans
-          to identify deficiencies in their web code base to make their shopping
-          experience as inclusive as possible. We hope to complete the work in
-          the beginning of 2022 and prior to launching a PWA.
+          disabilities" and achieve a A11Y friendly site (4) The A11Y Project is
+          a "living example of how to create beautiful, accessible, and
+          inclusive digital experiences."5 Büt Camp, Inc. wishes to participate
+          and plans to identify deficiencies in their web code base to make
+          their shopping experience as inclusive as possible. We hope to
+          complete the work in the beginning of 2022 and prior to launching a
+          PWA.
       - title: 3D Polylactic Acid (PLA) Store Front
         description: >
           As a champion of what can be achieved with the eco-friendly PLA
