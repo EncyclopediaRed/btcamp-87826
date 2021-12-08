@@ -122,15 +122,9 @@ sections:
       - title: References
         description: >
           Ries, E. (2011). *The Lean Startup: How Today's Entrepreneurs Use
-          Continuous Innovation to Create Radically Successful Businesses.* Crown
-          Publishing Group, New York. ISBN 9780307887894
+          Continuous Innovation to Create Radically Successful Businesses.*
+          Crown Publishing Group, New York. ISBN 9780307887894
     type: bulletpoints_section
-  - section_id: lorem-ipsum
-    address: '357 Fannypack Dr. Blacksburg, VA 24061'
-    phone: +1-555-288-2267
-    email: info@bütcamp.com
-    mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
-    type: contact_section
 seo:
   title: ''
   description: ''
